@@ -1,0 +1,52 @@
+name: Deploy Bharat GitHub Pages
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          static_site_generator: none
+
+      - name: Prepare Pages Site
+        run: |
+
+          mkdir pages
+
+          cp index.html pages/index.html
+
+          echo "bharat.vidhwaan.com" > pages/CNAME
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: pages
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Show Website URL
+        run: |
+          echo "GitHub Pages deployment completed."
+          echo "Website: https://bharat.vidhwaan.com"
