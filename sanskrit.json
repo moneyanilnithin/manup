@@ -1,0 +1,463 @@
+[
+  {
+    "id": "vidhwaan-business",
+    "name": "Vidhwaan Business",
+    "category": "व्यापारसेवाः",
+    "badge": "अस्माकं व्यापारमञ्चम्",
+    "description": "Vidhwaan Business भवतः व्यापारस्य डिजिटलरूपेण आरम्भे विकासे च साहाय्यं करोति। भवतः आवश्यकतानुसारं ई-कॉमर्स् अनुप्रयोगान्, व्यापार-जालपुटानि, मोबाइल् अनुप्रयोगान् तथा अन्यान् डिजिटल् व्यापारसमाधानान् निर्मातुं शक्नोति।",
+    "url": "https://business.vidhwaan.com",
+    "icon": "https://business.vidhwaan.com/logo.png",
+    "featured": false
+  },
+
+  {
+    "id": "vidhai",
+    "name": "VidhAI",
+    "category": "AI सेवाः",
+    "badge": "अस्माकं AI दलम्",
+    "description": "अस्माकं AI दलस्य साहाय्येन स्वविचारान् वास्तविकपरियोजनासु परिवर्तयतु। स्वपरियोजनायाः आवश्यकताः बजटं च प्रेषयित्वा AI समाधानानि, व्यापार-स्वचालनं, जालपुटानि, मोबाइल् अनुप्रयोगान् तथा भवतः आवश्यकतानुसारं सॉफ्टवेयर् विकाससेवाः प्राप्तुं शक्नोति।",
+    "url": "https://vidhai.vidhwaan.com",
+    "icon": "https://vidhai.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+
+  {
+    "id": "neet",
+    "name": "VIDHWAAN NEET",
+    "category": "शिक्षा",
+    "badge": "३६५-दिनात्मक NEET सज्जता",
+    "description": "पाठ्यक्रमानुसारं निर्मितः ३६५-दिनात्मकः NEET सज्जता-अनुप्रयोगः। दैनिकैः अवधारणाभिः, व्याख्याभिः तथा अभ्यास-MCQ प्रश्नैः स्वस्य NEET सज्जतां सुदृढां करोतु।",
+    "url": "https://neet.vidhwaan.com",
+    "icon": "https://neet.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+
+  {
+    "id": "kidlab",
+    "name": "KidLab",
+    "category": "विज्ञानं शिक्षणं च",
+    "badge": "अन्तःक्रियात्मकः विज्ञान-अनुप्रयोगः",
+    "description": "विद्यार्थिभ्यः मनोरञ्जकं शिक्षणं प्रदातुं अन्तःक्रियात्मकानि विज्ञान-अभियानानि, भविष्यकेन्द्रिताः प्रश्नोत्तराः, दृश्यव्याख्याः तथा आकर्षकाः शैक्षणिकानुभवाः।",
+    "url": "https://villagekidlab.vidhwaan.com",
+    "icon": "https://villagekidlab.vidhwaan.com/icons/logo2.png",
+    "featured": false
+  },
+
+  {
+    "id": "calculator",
+    "name": "VIDHWAAN Calculator",
+    "category": "उपयोगिनः साधनानि",
+    "badge": "स्मार्ट् गणकः",
+    "description": "दैनिकगणनाः, प्रतिशतानि, छूटाः, वैज्ञानिकगणनाः तथा अन्याः उपयोगिनः गणनाः सुलभतया करोतु।",
+    "url": "https://calculator.vidhwaan.com",
+    "icon": "https://calculator.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+
+  {
+    "id": "ai-writer",
+    "name": "VIDHWAAN AI Writer",
+    "category": "AI सेवाः",
+    "badge": "AI-आधारितं सामग्रीनिर्माणम्",
+    "description": "AI द्वारा व्यावसायिकानि ब्लॉग्-लेखानि, लेखाः, सामाजिकमाध्यमानां पोस्ट्, ईमेल् तथा व्यापारसामग्रीं निर्मातु। विद्यार्थिभ्यः, सामग्रीनिर्मातृभ्यः, व्यावसायिकेभ्यः तथा सरलां बुद्धिमतीं च लेखनानुभूतिं इच्छद्भ्यः व्यवसायेभ्यः निर्मितम्।",
+    "url": "https://writer.vidhwaan.com",
+    "icon": "https://writer.vidhwaan.com/assets/icons/icon-512.png",
+    "featured": false
+  },
+
+  {
+    "id": "billwaan",
+    "name": "Billwaan App",
+    "category": "व्यापारः",
+    "badge": "बिल् तथा चालानानि",
+    "description": "बिल्, चालानानि, अनुमानानि, मूल्यप्रस्तावाः, रसीदाः तथा प्रोफॉर्मा चालानानि निर्मातु। व्यावसायिक-PDF सञ्चयितु, मुद्रयितु तथा साझां करोतु। व्यवसायेभ्यः, आपणिभ्यः, स्वतन्त्रव्यावसायिकेभ्यः तथा व्यावसायिकेभ्यः उपयुक्तम्।",
+    "url": "https://bill.vidhwaan.com",
+    "icon": "https://bill.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+
+  {
+    "id": "quotes",
+    "name": "Quotes",
+    "category": "प्रेरणा",
+    "badge": "दैनिकप्रेरणा",
+    "description": "प्रेरणादायकानि उद्धरणानि, प्रभावशालिनः विचाराः तथा दैनिकप्रेरणां प्रदातुं निर्मितां उत्कृष्टां सामग्रीं अन्विष्यताम्।",
+    "url": "https://quotes.vidhwaan.com",
+    "icon": "https://quotes.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+
+  {
+    "id": "code-notes",
+    "name": "Code & Notes",
+    "category": "उत्पादकता",
+    "badge": "विद्यार्थिभ्यः विकासकेभ्यः च",
+    "description": "टिप्पणीः लिखतु, विचारान् सञ्चयतु, कोडिङ्ग् अभ्यासं करोतु, कोड्-स्निपेट् सञ्चयतु तथा अध्ययनसामग्रीं एकस्मिन् स्थाने व्यवस्थितां करोतु। विद्यार्थिभ्यः, विकासकेभ्यः तथा आजीवनशिक्षकेभ्यः निर्मितम्।",
+    "url": "https://apps.vidhwaan.com/",
+    "icon": "https://utukur.vidhwaan.com/icons/dev.png",
+    "featured": false
+  },
+
+  {
+    "id": "clock",
+    "name": "VIDHWAAN Clock",
+    "category": "समयः",
+    "badge": "स्मार्ट् समय-अनुप्रयोगः",
+    "description": "डिजिटल् समयं, जीवितघण्टां, स्टॉपवॉच्, टाइमर्, अलार्म् तथा अन्यानि उपयोगीनि समयसाधनानि सुलभतया उपयोजयतु।",
+    "url": "https://clock.vidhwaan.com",
+    "icon": "https://clock.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+
+  {
+    "id": "vidhwaan-time",
+    "name": "VIDHWAAN Time",
+    "category": "समयः",
+    "badge": "अगामिपीढ्याः समयव्यवस्था",
+    "description": "सुन्दररूपेण निर्मिताभिः एनालॉग् तथा डिजिटल् घण्टाभिः VIDHWAAN Time System इत्यस्य अनुभवम् अनुभवन्तु। दैनिकजीवनाय भविष्यस्य स्मार्ट् उपकरणेभ्यः च निर्मितः वास्तविकसमय-घण्टानुभवः।",
+    "url": "https://time.vidhwaan.com",
+    "icon": "https://time.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+
+  {
+    "id": "ccl",
+    "name": "CCL",
+    "category": "क्रीडाः",
+    "badge": "Circle Cricket League",
+    "description": "अधिकृतं Circle Cricket League मञ्चम्। स्वस्य खिलाड़ीपत्रं निर्मातु, खिलाड़ी रूपेण पञ्जीकरणं करोतु तथा Circle 6 (C6) एवं Circle 12 (C12) प्रारूपाणि अन्विष्यताम्। ग्रामे उत्पन्नां नूतनां क्रीडां विश्वं प्रति नयतु।",
+    "url": "https://ccl.vidhwaan.com/",
+    "icon": "https://ccl.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+
+  {
+    "id": "app-store",
+    "name": "VIDHWAAN App Store",
+    "category": "Vidhwaan अनुप्रयोगाः",
+    "badge": "सर्वे Vidhwaan अनुप्रयोगाः एकस्मिन् स्थाने",
+    "description": "Vidhwaan अनुप्रयोगानाम् एकस्मिन् स्थाने प्रवेशाय अधिकृतम् अनुप्रयोगभाण्डारम्। आवश्यकं Vidhwaan अनुप्रयोगं सुलभतया अन्विष्य उपयोजयतु।",
+    "url": "https://store.vidhwaan.com",
+    "icon": "https://store.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+
+  {
+    "id": "vidhwaan-notifications",
+    "name": "VIDHWAAN Notifications",
+    "category": "Vidhwaan सूचना",
+    "badge": "Vidhwaan घोषणाः",
+    "description": "महत्त्वपूर्णाः Vidhwaan घोषणाः, नूतनाः अनुप्रयोगाः सेवाश्च, व्यापारावसराः, व्यापारप्रस्तावाः, विशेषकार्यक्रमाः तथा अन्याः अधिकृताः सूचनाः एकस्मिन् स्थाने प्राप्नुवन्तु।",
+    "url": "https://vidhwaan.com/notifications",
+    "icon": "https://vidhwaan.com/icons1/logo.png",
+    "featured": true
+  },
+
+  {
+    "id": "mygov",
+    "name": "MyGov India",
+    "category": "सर्वकारीयसेवाः",
+    "badge": "अधिकृतं सर्वकारीयजालपुटम्",
+    "description": "सर्वकारीयकार्यक्रमेषु भागं गृह्णीतु, स्वमतानि साझां करोतु तथा राष्ट्रविकासस्य उपक्रमाणां विषये सूचनां प्राप्नोतु।",
+    "url": "https://www.mygov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "aadhaar",
+    "name": "Aadhaar Services",
+    "category": "परिचयसेवाः",
+    "badge": "UIDAI",
+    "description": "आधारं डाउनलोड् करोतु तथा स्वस्य पता एवं मोबाइल् सङ्ख्यां अद्यतनां करोतु।",
+    "url": "https://uidai.gov.in/en/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "digilocker",
+    "name": "DigiLocker",
+    "category": "डिजिटल् दस्तावेजाः",
+    "badge": "Digital India",
+    "description": "आधार, PAN, अङ्कपत्राणि, चालक-अनुज्ञापत्राणि तथा अन्येषां डिजिटल् दस्तावेजानां प्रवेशं प्राप्नोतु।",
+    "url": "https://www.digilocker.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "pan",
+    "name": "Instant PAN Card",
+    "category": "आयकरः",
+    "badge": "PAN सेवाः",
+    "description": "नूतनस्य PAN कार्डस्य कृते आवेदनं करोतु तथा पात्रतायां सत्यां निःशुल्कं e-PAN प्राप्नोतु।",
+    "url": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan/getNewEpan",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "voter",
+    "name": "Voter Services",
+    "category": "निर्वाचनानि",
+    "badge": "Election Commission of India",
+    "description": "Voter ID कृते आवेदनं करोतु, मतदाता-विवरणानि अद्यतनानि करोतु तथा मतदाता-सूच्यां स्वनाम अन्विष्यताम्।",
+    "url": "https://voters.eci.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "umang",
+    "name": "UMANG",
+    "category": "सर्वकारीयसेवाः",
+    "badge": "सर्वसेवासमेकम्",
+    "description": "एकस्मिन् स्थाने PF, पेन्शन्, गैस्, आधार तथा सहस्राधिकानां सर्वकारीयसेवानां प्रवेशं प्राप्नोतु।",
+    "url": "https://web.umang.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "parivahan",
+    "name": "Driving Licence & Vehicle Services",
+    "category": "परिवहनसेवाः",
+    "badge": "Parivahan Sewa",
+    "description": "चालक-अनुज्ञापत्रं, वाहनपञ्जीकरणं, RC तथा अन्यासां परिवहनसेवानां प्रवेशं प्राप्नोतु।",
+    "url": "https://parivahan.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "passport",
+    "name": "Passport Seva",
+    "category": "यात्रादस्तावेजाः",
+    "badge": "Ministry of External Affairs",
+    "description": "पासपोर्टस्य कृते आवेदनं करोतु, समयनिर्धारणं करोतु तथा स्वस्य आवेदनस्य स्थितिं अनुवीक्षताम्।",
+    "url": "https://www.passportindia.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "udyam",
+    "name": "MSME Registration",
+    "category": "व्यापारसेवाः",
+    "badge": "Udyam Registration Portal",
+    "description": "स्वव्यापारं MSME रूपेण पञ्जीकृत्य सर्वकारीयलाभानां प्रवेशं प्राप्नोतु।",
+    "url": "https://www.udyamregistration.gov.in/UdyamRegistration.aspx",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+
+  {
+    "id": "emergency",
+    "title": "आपत्कालः",
+    "number": "112",
+    "icon": "🚨",
+    "description": "पुलिस्, अग्निशमन, चिकित्सकीय तथा अन्येषां आपत्कालीनसहायतानां कृते भारतस्य एकीकृतः आपत्कालीनक्रमाङ्कः।"
+  },
+  {
+    "id": "cybercrime",
+    "title": "राष्ट्रीय साइबर अपराध हेल्पलाइन",
+    "number": "1930",
+    "icon": "🛡️",
+    "description": "साइबर-अपराधानां विशेषतः वित्तीय-साइबर-धोखाधडीं निवेदयितुं राष्ट्रीय हेल्पलाइन।"
+  },
+  {
+    "id": "women",
+    "title": "महिला हेल्पलाइन",
+    "number": "181",
+    "icon": "👩",
+    "description": "संकटे स्थितानां महिलानां तथा महिलासम्बद्धसेवानां कृते समर्थनं सहायता च प्रदात्री सर्वकारीय हेल्पलाइन।"
+  },
+  {
+    "id": "child",
+    "title": "बाल हेल्पलाइन",
+    "number": "1098",
+    "icon": "🧒",
+    "description": "संकटे स्थितेभ्यः बालकेभ्यः संरक्षणं, परिचर्या तथा आपत्कालीनसहायतां प्रदात्री राष्ट्रीय बाल हेल्पलाइन।"
+  },
+  {
+    "id": "elderline",
+    "title": "राष्ट्रीय वरिष्ठ नागरिक हेल्पलाइन",
+    "number": "14567",
+    "icon": "🧓",
+    "description": "वरिष्ठनागरिकेभ्यः समर्थनं, सूचनां, सहायतां तथा शिकायत्-सम्बद्धसहायतां प्रदात्री राष्ट्रीय Elderline सेवा।"
+  },
+  {
+    "id": "railways",
+    "title": "Indian Railways हेल्पलाइन",
+    "number": "139",
+    "icon": "🚂",
+    "description": "रेल्वे-सम्बद्धसूचनानां, शिकायतानां, सहायतायाः तथा आपत्कालीनसमर्थनस्य कृते एकीकृता Indian Railways हेल्पलाइन।"
+  },
+  {
+    "id": "consumer",
+    "title": "राष्ट्रीय उपभोक्ता हेल्पलाइन",
+    "number": "1915",
+    "icon": "🛍️",
+    "description": "उपभोक्तृशिकायतानां पञ्जीकरणाय तथा तासां विषये सहाय्यार्थं भारतसर्वकारस्य हेल्पलाइन।"
+  },
+  {
+    "id": "highways",
+    "title": "राष्ट्रीय राजमार्ग हेल्पलाइन",
+    "number": "1033",
+    "icon": "🛣️",
+    "description": "राष्ट्रीयराजमार्गेषु आपत्कालीनस्थितीनां, वाहनदोषाणां, एम्बुलेन्स् तथा अन्यसहायतानां कृते 24x7 राष्ट्रीय राजमार्ग हेल्पलाइन।"
+  },
+  {
+    "id": "gas",
+    "title": "LPG रिसाव आपत्कालीन हेल्पलाइन",
+    "number": "1906",
+    "icon": "🔥",
+    "description": "LPG रिसावस्य तथा तत्सम्बद्धानां LPG सुरक्षापत्कालीनस्थितीनां निवेदनाय अखिलभारतीय 24x7 आपत्कालीन हेल्पलाइन।"
+  },
+  {
+    "id": "voter",
+    "title": "राष्ट्रीय मतदाता हेल्पलाइन",
+    "number": "1950",
+    "icon": "🗳️",
+    "description": "मतदाता-पञ्जीकरणस्य, मतदाता-सूच्याः सूचनायाः, मतदानकेन्द्र-विवरणस्य तथा निर्वाचनसम्बद्धसहायतायाः कृते Election Commission of India हेल्पलाइन।"
+  },
+  {
+    "id": "electricity",
+    "title": "विद्युत् शिकायत हेल्पलाइन",
+    "number": "1912",
+    "icon": "⚡",
+    "description": "विद्युत् वितरण-उपक्रमैः विद्युत्-आपूर्तेः तथा विद्युत्-सम्बद्धशिकायतानां निवेदनाय प्रयुज्यमानः शॉर्ट् कोड्।"
+  },
+  {
+    "id": "aadhaar",
+    "title": "UIDAI Aadhaar हेल्पलाइन",
+    "number": "1947",
+    "icon": "🆔",
+    "description": "आधार-नामाङ्कनस्य, अद्यतनस्य, प्रमाणीकरणस्य, स्थितेः तथा अन्यासां आधार-सम्बद्धसहायतानां कृते अधिकृता UIDAI हेल्पलाइन।"
+  },
+  {
+    "id": "kisan",
+    "title": "किसान कॉल सेन्टर",
+    "number": "1800-180-1551",
+    "icon": "🌾",
+    "description": "कृषिः तथा सम्बद्धक्षेत्राणां विषये कृषकेभ्यः सूचनां परामर्शं च प्रदात्री राष्ट्रव्यापिनी टोल्-फ्री कृषि हेल्पलाइन।"
+  },
+  {
+    "id": "tele_manas",
+    "title": "Tele-MANAS मानसिक स्वास्थ्य हेल्पलाइन",
+    "number": "14416",
+    "icon": "🧠",
+    "description": "मानसिकस्वास्थ्यसमर्थनं तथा सहायता प्रदात्री भारतसर्वकारस्य राष्ट्रीय टेली-मानसिक स्वास्थ्य सेवा।"
+  },
+  {
+    "id": "ayushman",
+    "title": "Ayushman Bharat PM-JAY हेल्पलाइन",
+    "number": "14555",
+    "icon": "🏥",
+    "description": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana विषये सूचनायै तथा लाभार्थिसहायतायै राष्ट्रीय हेल्पलाइन।"
+  },
+  {
+    "id": "anti_ragging",
+    "title": "राष्ट्रीय एंटी-रैगिंग हेल्पलाइन",
+    "number": "1800-180-5522",
+    "icon": "🎓",
+    "description": "शैक्षणिकसंस्थासु रैगिङ्गस्य निवेदनाय तथा तत्सम्बद्धसहायतां प्राप्तुं राष्ट्रीय टोल्-फ्री हेल्पलाइन।"
+  },
+  {
+    "id": "disaster",
+    "title": "आपदा प्रबन्धन हेल्पलाइन",
+    "number": "1078",
+    "icon": "🆘",
+    "description": "आपदाकाले तथा आपत्कालीनस्थितिषु सहाय्यार्थं सूचनायै च सर्वकारीया आपदाप्रबन्धन हेल्पलाइन।"
+  },
+  {
+    "id": "corruption_state",
+    "title": "भ्रष्टाचार-विरोधी / सतर्कता हेल्पलाइन",
+    "number": "1064",
+    "icon": "🔍",
+    "description": "रिश्वतखोरी तथा भ्रष्टाचारस्य शिकायतानां निवेदनाय State Vigilance तथा Anti-Corruption Bureaus द्वारा प्रयुज्यमाना भ्रष्टाचार-विरोधी तथा सतर्कता हेल्पलाइन।"
+  },
+  {
+    "id": "corruption_central",
+    "title": "Central Vigilance Commission",
+    "number": "1800-11-0180",
+    "icon": "⚖️",
+    "description": "स्वस्य अधिकारक्षेत्रस्य अन्तर्गतं सतर्कता तथा भ्रष्टाचारसम्बद्धविषयाणां कृते Central Vigilance Commission इत्यस्य टोल्-फ्री सम्पर्कक्रमाङ्कः।"
+  },
+
+  {
+    "id": "legal_aid",
+    "title": "National Legal Services Authority",
+    "number": "15100",
+    "icon": "⚖️",
+    "description": "निःशुल्क-कानूनीसेवानां विषये सूचनायै तथा सहाय्यार्थं राष्ट्रीय कानूनी-सहायता हेल्पलाइन।"
+  },
+
+  {
+    "id": 1,
+    "badge": "अधिकृतम्",
+    "time": "वैश्विकसञ्जालम्",
+    "title": "Vidhwaan",
+    "description": "ग्रामाधारितः वैश्विकः प्रौद्योगिकीसंस्थानः, Vidhwaan मञ्चानां, प्रौद्योगिकी-उत्पादानां, AI प्रणालीनां, सांस्कृतिकोपक्रमाणां, सामुदायिकपरियोजनानां तथा भविष्यस्य नवाचाराणां एकीकृतजालकेन्द्रे संयोजकः अधिकृतः डिजिटल् इकोसिस्टमः।",
+    "url": "https://vidhwaan.com"
+  },
+
+  {
+    "id": 2,
+    "badge": "प्रौद्योगिकी",
+    "time": "वैश्विकम्",
+    "title": "Vidhwaan Technologies",
+    "description": "स्टार्टअप्, उद्यमेभ्यः तथा विश्वस्य समुदायेषु कृते निर्मितं आधुनिकं डिजिटल् इन्फ्रास्ट्रक्चर्, स्वचालनप्रणाल्यः, क्लाउड्-नेटिव् मञ्चाः तथा विस्तारयोग्याः सॉफ्टवेयर् समाधानानि।",
+    "url": "https://tech.vidhwaan.com"
+  },
+
+  {
+    "id": 3,
+    "badge": "AI इकोसिस्टम",
+    "time": "फ्लैगशिप्",
+    "title": "Vidhwaan AI",
+    "description": "Vidhwaan इकोसिस्टममध्ये बुद्धिमत् सहायका:, स्वचालनप्रणाल्यः, उत्पादकतासाधनानि, ज्ञानयन्त्राणि तथा अगामिपीढ्याः डिजिटल् अनुभवाः समर्थयितुं निर्मितम् उन्नतं AI मञ्चम्।",
+    "url": "https://ai.vidhwaan.com"
+  },
+
+  {
+    "id": 4,
+    "badge": "व्यापारमञ्चम्",
+    "time": "व्यापारः",
+    "title": "Vidhwaan Business",
+    "description": "सरलया, आधुनिकया तथा सुलभया प्रौद्योगिक्या व्यवसायेभ्यः व्यावसायिकानि जालपुटानि तथा ई-कॉमर्स् अनुप्रयोगानि निर्मातुं सहाय्यं कुर्वन् डिजिटल् व्यापारमञ्चः।",
+    "url": "https://business.vidhwaan.com"
+  },
+
+  {
+    "id": 5,
+    "badge": "फाउण्डेशन",
+    "time": "सामाजिकप्रभावः",
+    "title": "Vidhwaan Foundation",
+    "description": "सुलभता, शिक्षा, समावेशनं तथा सामुदायिकसशक्तीकरणं केन्द्रितानि प्रौद्योगिकी-आधारितानि सामाजिकोपक्रमाणि।",
+    "url": "https://foundation.vidhwaan.com"
+  },
+
+  {
+    "id": 6,
+    "badge": "AI सेवाः",
+    "time": "स्मार्ट् स्वचालनम्",
+    "title": "VidhAI",
+    "description": "AI-आधारितं स्वचालनम्, बुद्धिमन्तः व्यापारसमाधानाः, जालपुटविकासः, कार्यप्रवाह-अनुकूलनं तथा आधुनिकं डिजिटल् रूपान्तरणसेवाः।",
+    "url": "https://vidhai.vidhwaan.com"
+  },
+
+  {
+    "id": 7,
+    "badge": "मार्केटप्लेस्",
+    "time": "विपणिः",
+    "title": "Online Shop",
+    "description": "आधुनिकेन ग्रामकेन्द्रितेन मार्केटप्लेस् इकोसिस्टमेन स्थानीयान् उत्पादान्, सेवाः तथा ग्रामव्यापारान् संयोजयन् डिजिटल् वाणिज्यमञ्चः।",
+    "url": "https://market.vidhwaan.com"
+  },
+
+  {
+    "type": "video",
+    "title": "Vidhwaan Ecommerce",
+    "youtube": "https://youtube.com/shorts/vbKKKwyrazM?si=EuTQHsb7JtQEmtnc",
+    "description": "बिना कस्यापि तान्त्रिकज्ञानस्य स्वस्य व्यावसायिकं Ecommerce अनुप्रयोगं निर्मातु!"
+  },
+
+  {
+    "type": "video",
+    "title": "Vidhwaan Global Website",
+    "youtube": "https://youtube.com/shorts/XzPM77G7k7k?si=bxUJY1f3TRzTYU7Y",
+    "description": "बिना कस्यापि तान्त्रिकज्ञानस्य स्वस्य व्यावसायिकं Global Website निर्मातु!"
+  },
+
+  {
+    "type": "video",
+    "title": "Vidhwaan NEET",
+    "youtube": "https://youtube.com/shorts/yJllgrJpHGI?si=JgHT4lJMW2vk1f2o",
+    "description": "भवतः NEET यात्रायै सुव्यवस्थितं ३६५-दिनात्मकं दैनिकसज्जतायोजनम्!"
+  }
+]

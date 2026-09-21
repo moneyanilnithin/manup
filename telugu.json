@@ -1,0 +1,437 @@
+[
+  {
+    "id": "vidhwaan-business",
+    "name": "Vidhwaan Business",
+    "category": "వ్యాపార సేవలు",
+    "badge": "మా వ్యాపార వేదిక",
+    "description": "Vidhwaan Business మీ వ్యాపారాన్ని డిజిటల్‌గా ప్రారంభించి అభివృద్ధి చేసుకోవడానికి సహాయపడుతుంది. మీ అవసరాలకు అనుగుణంగా ఈ-కామర్స్ యాప్‌లు, వ్యాపార వెబ్‌సైట్‌లు, మొబైల్ యాప్‌లు మరియు ఇతర డిజిటల్ వ్యాపార పరిష్కారాలను రూపొందించండి.",
+    "url": "https://business.vidhwaan.com",
+    "icon": "https://business.vidhwaan.com/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhai",
+    "name": "VidhAI",
+    "category": "AI సేవలు",
+    "badge": "మా AI బృందం",
+    "description": "మా AI బృందంతో మీ ఆలోచనలను నిజమైన ప్రాజెక్టులుగా మార్చుకోండి. మీ ప్రాజెక్ట్ అవసరాలు మరియు బడ్జెట్‌ను సమర్పించి, మీ అవసరాలకు అనుగుణంగా AI పరిష్కారాలు, వ్యాపార ఆటోమేషన్, వెబ్‌సైట్‌లు, మొబైల్ యాప్‌లు మరియు సాఫ్ట్‌వేర్ అభివృద్ధి సేవలను పొందండి.",
+    "url": "https://vidhai.vidhwaan.com",
+    "icon": "https://vidhai.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "neet",
+    "name": "VIDHWAAN NEET",
+    "category": "విద్య",
+    "badge": "365 రోజుల NEET తయారీ",
+    "description": "సిలబస్‌కు అనుగుణంగా రూపొందించిన 365 రోజుల NEET తయారీ యాప్. రోజువారీ కాన్సెప్ట్‌లు, వివరణలు మరియు ప్రాక్టీస్ MCQలతో మీ NEET తయారీని బలోపేతం చేసుకోండి.",
+    "url": "https://neet.vidhwaan.com",
+    "icon": "https://neet.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "kidlab",
+    "name": "KidLab",
+    "category": "సైన్స్ & లెర్నింగ్",
+    "badge": "ఇంటరాక్టివ్ సైన్స్ యాప్",
+    "description": "విద్యార్థులకు నేర్చుకోవడం సరదాగా ఉండేలా రూపొందించిన ఇంటరాక్టివ్ సైన్స్ లెర్నింగ్ మిషన్‌లు, భవిష్యత్‌పై దృష్టి పెట్టిన క్విజ్‌లు, దృశ్య వివరణలు మరియు ఆసక్తికరమైన విద్యా అనుభవాలు.",
+    "url": "https://villagekidlab.vidhwaan.com",
+    "icon": "https://villagekidlab.vidhwaan.com/icons/logo2.png",
+    "featured": false
+  },
+  {
+    "id": "calculator",
+    "name": "VIDHWAAN Calculator",
+    "category": "ఉపయోగకరమైన సాధనాలు",
+    "badge": "స్మార్ట్ కాలిక్యులేటర్",
+    "description": "రోజువారీ లెక్కలు, శాతాలు, డిస్కౌంట్లు, శాస్త్రీయ లెక్కలు మరియు అనేక ఇతర ఉపయోగకరమైన లెక్కలను సులభంగా చేయండి.",
+    "url": "https://calculator.vidhwaan.com",
+    "icon": "https://calculator.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "ai-writer",
+    "name": "VIDHWAAN AI Writer",
+    "category": "AI సేవలు",
+    "badge": "AI ఆధారిత కంటెంట్ సృష్టి",
+    "description": "AIతో ప్రొఫెషనల్ బ్లాగ్‌లు, ఆర్టికల్స్, సోషల్ మీడియా పోస్టులు, ఇమెయిల్స్ మరియు వ్యాపార కంటెంట్‌ను రూపొందించండి. సరళమైన మరియు తెలివైన రచనా అనుభవాన్ని కోరుకునే విద్యార్థులు, కంటెంట్ క్రియేటర్లు, ప్రొఫెషనల్స్ మరియు వ్యాపారాల కోసం రూపొందించబడింది.",
+    "url": "https://writer.vidhwaan.com",
+    "icon": "https://writer.vidhwaan.com/assets/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "billwaan",
+    "name": "Billwaan App",
+    "category": "వ్యాపారం",
+    "badge": "బిల్లులు & ఇన్‌వాయిస్‌లు",
+    "description": "బిల్లులు, ఇన్‌వాయిస్‌లు, అంచనాలు, కొటేషన్లు, రసీదులు మరియు ప్రొఫార్మా ఇన్‌వాయిస్‌లను రూపొందించండి. ప్రొఫెషనల్ PDFలను సేవ్ చేయండి, ప్రింట్ చేయండి మరియు షేర్ చేయండి. వ్యాపారాలు, దుకాణాలు, ఫ్రీలాన్సర్లు మరియు ప్రొఫెషనల్స్‌కు అనుకూలం.",
+    "url": "https://bill.vidhwaan.com",
+    "icon": "https://bill.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "quotes",
+    "name": "Quotes",
+    "category": "స్ఫూర్తి",
+    "badge": "రోజువారీ స్ఫూర్తి",
+    "description": "రోజువారీ ప్రేరణ మరియు స్ఫూర్తిని అందించడానికి రూపొందించిన స్ఫూర్తిదాయకమైన కోట్స్, శక్తివంతమైన ఆలోచనలు మరియు ప్రీమియం కంటెంట్‌ను కనుగొనండి.",
+    "url": "https://quotes.vidhwaan.com",
+    "icon": "https://quotes.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "code-notes",
+    "name": "Code & Notes",
+    "category": "ఉత్పాదకత",
+    "badge": "విద్యార్థులు & డెవలపర్ల కోసం",
+    "description": "నోట్స్ రాయండి, ఆలోచనలను సేవ్ చేయండి, కోడింగ్ ప్రాక్టీస్ చేయండి, కోడ్ స్నిప్పెట్లను నిల్వ చేయండి మరియు స్టడీ మెటీరియల్‌ను ఒకే చోట నిర్వహించండి. విద్యార్థులు, డెవలపర్లు మరియు జీవితాంతం నేర్చుకునే వారికి రూపొందించబడింది.",
+    "url": "https://apps.vidhwaan.com/",
+    "icon": "https://utukur.vidhwaan.com/icons/dev.png",
+    "featured": false
+  },
+  {
+    "id": "clock",
+    "name": "VIDHWAAN Clock",
+    "category": "సమయం",
+    "badge": "స్మార్ట్ టైమ్ యాప్",
+    "description": "డిజిటల్ సమయం, లైవ్ క్లాక్, స్టాప్‌వాచ్, టైమర్, అలారం మరియు ఇతర ఉపయోగకరమైన సమయ సాధనాలను సులభంగా ఉపయోగించండి.",
+    "url": "https://clock.vidhwaan.com",
+    "icon": "https://clock.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhwaan-time",
+    "name": "VIDHWAAN Time",
+    "category": "సమయం",
+    "badge": "తదుపరి తరం టైమ్ సిస్టమ్",
+    "description": "అందంగా రూపొందించిన అనలాగ్ మరియు డిజిటల్ క్లాక్‌ల ద్వారా VIDHWAAN Time Systemను అనుభవించండి. రోజువారీ జీవితం మరియు భవిష్యత్ స్మార్ట్ పరికరాల కోసం రూపొందించిన రియల్-టైమ్ క్లాక్ అనుభవం.",
+    "url": "https://time.vidhwaan.com",
+    "icon": "https://time.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "ccl",
+    "name": "CCL",
+    "category": "క్రీడలు",
+    "badge": "Circle Cricket League",
+    "description": "అధికారిక Circle Cricket League ప్లాట్‌ఫారమ్. మీ ప్లేయర్ కార్డ్‌ను రూపొందించండి, ప్లేయర్‌గా రిజిస్టర్ చేసుకోండి మరియు Circle 6 (C6), Circle 12 (C12) ఫార్మాట్‌లను తెలుసుకోండి. ఒక గ్రామంలో పుట్టిన కొత్త క్రీడను ప్రపంచానికి తీసుకెళ్లండి.",
+    "url": "https://ccl.vidhwaan.com/",
+    "icon": "https://ccl.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "app-store",
+    "name": "VIDHWAAN App Store",
+    "category": "Vidhwaan యాప్‌లు",
+    "badge": "అన్ని Vidhwaan యాప్‌లు ఒకే చోట",
+    "description": "Vidhwaan యాప్‌లను ఒకే చోట యాక్సెస్ చేయడానికి అధికారిక యాప్ స్టోర్. మీకు అవసరమైన Vidhwaan యాప్‌ను సులభంగా కనుగొని యాక్సెస్ చేయండి.",
+    "url": "https://store.vidhwaan.com",
+    "icon": "https://store.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhwaan-notifications",
+    "name": "VIDHWAAN Notifications",
+    "category": "Vidhwaan సమాచారం",
+    "badge": "Vidhwaan ప్రకటనలు",
+    "description": "ముఖ్యమైన Vidhwaan ప్రకటనలు, కొత్త యాప్‌లు మరియు సేవలు, వ్యాపార అవకాశాలు, వ్యాపార ప్రతిపాదనలు, ప్రత్యేక కార్యక్రమాలు మరియు ఇతర అధికారిక సమాచారాన్ని ఒకే చోట తెలుసుకుంటూ ఉండండి.",
+    "url": "https://vidhwaan.com/notifications",
+    "icon": "https://vidhwaan.com/icons1/logo.png",
+    "featured": true
+  },
+  {
+    "id": "mygov",
+    "name": "MyGov India",
+    "category": "ప్రభుత్వ సేవలు",
+    "badge": "అధికారిక ప్రభుత్వ పోర్టల్",
+    "description": "ప్రభుత్వ కార్యక్రమాల్లో పాల్గొనండి, మీ అభిప్రాయాలను పంచుకోండి మరియు జాతీయ అభివృద్ధి కార్యక్రమాల గురించి సమాచారాన్ని పొందండి.",
+    "url": "https://www.mygov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "aadhaar",
+    "name": "Aadhaar Services",
+    "category": "గుర్తింపు సేవలు",
+    "badge": "UIDAI",
+    "description": "ఆధార్‌ను డౌన్‌లోడ్ చేసుకోండి మరియు మీ చిరునామా, మొబైల్ నంబర్‌ను అప్‌డేట్ చేయండి.",
+    "url": "https://uidai.gov.in/en/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "digilocker",
+    "name": "DigiLocker",
+    "category": "డిజిటల్ పత్రాలు",
+    "badge": "Digital India",
+    "description": "ఆధార్, PAN, మార్క్‌షీట్లు, డ్రైవింగ్ లైసెన్స్‌లు మరియు ఇతర డిజిటల్ పత్రాలను యాక్సెస్ చేయండి.",
+    "url": "https://www.digilocker.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "pan",
+    "name": "Instant PAN Card",
+    "category": "ఆదాయపు పన్ను",
+    "badge": "PAN సేవలు",
+    "description": "కొత్త PAN కార్డ్ కోసం దరఖాస్తు చేసుకోండి మరియు అర్హత ఉంటే ఉచితంగా e-PAN పొందండి.",
+    "url": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan/getNewEpan",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "voter",
+    "name": "Voter Services",
+    "category": "ఎన్నికలు",
+    "badge": "Election Commission of India",
+    "description": "Voter ID కోసం దరఖాస్తు చేసుకోండి, ఓటరు వివరాలను అప్‌డేట్ చేయండి మరియు ఓటర్ల జాబితాలో శోధించండి.",
+    "url": "https://voters.eci.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "umang",
+    "name": "UMANG",
+    "category": "ప్రభుత్వ సేవలు",
+    "badge": "అన్నీ ఒకే చోట",
+    "description": "PF, పెన్షన్, గ్యాస్, ఆధార్ మరియు వేలాది ప్రభుత్వ సేవలను ఒకే చోట యాక్సెస్ చేయండి.",
+    "url": "https://web.umang.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "parivahan",
+    "name": "Driving Licence & Vehicle Services",
+    "category": "రవాణా సేవలు",
+    "badge": "Parivahan Sewa",
+    "description": "డ్రైవింగ్ లైసెన్స్, వాహన రిజిస్ట్రేషన్, RC మరియు ఇతర రవాణా సేవలను యాక్సెస్ చేయండి.",
+    "url": "https://parivahan.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "passport",
+    "name": "Passport Seva",
+    "category": "ప్రయాణ పత్రాలు",
+    "badge": "Ministry of External Affairs",
+    "description": "పాస్‌పోర్ట్ కోసం దరఖాస్తు చేసుకోండి, అపాయింట్‌మెంట్ బుక్ చేసుకోండి మరియు మీ దరఖాస్తు స్థితిని ట్రాక్ చేయండి.",
+    "url": "https://www.passportindia.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "udyam",
+    "name": "MSME Registration",
+    "category": "వ్యాపార సేవలు",
+    "badge": "Udyam Registration Portal",
+    "description": "మీ వ్యాపారాన్ని MSMEగా రిజిస్టర్ చేసుకుని ప్రభుత్వ ప్రయోజనాలను పొందండి.",
+    "url": "https://www.udyamregistration.gov.in/UdyamRegistration.aspx",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "emergency",
+    "title": "అత్యవసరం",
+    "number": "112",
+    "icon": "🚨",
+    "description": "పోలీస్, అగ్నిమాపక, వైద్య మరియు ఇతర అత్యవసర సహాయం కోసం భారతదేశం యొక్క ఏకీకృత అత్యవసర నంబర్."
+  },
+  {
+    "id": "cybercrime",
+    "title": "జాతీయ సైబర్ క్రైమ్ హెల్ప్‌లైన్",
+    "number": "1930",
+    "icon": "🛡️",
+    "description": "సైబర్ క్రైమ్ మరియు ముఖ్యంగా ఆర్థిక సైబర్ మోసాలను నివేదించడానికి జాతీయ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "women",
+    "title": "మహిళల హెల్ప్‌లైన్",
+    "number": "181",
+    "icon": "👩",
+    "description": "ఇబ్బందుల్లో ఉన్న మహిళలకు మరియు మహిళలకు సంబంధించిన సేవల కోసం సహాయం, మద్దతు అందించే ప్రభుత్వ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "child",
+    "title": "చైల్డ్ హెల్ప్‌లైన్",
+    "number": "1098",
+    "icon": "🧒",
+    "description": "ఇబ్బందుల్లో ఉన్న పిల్లలకు రక్షణ, సంరక్షణ మరియు అత్యవసర సహాయం అందించే జాతీయ చైల్డ్ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "elderline",
+    "title": "జాతీయ సీనియర్ సిటిజన్స్ హెల్ప్‌లైన్",
+    "number": "14567",
+    "icon": "🧓",
+    "description": "సీనియర్ సిటిజన్లకు మద్దతు, సమాచారం, సహాయం మరియు ఫిర్యాదుల పరిష్కార సహాయాన్ని అందించే జాతీయ Elderline సేవ."
+  },
+  {
+    "id": "railways",
+    "title": "Indian Railways హెల్ప్‌లైన్",
+    "number": "139",
+    "icon": "🚂",
+    "description": "రైల్వే సంబంధిత సమాచారం, ఫిర్యాదులు, సహాయం మరియు అత్యవసర మద్దతు కోసం సమగ్ర Indian Railways హెల్ప్‌లైన్."
+  },
+  {
+    "id": "consumer",
+    "title": "జాతీయ వినియోగదారుల హెల్ప్‌లైన్",
+    "number": "1915",
+    "icon": "🛍️",
+    "description": "వినియోగదారుల ఫిర్యాదులను నమోదు చేయడానికి మరియు వాటిపై సహాయం పొందడానికి భారత ప్రభుత్వ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "highways",
+    "title": "జాతీయ రహదారుల హెల్ప్‌లైన్",
+    "number": "1033",
+    "icon": "🛣️",
+    "description": "జాతీయ రహదారులపై అత్యవసర పరిస్థితులు, వాహనాలు చెడిపోవడం, అంబులెన్స్ మరియు ఇతర సహాయం కోసం 24x7 జాతీయ రహదారుల హెల్ప్‌లైన్."
+  },
+  {
+    "id": "gas",
+    "title": "LPG లీకేజీ అత్యవసర హెల్ప్‌లైన్",
+    "number": "1906",
+    "icon": "🔥",
+    "description": "LPG లీకేజీ మరియు సంబంధిత LPG భద్రతా అత్యవసర పరిస్థితులను నివేదించడానికి భారతదేశం అంతటా 24x7 అత్యవసర హెల్ప్‌లైన్."
+  },
+  {
+    "id": "voter",
+    "title": "జాతీయ ఓటరు హెల్ప్‌లైన్",
+    "number": "1950",
+    "icon": "🗳️",
+    "description": "ఓటరు నమోదు, ఓటర్ల జాబితా సమాచారం, పోలింగ్ స్టేషన్ వివరాలు మరియు ఎన్నికలకు సంబంధించిన సహాయం కోసం Election Commission of India హెల్ప్‌లైన్."
+  },
+  {
+    "id": "electricity",
+    "title": "విద్యుత్ ఫిర్యాదుల హెల్ప్‌లైన్",
+    "number": "1912",
+    "icon": "⚡",
+    "description": "విద్యుత్ పంపిణీ సంస్థలు విద్యుత్ సరఫరా మరియు విద్యుత్‌కు సంబంధించిన ఫిర్యాదులను నమోదు చేయడానికి ఉపయోగించే షార్ట్ కోడ్."
+  },
+  {
+    "id": "aadhaar",
+    "title": "UIDAI Aadhaar హెల్ప్‌లైన్",
+    "number": "1947",
+    "icon": "🆔",
+    "description": "ఆధార్ నమోదు, అప్‌డేట్‌లు, ధృవీకరణ, స్థితి మరియు ఇతర ఆధార్ సంబంధిత సహాయం కోసం అధికారిక UIDAI హెల్ప్‌లైన్."
+  },
+  {
+    "id": "kisan",
+    "title": "Kisan Call Centre",
+    "number": "1800-180-1551",
+    "icon": "🌾",
+    "description": "వ్యవసాయం మరియు అనుబంధ రంగాలపై రైతులకు సమాచారం మరియు సలహాలను అందించే దేశవ్యాప్త టోల్-ఫ్రీ వ్యవసాయ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "tele_manas",
+    "title": "Tele-MANAS మానసిక ఆరోగ్య హెల్ప్‌లైన్",
+    "number": "14416",
+    "icon": "🧠",
+    "description": "మానసిక ఆరోగ్య మద్దతు మరియు సహాయం అందించే భారత ప్రభుత్వ జాతీయ టెలి-మెంటల్ హెల్త్ సర్వీస్."
+  },
+  {
+    "id": "ayushman",
+    "title": "Ayushman Bharat PM-JAY హెల్ప్‌లైన్",
+    "number": "14555",
+    "icon": "🏥",
+    "description": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana సమాచారం మరియు లబ్ధిదారుల సహాయం కోసం జాతీయ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "anti_ragging",
+    "title": "జాతీయ యాంటీ-రాగింగ్ హెల్ప్‌లైన్",
+    "number": "1800-180-5522",
+    "icon": "🎓",
+    "description": "విద్యా సంస్థల్లో రాగింగ్‌కు సంబంధించిన ఫిర్యాదులు చేయడానికి మరియు సహాయం పొందడానికి జాతీయ టోల్-ఫ్రీ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "disaster",
+    "title": "విపత్తు నిర్వహణ హెల్ప్‌లైన్",
+    "number": "1078",
+    "icon": "🆘",
+    "description": "విపత్తులు మరియు అత్యవసర పరిస్థితుల్లో సహాయం మరియు సమాచారం కోసం ప్రభుత్వ విపత్తు నిర్వహణ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "corruption_state",
+    "title": "అవినీతి నిరోధక / విజిలెన్స్ హెల్ప్‌లైన్",
+    "number": "1064",
+    "icon": "🔍",
+    "description": "లంచం మరియు అవినీతి ఫిర్యాదులను నివేదించడానికి State Vigilance మరియు Anti-Corruption Bureaus ఉపయోగించే అవినీతి నిరోధక మరియు విజిలెన్స్ హెల్ప్‌లైన్."
+  },
+  {
+    "id": "corruption_central",
+    "title": "Central Vigilance Commission",
+    "number": "1800-11-0180",
+    "icon": "⚖️",
+    "description": "తన పరిధిలోని విజిలెన్స్ మరియు అవినీతికి సంబంధించిన విషయాల కోసం Central Vigilance Commission టోల్-ఫ్రీ సంప్రదింపు నంబర్."
+  },
+  {
+    "id": "legal_aid",
+    "title": "National Legal Services Authority",
+    "number": "15100",
+    "icon": "⚖️",
+    "description": "ఉచిత న్యాయ సేవలకు సంబంధించిన సమాచారం మరియు సహాయం కోసం జాతీయ న్యాయ సహాయ హెల్ప్‌లైన్."
+  },
+  {
+    "id": 1,
+    "badge": "అధికారికం",
+    "time": "గ్లోబల్ నెట్‌వర్క్",
+    "title": "Vidhwaan",
+    "description": "Village Based Global Technology Company, Vidhwaan ప్లాట్‌ఫారమ్‌లు, టెక్నాలజీ ఉత్పత్తులు, AI సిస్టమ్‌లు, సాంస్కృతిక కార్యక్రమాలు, కమ్యూనిటీ ప్రాజెక్టులు మరియు భవిష్యత్ ఆవిష్కరణలను ఒకే సమగ్ర నెట్‌వర్క్‌లో అనుసంధానించే అధికారిక డిజిటల్ ఎకోసిస్టమ్.",
+    "url": "https://vidhwaan.com"
+  },
+  {
+    "id": 2,
+    "badge": "టెక్నాలజీ",
+    "time": "గ్లోబల్",
+    "title": "Vidhwaan Technologies",
+    "description": "ప్రపంచవ్యాప్తంగా స్టార్టప్‌లు, సంస్థలు మరియు కమ్యూనిటీల కోసం నిర్మించిన ఆధునిక డిజిటల్ ఇన్‌ఫ్రాస్ట్రక్చర్, ఆటోమేషన్ సిస్టమ్‌లు, క్లౌడ్-నేటివ్ ప్లాట్‌ఫారమ్‌లు మరియు స్కేలబుల్ సాఫ్ట్‌వేర్ పరిష్కారాలు.",
+    "url": "https://tech.vidhwaan.com"
+  },
+  {
+    "id": 3,
+    "badge": "AI ఎకోసిస్టమ్",
+    "time": "ఫ్లాగ్‌షిప్",
+    "title": "Vidhwaan AI",
+    "description": "Vidhwaan ఎకోసిస్టమ్ అంతటా ఇంటెలిజెంట్ అసిస్టెంట్‌లు, ఆటోమేషన్ సిస్టమ్‌లు, ఉత్పాదకత సాధనాలు, నాలెడ్జ్ ఇంజిన్‌లు మరియు తదుపరి తరం డిజిటల్ అనుభవాలకు శక్తినిచ్చే అధునాతన AI ప్లాట్‌ఫారమ్.",
+    "url": "https://ai.vidhwaan.com"
+  },
+  {
+    "id": 4,
+    "badge": "బిజినెస్ ప్లాట్‌ఫారమ్",
+    "time": "వ్యాపారం",
+    "title": "Vidhwaan Business",
+    "description": "సరళమైన, ఆధునిక మరియు అందరికీ అందుబాటులో ఉండే టెక్నాలజీ ద్వారా వ్యాపారాలు ప్రొఫెషనల్ వెబ్‌సైట్‌లు మరియు ఈ-కామర్స్ అప్లికేషన్‌లను రూపొందించడానికి సహాయపడే డిజిటల్ బిజినెస్ ప్లాట్‌ఫారమ్.",
+    "url": "https://business.vidhwaan.com"
+  },
+  {
+    "id": 5,
+    "badge": "ఫౌండేషన్",
+    "time": "సామాజిక ప్రభావం",
+    "title": "Vidhwaan Foundation",
+    "description": "అందుబాటు, విద్య, సమగ్రత మరియు కమ్యూనిటీ సాధికారతపై దృష్టి సారించే టెక్నాలజీ ఆధారిత సామాజిక కార్యక్రమాలు.",
+    "url": "https://foundation.vidhwaan.com"
+  },
+  {
+    "id": 6,
+    "badge": "AI సేవలు",
+    "time": "స్మార్ట్ ఆటోమేషన్",
+    "title": "VidhAI",
+    "description": "AI ఆధారిత ఆటోమేషన్, ఇంటెలిజెంట్ బిజినెస్ సొల్యూషన్స్, వెబ్‌సైట్ డెవలప్‌మెంట్, వర్క్‌ఫ్లో ఆప్టిమైజేషన్ మరియు ఆధునిక డిజిటల్ ట్రాన్స్‌ఫర్మేషన్ సేవలు.",
+    "url": "https://vidhai.vidhwaan.com"
+  },
+  {
+    "id": 7,
+    "badge": "మార్కెట్‌ప్లేస్",
+    "time": "మార్కెట్",
+    "title": "Online Shop",
+    "description": "ఆధునిక గ్రామ-కేంద్రీకృత మార్కెట్‌ప్లేస్ ఎకోసిస్టమ్ ద్వారా స్థానిక ఉత్పత్తులు, సేవలు మరియు గ్రామీణ వ్యాపారాలను అనుసంధానించే డిజిటల్ కామర్స్ ప్లాట్‌ఫారమ్.",
+    "url": "https://market.vidhwaan.com"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan Ecommerce",
+    "youtube": "https://youtube.com/shorts/vbKKKwyrazM?si=EuTQHsb7JtQEmtnc",
+    "description": "ఎలాంటి సాంకేతిక పరిజ్ఞానం లేకుండా మీ స్వంత ప్రొఫెషనల్ Ecommerce యాప్‌ను రూపొందించండి!"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan Global Website",
+    "youtube": "https://youtube.com/shorts/XzPM77G7k7k?si=bxUJY1f3TRzTYU7Y",
+    "description": "ఎలాంటి సాంకేతిక పరిజ్ఞానం లేకుండా మీ స్వంత ప్రొఫెషనల్ Global Website‌ను రూపొందించండి!"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan NEET",
+    "youtube": "https://youtube.com/shorts/yJllgrJpHGI?si=JgHT4lJMW2vk1f2o",
+    "description": "మీ NEET ప్రయాణం కోసం ఒక క్రమబద్ధమైన 365 రోజుల రోజువారీ తయారీ ప్రణాళిక!"
+  }
+]

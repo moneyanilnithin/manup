@@ -1,0 +1,437 @@
+[
+  {
+    "id": "vidhwaan-business",
+    "name": "Vidhwaan Business",
+    "category": "ব্যৱসায়িক সেৱা",
+    "badge": "আমাৰ ব্যৱসায়িক প্লেটফৰ্ম",
+    "description": "Vidhwaan Business-এ আপোনাক আপোনাৰ ব্যৱসায় ডিজিটেলভাৱে আৰম্ভ আৰু বিকাশ কৰাত সহায় কৰে। আপোনাৰ প্ৰয়োজন অনুসৰি ই-কমাৰ্চ এপ, ব্যৱসায়িক ৱেবছাইট, মোবাইল এপ আৰু অন্যান্য ডিজিটেল ব্যৱসায়িক সমাধান সৃষ্টি কৰক।",
+    "url": "https://business.vidhwaan.com",
+    "icon": "https://business.vidhwaan.com/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhai",
+    "name": "VidhAI",
+    "category": "AI সেৱা",
+    "badge": "আমাৰ AI দল",
+    "description": "আমাৰ AI দলৰ সহায়ত আপোনাৰ ধাৰণাক বাস্তৱ প্ৰকল্পলৈ ৰূপান্তৰ কৰক। আপোনাৰ প্ৰকল্পৰ প্ৰয়োজনীয়তা আৰু বাজেট জমা দিয়ক আৰু আপোনাৰ প্ৰয়োজন অনুসৰি AI সমাধান, ব্যৱসায়িক স্বয়ংক্ৰিয়কৰণ, ৱেবছাইট, মোবাইল এপ আৰু ছফ্টৱেৰ উন্নয়ন সেৱা লাভ কৰক।",
+    "url": "https://vidhai.vidhwaan.com",
+    "icon": "https://vidhai.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "neet",
+    "name": "VIDHWAAN NEET",
+    "category": "শিক্ষা",
+    "badge": "৩৬৫ দিনীয়া NEET প্ৰস্তুতি",
+    "description": "পাঠ্যক্ৰমৰ সৈতে সামঞ্জস্যপূৰ্ণ ৩৬৫ দিনীয়া NEET প্ৰস্তুতি এপ। দৈনিক ধাৰণা, ব্যাখ্যা আৰু অনুশীলনী MCQ-ৰ সহায়ত আপোনাৰ NEET প্ৰস্তুতি শক্তিশালী কৰক।",
+    "url": "https://neet.vidhwaan.com",
+    "icon": "https://neet.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "kidlab",
+    "name": "KidLab",
+    "category": "বিজ্ঞান আৰু শিক্ষণ",
+    "badge": "ইণ্টাৰেক্টিভ বিজ্ঞান এপ",
+    "description": "শিক্ষাৰ্থীৰ বাবে শিক্ষণক আনন্দদায়ক কৰি তুলিবলৈ ইণ্টাৰেক্টিভ বিজ্ঞান শিক্ষণ মিছন, ভৱিষ্যতমুখী কুইজ, দৃশ্যমান ব্যাখ্যা আৰু আকৰ্ষণীয় শিক্ষামূলক অভিজ্ঞতা।",
+    "url": "https://villagekidlab.vidhwaan.com",
+    "icon": "https://villagekidlab.vidhwaan.com/icons/logo2.png",
+    "featured": false
+  },
+  {
+    "id": "calculator",
+    "name": "VIDHWAAN Calculator",
+    "category": "উপযোগী সঁজুলি",
+    "badge": "স্মাৰ্ট কেলকুলেটৰ",
+    "description": "দৈনন্দিন গণনা, শতাংশ, ৰেহাই, বৈজ্ঞানিক গণনা আৰু আন বহুতো উপযোগী গণনা সহজে কৰক।",
+    "url": "https://calculator.vidhwaan.com",
+    "icon": "https://calculator.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "ai-writer",
+    "name": "VIDHWAAN AI Writer",
+    "category": "AI সেৱা",
+    "badge": "AI-চালিত বিষয়বস্তু সৃষ্টি",
+    "description": "AI-ৰ সহায়ত পেছাদাৰী ব্লগ, প্ৰবন্ধ, ছ’চিয়েল মিডিয়া পোষ্ট, ইমেইল আৰু ব্যৱসায়িক বিষয়বস্তু সৃষ্টি কৰক। সহজ আৰু বুদ্ধিমান লিখন অভিজ্ঞতা বিচৰা শিক্ষাৰ্থী, বিষয়বস্তু সৃষ্টিকৰ্তা, পেছাদাৰী ব্যক্তি আৰু ব্যৱসায়ৰ বাবে ডিজাইন কৰা হৈছে।",
+    "url": "https://writer.vidhwaan.com",
+    "icon": "https://writer.vidhwaan.com/assets/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "billwaan",
+    "name": "Billwaan App",
+    "category": "ব্যৱসায়",
+    "badge": "বিল আৰু ইনভইচ",
+    "description": "বিল, ইনভইচ, আনুমানিক মূল্যপত্ৰ, কোটেচন, ৰচিদ আৰু প্ৰফৰ্মা ইনভইচ সৃষ্টি কৰক। পেছাদাৰী PDF সংৰক্ষণ, প্ৰিন্ট আৰু শ্বেয়াৰ কৰক। ব্যৱসায়, দোকান, ফ্ৰীলান্সাৰ আৰু পেছাদাৰী ব্যক্তিৰ বাবে উপযোগী।",
+    "url": "https://bill.vidhwaan.com",
+    "icon": "https://bill.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "quotes",
+    "name": "Quotes",
+    "category": "প্ৰেৰণা",
+    "badge": "দৈনিক প্ৰেৰণা",
+    "description": "দৈনিক উৎসাহ আৰু প্ৰেৰণা যোগাবলৈ ডিজাইন কৰা অনুপ্ৰেৰণাদায়ক উক্তি, শক্তিশালী চিন্তা আৰু উন্নতমানৰ বিষয়বস্তু আৱিষ্কাৰ কৰক।",
+    "url": "https://quotes.vidhwaan.com",
+    "icon": "https://quotes.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "code-notes",
+    "name": "Code & Notes",
+    "category": "উৎপাদনশীলতা",
+    "badge": "শিক্ষাৰ্থী আৰু ডেভেলপাৰৰ বাবে",
+    "description": "এটা ঠাইতে টোকা লিখক, ধাৰণা সংৰক্ষণ কৰক, ক'ডিং অনুশীলন কৰক, ক'ড স্নিপেট সংৰক্ষণ কৰক আৰু অধ্যয়নৰ সামগ্ৰী সংগঠিত কৰক। শিক্ষাৰ্থী, ডেভেলপাৰ আৰু আজীৱন শিক্ষাৰ্থীৰ বাবে ডিজাইন কৰা হৈছে।",
+    "url": "https://apps.vidhwaan.com/",
+    "icon": "https://utukur.vidhwaan.com/icons/dev.png",
+    "featured": false
+  },
+  {
+    "id": "clock",
+    "name": "VIDHWAAN Clock",
+    "category": "সময়",
+    "badge": "স্মাৰ্ট সময় এপ",
+    "description": "ডিজিটেল সময়, লাইভ ঘড়ী, ষ্টপৱাচ, টাইমাৰ, এলাৰ্ম আৰু অন্যান্য উপযোগী সময়ৰ সঁজুলি সহজে ব্যৱহাৰ কৰক।",
+    "url": "https://clock.vidhwaan.com",
+    "icon": "https://clock.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhwaan-time",
+    "name": "VIDHWAAN Time",
+    "category": "সময়",
+    "badge": "পৰৱৰ্তী প্ৰজন্মৰ সময় ব্যৱস্থা",
+    "description": "সুন্দৰভাৱে ডিজাইন কৰা এনালগ আৰু ডিজিটেল ঘড়ীৰ জৰিয়তে VIDHWAAN Time System-ৰ অভিজ্ঞতা লাভ কৰক। দৈনন্দিন জীৱন আৰু ভৱিষ্যতৰ স্মাৰ্ট ডিভাইচৰ বাবে ডিজাইন কৰা বাস্তৱ-সময়ৰ ঘড়ীৰ অভিজ্ঞতা।",
+    "url": "https://time.vidhwaan.com",
+    "icon": "https://time.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "ccl",
+    "name": "CCL",
+    "category": "ক্ৰীড়া",
+    "badge": "Circle Cricket League",
+    "description": "Circle Cricket League-ৰ অফিচিয়েল প্লেটফৰ্ম। আপোনাৰ খেলুৱৈ কাৰ্ড সৃষ্টি কৰক, খেলুৱৈ হিচাপে পঞ্জীয়ন কৰক আৰু Circle 6 (C6) আৰু Circle 12 (C12) ফৰ্মেটৰ বিষয়ে জানক। এখন গাঁৱত জন্ম লোৱা নতুন খেলবিধক বিশ্বলৈ লৈ যাওক।",
+    "url": "https://ccl.vidhwaan.com/",
+    "icon": "https://ccl.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "app-store",
+    "name": "VIDHWAAN App Store",
+    "category": "Vidhwaan এপসমূহ",
+    "badge": "সকলো Vidhwaan এপ এটা ঠাইত",
+    "description": "এটা ঠাইতে Vidhwaan এপসমূহ ব্যৱহাৰ কৰাৰ অফিচিয়েল এপ ষ্ট'ৰ। আপোনাৰ প্ৰয়োজনীয় Vidhwaan এপ সহজে বিচাৰি উলিয়াই ব্যৱহাৰ কৰক।",
+    "url": "https://store.vidhwaan.com",
+    "icon": "https://store.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhwaan-notifications",
+    "name": "VIDHWAAN Notifications",
+    "category": "Vidhwaan তথ্য",
+    "badge": "Vidhwaan ঘোষণা",
+    "description": "গুৰুত্বপূৰ্ণ Vidhwaan ঘোষণা, নতুন এপ আৰু সেৱা, ব্যৱসায়িক সুযোগ, ব্যৱসায়িক প্ৰস্তাৱ, বিশেষ কাৰ্যসূচী আৰু অন্যান্য অফিচিয়েল তথ্য এটা ঠাইতে লাভ কৰি আপডেট হৈ থাকক।",
+    "url": "https://vidhwaan.com/notifications",
+    "icon": "https://vidhwaan.com/icons1/logo.png",
+    "featured": true
+  },
+  {
+    "id": "mygov",
+    "name": "MyGov India",
+    "category": "চৰকাৰী সেৱা",
+    "badge": "চৰকাৰী অফিচিয়েল প'ৰ্টেল",
+    "description": "চৰকাৰী কাৰ্যসূচীত অংশগ্ৰহণ কৰক, আপোনাৰ মতামত প্ৰকাশ কৰক আৰু ৰাষ্ট্ৰীয় উন্নয়নমূলক পদক্ষেপৰ বিষয়ে তথ্য লাভ কৰক।",
+    "url": "https://www.mygov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "aadhaar",
+    "name": "Aadhaar Services",
+    "category": "পৰিচয় সেৱা",
+    "badge": "UIDAI",
+    "description": "আধাৰ ডাউনলোড কৰক আৰু আপোনাৰ ঠিকনা আৰু মোবাইল নম্বৰ আপডেট কৰক।",
+    "url": "https://uidai.gov.in/en/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "digilocker",
+    "name": "DigiLocker",
+    "category": "ডিজিটেল নথিপত্ৰ",
+    "badge": "Digital India",
+    "description": "আধাৰ, PAN, মাৰ্কশ্বীট, ড্ৰাইভিং লাইচেঞ্চ আৰু অন্যান্য ডিজিটেল নথিপত্ৰ লাভ কৰক।",
+    "url": "https://www.digilocker.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "pan",
+    "name": "Instant PAN Card",
+    "category": "আয়কৰ",
+    "badge": "PAN সেৱা",
+    "description": "নতুন PAN কাৰ্ডৰ বাবে আবেদন কৰক আৰু যোগ্য হ'লে বিনামূলীয়াকৈ e-PAN লাভ কৰক।",
+    "url": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan/getNewEpan",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "voter",
+    "name": "Voter Services",
+    "category": "নিৰ্বাচন",
+    "badge": "ভাৰতীয় নিৰ্বাচন আয়োগ",
+    "description": "ভোটাৰ ID-ৰ বাবে আবেদন কৰক, ভোটাৰ তথ্য আপডেট কৰক আৰু ভোটাৰ তালিকা অনুসন্ধান কৰক।",
+    "url": "https://voters.eci.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "umang",
+    "name": "UMANG",
+    "category": "চৰকাৰী সেৱা",
+    "badge": "সকলো সেৱা এটা ঠাইত",
+    "description": "PF, পেঞ্চন, গেছ, আধাৰ আৰু হাজাৰ হাজাৰ চৰকাৰী সেৱা এটা ঠাইতে লাভ কৰক।",
+    "url": "https://web.umang.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "parivahan",
+    "name": "Driving Licence & Vehicle Services",
+    "category": "পৰিবহণ সেৱা",
+    "badge": "Parivahan Sewa",
+    "description": "ড্ৰাইভিং লাইচেঞ্চ, বাহন পঞ্জীয়ন, RC আৰু অন্যান্য পৰিবহণ সেৱা লাভ কৰক।",
+    "url": "https://parivahan.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "passport",
+    "name": "Passport Seva",
+    "category": "ভ্ৰমণ নথিপত্ৰ",
+    "badge": "বৈদেশিক পৰিক্ৰমা মন্ত্ৰালয়",
+    "description": "পাছপ'ৰ্টৰ বাবে আবেদন কৰক, এপইণ্টমেণ্ট বুক কৰক আৰু আপোনাৰ আবেদনৰ স্থিতি অনুসৰণ কৰক।",
+    "url": "https://www.passportindia.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "udyam",
+    "name": "MSME Registration",
+    "category": "ব্যৱসায়িক সেৱা",
+    "badge": "Udyam Registration Portal",
+    "description": "আপোনাৰ ব্যৱসায়ক MSME হিচাপে পঞ্জীয়ন কৰক আৰু চৰকাৰী সুবিধা লাভ কৰক।",
+    "url": "https://www.udyamregistration.gov.in/UdyamRegistration.aspx",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "emergency",
+    "title": "জৰুৰীকালীন সেৱা",
+    "number": "112",
+    "icon": "🚨",
+    "description": "পুলিচ, অগ্নিনিৰ্বাপন, চিকিৎসা আৰু অন্যান্য জৰুৰীকালীন সহায়ৰ বাবে ভাৰতৰ একত্ৰিত জৰুৰীকালীন নম্বৰ।"
+  },
+  {
+    "id": "cybercrime",
+    "title": "ৰাষ্ট্ৰীয় চাইবাৰ অপৰাধ হেল্পলাইন",
+    "number": "1930",
+    "icon": "🛡️",
+    "description": "চাইবাৰ অপৰাধ, বিশেষকৈ বিত্তীয় চাইবাৰ প্ৰৱঞ্চনা, প্ৰতিবেদন কৰাৰ বাবে ৰাষ্ট্ৰীয় হেল্পলাইন।"
+  },
+  {
+    "id": "women",
+    "title": "মহিলা হেল্পলাইন",
+    "number": "181",
+    "icon": "👩",
+    "description": "বিপদত থকা মহিলা আৰু মহিলা-সম্পৰ্কীয় সেৱাৰ বাবে সহায় আৰু সমৰ্থন প্ৰদান কৰা চৰকাৰী হেল্পলাইন।"
+  },
+  {
+    "id": "child",
+    "title": "শিশু হেল্পলাইন",
+    "number": "1098",
+    "icon": "🧒",
+    "description": "বিপদত থকা শিশুৰ সুৰক্ষা, যত্ন আৰু জৰুৰীকালীন সহায়ৰ বাবে ৰাষ্ট্ৰীয় শিশু হেল্পলাইন।"
+  },
+  {
+    "id": "elderline",
+    "title": "ৰাষ্ট্ৰীয় জ্যেষ্ঠ নাগৰিক হেল্পলাইন",
+    "number": "14567",
+    "icon": "🧓",
+    "description": "জ্যেষ্ঠ নাগৰিকসকলৰ বাবে সহায়, তথ্য, সেৱা আৰু অভিযোগ-সম্পৰ্কীয় সহায় প্ৰদান কৰা ৰাষ্ট্ৰীয় Elderline সেৱা।"
+  },
+  {
+    "id": "railways",
+    "title": "ভাৰতীয় ৰে'লৱে হেল্পলাইন",
+    "number": "139",
+    "icon": "🚂",
+    "description": "ৰে'লৱে-সম্পৰ্কীয় তথ্য, অভিযোগ, সহায় আৰু জৰুৰীকালীন সেৱাৰ বাবে একত্ৰিত ভাৰতীয় ৰে'লৱে হেল্পলাইন।"
+  },
+  {
+    "id": "consumer",
+    "title": "ৰাষ্ট্ৰীয় গ্ৰাহক হেল্পলাইন",
+    "number": "1915",
+    "icon": "🛍️",
+    "description": "গ্ৰাহকৰ অভিযোগ পঞ্জীয়ন আৰু গ্ৰাহক-সম্পৰ্কীয় অভিযোগৰ ক্ষেত্ৰত সহায় লাভ কৰাৰ বাবে ভাৰত চৰকাৰৰ হেল্পলাইন।"
+  },
+  {
+    "id": "highways",
+    "title": "ৰাষ্ট্ৰীয় ঘাইপথ হেল্পলাইন",
+    "number": "1033",
+    "icon": "🛣️",
+    "description": "ৰাষ্ট্ৰীয় ঘাইপথত জৰুৰীকালীন অৱস্থা, বাহন বিকল হোৱা, এম্বুলেন্স আৰু অন্যান্য সহায়ৰ বাবে ২৪x৭ ৰাষ্ট্ৰীয় ঘাইপথ হেল্পলাইন।"
+  },
+  {
+    "id": "gas",
+    "title": "LPG গেছ লিকেজ জৰুৰীকালীন হেল্পলাইন",
+    "number": "1906",
+    "icon": "🔥",
+    "description": "LPG গেছ লিকেজ আৰু ইয়াৰ সৈতে জড়িত LPG সুৰক্ষা জৰুৰীকালীন অৱস্থা প্ৰতিবেদন কৰাৰ বাবে সৰ্বভাৰতীয় ২৪x৭ জৰুৰীকালীন হেল্পলাইন।"
+  },
+  {
+    "id": "voter",
+    "title": "ৰাষ্ট্ৰীয় ভোটাৰ হেল্পলাইন",
+    "number": "1950",
+    "icon": "🗳️",
+    "description": "ভোটাৰ পঞ্জীয়ন, ভোটাৰ তালিকাৰ তথ্য, ভোটকেন্দ্ৰৰ তথ্য আৰু নিৰ্বাচন-সম্পৰ্কীয় সহায়ৰ বাবে ভাৰতীয় নিৰ্বাচন আয়োগৰ হেল্পলাইন।"
+  },
+  {
+    "id": "electricity",
+    "title": "বিদ্যুৎ অভিযোগ হেল্পলাইন",
+    "number": "1912",
+    "icon": "⚡",
+    "description": "বিদ্যুৎ বিতৰণ সংস্থাসমূহে বিদ্যুৎ যোগান আৰু বিদ্যুৎ-সম্পৰ্কীয় অভিযোগ জনোৱাৰ বাবে ব্যৱহাৰ কৰা অভিযোগৰ চমু নম্বৰ।"
+  },
+  {
+    "id": "aadhaar",
+    "title": "UIDAI আধাৰ হেল্পলাইন",
+    "number": "1947",
+    "icon": "🆔",
+    "description": "আধাৰ পঞ্জীয়ন, আপডেট, প্ৰমাণীকৰণ, স্থিতি আৰু অন্যান্য আধাৰ-সম্পৰ্কীয় সহায়ৰ বাবে UIDAI-ৰ অফিচিয়েল হেল্পলাইন।"
+  },
+  {
+    "id": "kisan",
+    "title": "কিষাণ কল চেণ্টাৰ",
+    "number": "1800-180-1551",
+    "icon": "🌾",
+    "description": "কৃষি আৰু সংশ্লিষ্ট খণ্ডৰ বিষয়ে কৃষকসকলক তথ্য আৰু পৰামৰ্শ প্ৰদান কৰা সৰ্বভাৰতীয় টোল-ফ্ৰী কৃষি হেল্পলাইন।"
+  },
+  {
+    "id": "tele_manas",
+    "title": "Tele-MANAS মানসিক স্বাস্থ্য হেল্পলাইন",
+    "number": "14416",
+    "icon": "🧠",
+    "description": "মানসিক স্বাস্থ্যৰ সহায় আৰু সমৰ্থন প্ৰদান কৰা ভাৰত চৰকাৰৰ ৰাষ্ট্ৰীয় টেলি-মানসিক স্বাস্থ্য সেৱা।"
+  },
+  {
+    "id": "ayushman",
+    "title": "Ayushman Bharat PM-JAY হেল্পলাইন",
+    "number": "14555",
+    "icon": "🏥",
+    "description": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana-ৰ তথ্য আৰু হিতাধিকাৰীসকলৰ সহায়ৰ বাবে ৰাষ্ট্ৰীয় হেল্পলাইন।"
+  },
+  {
+    "id": "anti_ragging",
+    "title": "ৰাষ্ট্ৰীয় ৰেগিং-বিৰোধী হেল্পলাইন",
+    "number": "1800-180-5522",
+    "icon": "🎓",
+    "description": "শিক্ষানুষ্ঠানত ৰেগিং সম্পৰ্কে অভিযোগ দাখিল আৰু সহায় লাভ কৰাৰ বাবে ৰাষ্ট্ৰীয় টোল-ফ্ৰী হেল্পলাইন।"
+  },
+  {
+    "id": "disaster",
+    "title": "দুৰ্যোগ ব্যৱস্থাপনা হেল্পলাইন",
+    "number": "1078",
+    "icon": "🆘",
+    "description": "দুৰ্যোগ আৰু জৰুৰীকালীন পৰিস্থিতিৰ সময়ত সহায় আৰু তথ্য প্ৰদান কৰা চৰকাৰী দুৰ্যোগ ব্যৱস্থাপনা হেল্পলাইন।"
+  },
+  {
+    "id": "corruption_state",
+    "title": "দুৰ্নীতি-বিৰোধী / সতৰ্কতা হেল্পলাইন",
+    "number": "1064",
+    "icon": "🔍",
+    "description": "ঘোচ আৰু দুৰ্নীতিৰ অভিযোগ প্ৰতিবেদন কৰাৰ বাবে ৰাজ্যিক সতৰ্কতা আৰু দুৰ্নীতি-বিৰোধী ব্যুৰোৱে ব্যৱহাৰ কৰা দুৰ্নীতি-বিৰোধী আৰু সতৰ্কতা হেল্পলাইন।"
+  },
+  {
+    "id": "corruption_central",
+    "title": "Central Vigilance Commission",
+    "number": "1800-11-0180",
+    "icon": "⚖️",
+    "description": "ইয়াৰ অধিকাৰক্ষেত্ৰৰ অন্তৰ্গত সতৰ্কতা আৰু দুৰ্নীতি-সম্পৰ্কীয় বিষয়ৰ বাবে Central Vigilance Commission-ৰ টোল-ফ্ৰী যোগাযোগ নম্বৰ।"
+  },
+  {
+    "id": "legal_aid",
+    "title": "National Legal Services Authority",
+    "number": "15100",
+    "icon": "⚖️",
+    "description": "বিনামূলীয়া আইনী সেৱাৰ বিষয়ে তথ্য আৰু সহায় লাভ কৰাৰ বাবে ৰাষ্ট্ৰীয় আইনী সাহায্য হেল্পলাইন।"
+  },
+  {
+    "id": 1,
+    "badge": "অফিচিয়েল",
+    "time": "গ্লোবেল নেটৱৰ্ক",
+    "title": "Vidhwaan",
+    "description": "গাঁও-ভিত্তিক গ্লোবেল প্ৰযুক্তি কোম্পানী, যিয়ে Vidhwaan প্লেটফৰ্ম, প্ৰযুক্তি সামগ্ৰী, AI ব্যৱস্থা, সাংস্কৃতিক পদক্ষেপ, সম্প্ৰদায়ভিত্তিক প্ৰকল্প আৰু ভৱিষ্যতৰ উদ্ভাৱনসমূহক এটা একত্ৰিত নেটৱৰ্কৰ অধীনত সংযোগ কৰা অফিচিয়েল ডিজিটেল ইক'চিষ্টেম।",
+    "url": "https://vidhwaan.com"
+  },
+  {
+    "id": 2,
+    "badge": "প্ৰযুক্তি",
+    "time": "গ্লোবেল",
+    "title": "Vidhwaan Technologies",
+    "description": "বিশ্বজুৰি ষ্টাৰ্টআপ, উদ্যোগ আৰু সম্প্ৰদায়ৰ বাবে নিৰ্মিত আধুনিক ডিজিটেল আন্তঃগাঁথনি, স্বয়ংক্ৰিয়কৰণ ব্যৱস্থা, ক্লাউড-নেটিভ প্লেটফৰ্ম আৰু স্কেল কৰিব পৰা ছফ্টৱেৰ সমাধান।",
+    "url": "https://tech.vidhwaan.com"
+  },
+  {
+    "id": 3,
+    "badge": "AI ইক'চিষ্টেম",
+    "time": "ফ্লেগশ্বিপ",
+    "title": "Vidhwaan AI",
+    "description": "Vidhwaan ইক'চিষ্টেমৰ বিভিন্ন ক্ষেত্ৰত বুদ্ধিমান সহায়ক, স্বয়ংক্ৰিয়কৰণ ব্যৱস্থা, উৎপাদনশীলতা সঁজুলি, জ্ঞান ইঞ্জিন আৰু পৰৱৰ্তী প্ৰজন্মৰ ডিজিটেল অভিজ্ঞতাক শক্তি যোগোৱা উন্নত AI প্লেটফৰ্ম।",
+    "url": "https://ai.vidhwaan.com"
+  },
+  {
+    "id": 4,
+    "badge": "ব্যৱসায়িক প্লেটফৰ্ম",
+    "time": "ব্যৱসায়",
+    "title": "Vidhwaan Business",
+    "description": "সহজ, আধুনিক আৰু সুলভ প্ৰযুক্তিৰ জৰিয়তে ব্যৱসায়সমূহক পেছাদাৰী ৱেবছাইট আৰু ই-কমাৰ্চ এপ্লিকেচন সৃষ্টি কৰাত সহায় কৰা ডিজিটেল ব্যৱসায়িক প্লেটফৰ্ম।",
+    "url": "https://business.vidhwaan.com"
+  },
+  {
+    "id": 5,
+    "badge": "ফাউণ্ডেচন",
+    "time": "সামাজিক প্ৰভাৱ",
+    "title": "Vidhwaan Foundation",
+    "description": "প্ৰযুক্তিৰ সহায়ত সুলভতা, শিক্ষা, অন্তৰ্ভুক্তি আৰু সম্প্ৰদায়ৰ সবলীকৰণৰ ওপৰত গুৰুত্ব দিয়া সামাজিক পদক্ষেপসমূহ।",
+    "url": "https://foundation.vidhwaan.com"
+  },
+  {
+    "id": 6,
+    "badge": "AI সেৱা",
+    "time": "স্মাৰ্ট স্বয়ংক্ৰিয়কৰণ",
+    "title": "VidhAI",
+    "description": "AI-চালিত স্বয়ংক্ৰিয়কৰণ, বুদ্ধিমান ব্যৱসায়িক সমাধান, ৱেবছাইট উন্নয়ন, ৱৰ্কফ্ল' অপ্টিমাইজেচন আৰু আধুনিক ডিজিটেল ৰূপান্তৰ সেৱা।",
+    "url": "https://vidhai.vidhwaan.com"
+  },
+  {
+    "id": 7,
+    "badge": "মাৰ্কেটপ্লেচ",
+    "time": "বজাৰ",
+    "title": "Online Shop",
+    "description": "স্থানীয় সামগ্ৰী, সেৱা আৰু গাঁওভিত্তিক ব্যৱসায়সমূহক আধুনিক গাঁও-কেন্দ্ৰিক মাৰ্কেটপ্লেচ ইক'চিষ্টেমৰ জৰিয়তে সংযোগ কৰা ডিজিটেল বাণিজ্য প্লেটফৰ্ম।",
+    "url": "https://market.vidhwaan.com"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan Ecommerce",
+    "youtube": "https://youtube.com/shorts/vbKKKwyrazM?si=EuTQHsb7JtQEmtnc",
+    "description": "কোনো কাৰিকৰী জ্ঞান নোহোৱাকৈ আপোনাৰ নিজৰ পেছাদাৰী Ecommerce এপ সৃষ্টি কৰক!"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan Global Website",
+    "youtube": "https://youtube.com/shorts/XzPM77G7k7k?si=bxUJY1f3TRzTYU7Y",
+    "description": "কোনো কাৰিকৰী জ্ঞান নোহোৱাকৈ আপোনাৰ নিজৰ পেছাদাৰী Global Website সৃষ্টি কৰক!"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan NEET",
+    "youtube": "https://youtube.com/shorts/yJllgrJpHGI?si=JgHT4lJMW2vk1f2o",
+    "description": "আপোনাৰ NEET যাত্ৰাৰ বাবে এক সুসংগঠিত ৩৬৫ দিনীয়া দৈনিক প্ৰস্তুতি পৰিকল্পনা!"
+  }
+]
