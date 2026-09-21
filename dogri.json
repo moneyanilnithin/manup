@@ -1,1 +1,437 @@
-[{"id":"vidhwaan-business","name":"Vidhwaan Business","category":"कारोबारी सेवां","badge":"साढ़ा कारोबारी प्लेटफॉर्म","description":"Vidhwaan Business तुंदे कारोबार गी डिजिटल तरीके कन्नै शुरू करने ते बधाने च मदद करदा ऐ। अपनी जरूरतें दे मताबक ई-कॉमर्स ऐप, कारोबारी वेबसाइट, मोबाइल ऐप ते होर डिजिटल कारोबारी समाधान बनाओ।","url":"https://business.vidhwaan.com","icon":"https://business.vidhwaan.com/logo.png","featured":false},{"id":"vidhai","name":"VidhAI","category":"AI सेवां","badge":"साढ़ी AI टीम","description":"साढ़ी AI टीम कन्नै अपने विचारें गी असली प्रोजेक्टें च बदलो। अपने प्रोजेक्ट दी जरूरत ते बजट जमा करो ते अपनी जरूरतें दे मताबक AI समाधान, कारोबारी ऑटोमेशन, वेबसाइट, मोबाइल ऐप ते सॉफ्टवेयर विकास सेवां हासल करो।","url":"https://vidhai.vidhwaan.com","icon":"https://vidhai.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"neet","name":"VIDHWAAN NEET","category":"शिक्षा","badge":"365 दिनें दी NEET तैयारी","description":"सिलेबस दे मताबक तैयार कीती गेई 365 दिनें दी NEET तैयारी ऐप। रोजाना कॉन्सेप्ट, व्याख्या ते प्रैक्टिस MCQ दे जरिए अपनी NEET तैयारी गी मजबूत करो।","url":"https://neet.vidhwaan.com","icon":"https://neet.vidhwaan.com/icons/logo.png","featured":false},{"id":"kidlab","name":"KidLab","category":"विज्ञान ते सिखलाई","badge":"इंटरैक्टिव विज्ञान ऐप","description":"विद्यार्थियें लेई सिखलाई गी मजेदार बनाने आस्तै इंटरैक्टिव विज्ञान मिशन, भविष्य पर केंद्रित क्विज, दृश्य व्याख्याएं ते दिलचस्प शैक्षणिक अनुभव।","url":"https://villagekidlab.vidhwaan.com","icon":"https://villagekidlab.vidhwaan.com/icons/logo2.png","featured":false},{"id":"calculator","name":"VIDHWAAN Calculator","category":"फायदेमंद टूल","badge":"स्मार्ट कैलकुलेटर","description":"रोजमर्रा दे हिसाब, प्रतिशत, छूट, वैज्ञानिक गणना ते होर कई फायदेमंद गणनाएं आसानी कन्नै करो।","url":"https://calculator.vidhwaan.com","icon":"https://calculator.vidhwaan.com/icons/logo.png","featured":false},{"id":"ai-writer","name":"VIDHWAAN AI Writer","category":"AI सेवां","badge":"AI आधारित सामग्री निर्माण","description":"AI दे कन्नै पेशेवर ब्लॉग, लेख, सोशल मीडिया पोस्ट, ईमेल ते कारोबारी सामग्री बनाओ। एह् विद्यार्थियें, कंटेंट क्रिएटरें, पेशेवरें ते उनें कारोबारें लेई बनाया गेदा ऐ, जेह्ड़े सरल ते बुद्धिमान लेखन अनुभव चांहदे न।","url":"https://writer.vidhwaan.com","icon":"https://writer.vidhwaan.com/assets/icons/icon-512.png","featured":false},{"id":"billwaan","name":"Billwaan App","category":"कारोबार","badge":"बिल ते इनवॉइस","description":"बिल, इनवॉइस, अनुमान, कोटेशन, रसीद ते प्रोफार्मा इनवॉइस बनाओ। पेशेवर PDF सेव करो, प्रिंट करो ते शेयर करो। कारोबार, दुकान, फ्रीलांसर ते पेशेवरें लेई उपयुक्त।","url":"https://bill.vidhwaan.com","icon":"https://bill.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"quotes","name":"Quotes","category":"प्रेरणा","badge":"रोजाना प्रेरणा","description":"प्रेरणादायक कोट्स, ताकतवर विचार ते रोजाना हौसला ते प्रेरणा देने आस्तै तैयार कीता गेदा प्रीमियम कंटेंट खोजो।","url":"https://quotes.vidhwaan.com","icon":"https://quotes.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"code-notes","name":"Code & Notes","category":"उत्पादकता","badge":"विद्यार्थियें ते डेवलपरें लेई","description":"नोट लिखो, विचार सेव करो, कोडिंग दी प्रैक्टिस करो, कोड स्निपेट सेव करो ते पढ़ाई दे सामान गी इक थाह्र व्यवस्थित करो। विद्यार्थियें, डेवलपरें ते जिंदगी भर सिखने आह्लें लेई तैयार कीता गेदा ऐ।","url":"https://apps.vidhwaan.com/","icon":"https://utukur.vidhwaan.com/icons/dev.png","featured":false},{"id":"clock","name":"VIDHWAAN Clock","category":"समां","badge":"स्मार्ट टाइम ऐप","description":"डिजिटल समां, लाइव घड़ी, स्टॉपवॉच, टाइमर, अलार्म ते होर फायदेमंद समें दे टूल आसानी कन्नै इस्तेमाल करो।","url":"https://clock.vidhwaan.com","icon":"https://clock.vidhwaan.com/icons/logo.png","featured":false},{"id":"vidhwaan-time","name":"VIDHWAAN Time","category":"समां","badge":"अगली पीढ़ी दा टाइम सिस्टम","description":"सुंदर तरीके कन्नै डिजाइन कीती गेइयां एनालॉग ते डिजिटल घड़ियें दे जरिए VIDHWAAN Time System दा अनुभव करो। रोजमर्रा दी जिंदगी ते भविष्य दे स्मार्ट डिवाइसें लेई तैयार कीता गेदा रियल-टाइम घड़ी अनुभव।","url":"https://time.vidhwaan.com","icon":"https://time.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"ccl","name":"CCL","category":"खेडां","badge":"Circle Cricket League","description":"अधिकृत Circle Cricket League प्लेटफॉर्म। अपना प्लेयर कार्ड बनाओ, खिलाड़ी दे रूप च रजिस्टर करो ते Circle 6 (C6) ते Circle 12 (C12) फॉर्मेटें बारे जानो। पिंड च पैदा होई नमीं खेल गी दुनिया तगर लेई जाओ।","url":"https://ccl.vidhwaan.com/","icon":"https://ccl.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"app-store","name":"VIDHWAAN App Store","category":"Vidhwaan ऐप","badge":"सारी Vidhwaan ऐप इक थाह्र","description":"Vidhwaan ऐपें गी इक थाह्र एक्सेस करने आस्तै आधिकारिक ऐप स्टोर। अपनी जरूरत दी Vidhwaan ऐप गी आसानी कन्नै खोजो ते एक्सेस करो।","url":"https://store.vidhwaan.com","icon":"https://store.vidhwaan.com/icons/logo.png","featured":false},{"id":"vidhwaan-notifications","name":"VIDHWAAN Notifications","category":"Vidhwaan जानकारी","badge":"Vidhwaan घोषणाएं","description":"जरूरी Vidhwaan घोषणाएं, नमीं ऐप ते सेवां, कारोबारी मौके, कारोबारी प्रस्ताव, खास प्रोग्राम ते होर आधिकारिक जानकारी कन्नै इक थाह्र अपडेट रौह।","url":"https://vidhwaan.com/notifications","icon":"https://vidhwaan.com/icons1/logo.png","featured":true},{"id":"mygov","name":"MyGov India","category":"सरकारी सेवां","badge":"आधिकारिक सरकारी पोर्टल","description":"सरकारी प्रोग्रामें च हिस्सा लैओ, अपने विचार सांझे करो ते राष्ट्रीय विकास पहलकदमियें बारे जानकारी हासल करो।","url":"https://www.mygov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"aadhaar","name":"Aadhaar Services","category":"पन्छान सेवां","badge":"UIDAI","description":"आधार डाउनलोड करो ते अपना पता ते मोबाइल नंबर अपडेट करो।","url":"https://uidai.gov.in/en/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"digilocker","name":"DigiLocker","category":"डिजिटल दस्तावेज","badge":"Digital India","description":"आधार, PAN, मार्कशीट, ड्राइविंग लाइसेंस ते होर डिजिटल दस्तावेजें तक पहुंच हासल करो।","url":"https://www.digilocker.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"pan","name":"Instant PAN Card","category":"इनकम टैक्स","badge":"PAN सेवां","description":"नमें PAN कार्ड लेई आवेदन करो ते जेकर तुस इसदे लेई योग्य ओ तां मुफ्त e-PAN हासल करो।","url":"https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan/getNewEpan","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"voter","name":"Voter Services","category":"चुनां","badge":"Election Commission of India","description":"Voter ID लेई आवेदन करो, वोटर जानकारी अपडेट करो ते चुनावी सूची च खोज करो।","url":"https://voters.eci.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"umang","name":"UMANG","category":"सरकारी सेवां","badge":"सब किश इक थाह्र","description":"PF, पेंशन, गैस, आधार ते हजारां सरकारी सेवाएं तक इक थाह्र पहुंच हासल करो।","url":"https://web.umang.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"parivahan","name":"Driving Licence & Vehicle Services","category":"आवाजाई सेवां","badge":"Parivahan Sewa","description":"ड्राइविंग लाइसेंस, गड्डी रजिस्ट्रेशन, RC ते होर परिवहन सेवाएं तक पहुंच हासल करो।","url":"https://parivahan.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"passport","name":"Passport Seva","category":"सफर दे दस्तावेज","badge":"Ministry of External Affairs","description":"पासपोर्ट लेई आवेदन करो, अपॉइंटमेंट बुक करो ते अपने आवेदन दी स्थिति ट्रैक करो।","url":"https://www.passportindia.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"udyam","name":"MSME Registration","category":"कारोबारी सेवां","badge":"Udyam Registration Portal","description":"अपने कारोबार गी MSME दे रूप च रजिस्टर करो ते सरकारी फायदें तक पहुंच हासल करो।","url":"https://www.udyamregistration.gov.in/UdyamRegistration.aspx","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"emergency","title":"आपातकाल","number":"112","icon":"🚨","description":"पुलिस, फायर, मेडिकल ते होर आपातकालीन सहायता आस्तै भारत दा संयुक्त आपातकालीन नंबर।"},{"id":"cybercrime","title":"राष्ट्रीय साइबर क्राइम हेल्पलाइन","number":"1930","icon":"🛡️","description":"साइबर अपराध ते खास करियै वित्तीय साइबर धोखाधड़ी दी रिपोर्ट करने आस्तै राष्ट्रीय हेल्पलाइन।"},{"id":"women","title":"महिला हेल्पलाइन","number":"181","icon":"👩","description":"मुश्किल च फंसी महिलाएं ते महिलाएं कन्नै जुड़ी सेवाएं आस्तै सहायता ते समर्थन देने आह्ली सरकारी हेल्पलाइन।"},{"id":"child","title":"बाल हेल्पलाइन","number":"1098","icon":"🧒","description":"मुश्किल च फंसे बच्चें आस्तै सुरक्षा, देखभाल ते आपातकालीन सहायता देने आह्ली राष्ट्रीय बाल हेल्पलाइन।"},{"id":"elderline","title":"राष्ट्रीय वरिष्ठ नागरिक हेल्पलाइन","number":"14567","icon":"🧓","description":"वरिष्ठ नागरिकें आस्तै सहायता, जानकारी, मदद ते शिकायत समाधान च सहयोग देने आह्ली राष्ट्रीय Elderline सेवा।"},{"id":"railways","title":"Indian Railways हेल्पलाइन","number":"139","icon":"🚂","description":"रेलवे कन्नै जुड़ी जानकारी, शिकायत, सहायता ते आपातकालीन सहयोग आस्तै एकीकृत Indian Railways हेल्पलाइन।"},{"id":"consumer","title":"राष्ट्रीय उपभोक्ता हेल्पलाइन","number":"1915","icon":"🛍️","description":"उपभोक्ता शिकायत दर्ज करने ते सहायता हासल करने आस्तै भारत सरकार दी हेल्पलाइन।"},{"id":"highways","title":"राष्ट्रीय राजमार्ग हेल्पलाइन","number":"1033","icon":"🛣️","description":"राष्ट्रीय राजमार्गें पर आपातकाल, वाहन खराब होने, एम्बुलेंस ते होर सहायता आस्तै 24x7 राष्ट्रीय राजमार्ग हेल्पलाइन।"},{"id":"gas","title":"LPG रिसाव आपातकालीन हेल्पलाइन","number":"1906","icon":"🔥","description":"LPG रिसाव ते संबंधित LPG सुरक्षा आपातकालीन स्थितियें दी रिपोर्ट करने आस्तै पूरे भारत च 24x7 आपातकालीन हेल्पलाइन।"},{"id":"voter","title":"राष्ट्रीय मतदाता हेल्पलाइन","number":"1950","icon":"🗳️","description":"वोटर रजिस्ट्रेशन, चुनावी सूची दी जानकारी, मतदान केंद्र दे विवरण ते चुनाव संबंधी सहायता आस्तै Election Commission of India दी हेल्पलाइन।"},{"id":"electricity","title":"बिजली शिकायत हेल्पलाइन","number":"1912","icon":"⚡","description":"बिजली वितरण कंपनियें द्वारा बिजली सप्लाई ते बिजली कन्नै जुड़ी शिकायतां दर्ज करने आस्तै इस्तेमाल कीता जाने आह्ला शॉर्ट कोड।"},{"id":"aadhaar","title":"UIDAI Aadhaar हेल्पलाइन","number":"1947","icon":"🆔","description":"आधार नामांकन, अपडेट, प्रमाणीकरण, स्थिति ते होर आधार संबंधी सहायता आस्तै आधिकारिक UIDAI हेल्पलाइन।"},{"id":"kisan","title":"Kisan Call Centre","number":"1800-180-1551","icon":"🌾","description":"किसानें गी खेतीबाड़ी ते संबंधित क्षेत्रें बारे जानकारी ते सलाह देने आह्ली देशव्यापी टोल-फ्री कृषि हेल्पलाइन।"},{"id":"tele_manas","title":"Tele-MANAS मानसिक सेहत हेल्पलाइन","number":"14416","icon":"🧠","description":"मानसिक सेहत संबंधी सहायता ते सहयोग देने आह्ली भारत सरकार दी राष्ट्रीय टेली-मेंटल हेल्थ सेवा।"},{"id":"ayushman","title":"Ayushman Bharat PM-JAY हेल्पलाइन","number":"14555","icon":"🏥","description":"Ayushman Bharat Pradhan Mantri Jan Arogya Yojana दी जानकारी ते लाभार्थियें दी सहायता आस्तै राष्ट्रीय हेल्पलाइन।"},{"id":"anti_ragging","title":"राष्ट्रीय एंटी-रैगिंग हेल्पलाइन","number":"1800-180-5522","icon":"🎓","description":"शैक्षणिक संस्थाएं च रैगिंग दी रिपोर्ट करने ते इस बारे सहायता हासल करने आस्तै राष्ट्रीय टोल-फ्री हेल्पलाइन।"},{"id":"disaster","title":"आपदा प्रबंधन हेल्पलाइन","number":"1078","icon":"🆘","description":"आपदा ते आपातकालीन स्थितियें दौरान सहायता ते जानकारी आस्तै सरकारी आपदा प्रबंधन हेल्पलाइन।"},{"id":"corruption_state","title":"भ्रष्टाचार विरोधी / विजिलेंस हेल्पलाइन","number":"1064","icon":"🔍","description":"रिश्वत ते भ्रष्टाचार दी शिकायतां रिपोर्ट करने आस्तै State Vigilance ते Anti-Corruption Bureaus द्वारा इस्तेमाल कीती जाने आह्ली भ्रष्टाचार विरोधी ते विजिलेंस हेल्पलाइन।"},{"id":"corruption_central","title":"Central Vigilance Commission","number":"1800-11-0180","icon":"⚖️","description":"अपने अधिकार क्षेत्र च विजिलेंस ते भ्रष्टाचार कन्नै जुड़े मामलें आस्तै Central Vigilance Commission दा टोल-फ्री संपर्क नंबर।"},{"id":"legal_aid","title":"National Legal Services Authority","number":"15100","icon":"⚖️","description":"मुफ्त कानूनी सेवाएं कन्नै जुड़ी जानकारी ते सहायता आस्तै राष्ट्रीय कानूनी सहायता हेल्पलाइन।"},{"id":1,"badge":"आधिकारिक","time":"ग्लोबल नेटवर्क","title":"Vidhwaan","description":"Village Based Global Technology Company, आधिकारिक डिजिटल इकोसिस्टम जेह्ड़ा Vidhwaan प्लेटफॉर्म, तकनीकी उत्पाद, AI सिस्टम, सांस्कृतिक पहल, कम्युनिटी प्रोजेक्ट ते भविष्य दी नवाचारें गी इक संयुक्त नेटवर्क हेठ जोड़दा ऐ।","url":"https://vidhwaan.com"},{"id":2,"badge":"टेक्नोलॉजी","time":"ग्लोबल","title":"Vidhwaan Technologies","description":"स्टार्टअप, उद्यम ते दुनिया भर दी कम्युनिटियां आस्तै बनाए गे नमीं डिजिटल इन्फ्रास्ट्रक्चर, ऑटोमेशन सिस्टम, क्लाउड-नेटिव प्लेटफॉर्म ते स्केलेबल सॉफ्टवेयर समाधान।","url":"https://tech.vidhwaan.com"},{"id":3,"badge":"AI इकोसिस्टम","time":"फ्लैगशिप","title":"Vidhwaan AI","description":"Vidhwaan इकोसिस्टम भर च बुद्धिमान असिस्टेंट, ऑटोमेशन सिस्टम, उत्पादकता टूल, नॉलेज इंजन ते अगली पीढ़ी दे डिजिटल अनुभवें गी शक्ति देने आह्ला उन्नत AI प्लेटफॉर्म।","url":"https://ai.vidhwaan.com"},{"id":4,"badge":"कारोबारी प्लेटफॉर्म","time":"कारोबार","title":"Vidhwaan Business","description":"सरल, आधुनिक ते सुलभ तकनीक दे जरिए कारोबारें गी पेशेवर वेबसाइट ते ई-कॉमर्स एप्लिकेशन बनाने च मदद देने आह्ला डिजिटल कारोबारी प्लेटफॉर्म।","url":"https://business.vidhwaan.com"},{"id":5,"badge":"फाउंडेशन","time":"सामाजिक प्रभाव","title":"Vidhwaan Foundation","description":"तकनीक आधारित सामाजिक पहलां, जेह्ड़ियां पहुंच, शिक्षा, समावेश ते कम्युनिटी सशक्तिकरण पर केंद्रित न।","url":"https://foundation.vidhwaan.com"},{"id":6,"badge":"AI सेवां","time":"स्मार्ट ऑटोमेशन","title":"VidhAI","description":"AI आधारित ऑटोमेशन, बुद्धिमान कारोबारी समाधान, वेबसाइट विकास, वर्कफ्लो ऑप्टिमाइजेशन ते आधुनिक डिजिटल ट्रांसफॉर्मेशन सेवां।","url":"https://vidhai.vidhwaan.com"},{"id":7,"badge":"मार्केटप्लेस","time":"Market","title":"Online Shop","description":"आधुनिक गांव-केंद्रित मार्केटप्लेस इकोसिस्टम दे जरिए स्थानीय उत्पादें, सेवाएं ते पिंडें दे कारोबारें गी जोड़ने आह्ला डिजिटल कॉमर्स प्लेटफॉर्म।","url":"https://market.vidhwaan.com"},{"type":"video","title":"Vidhwaan Ecommerce","youtube":"https://youtube.com/shorts/vbKKKwyrazM?si=EuTQHsb7JtQEmtnc","description":"बिना कुसै तकनीकी ज्ञान दे अपना पेशेवर Ecommerce ऐप बनाओ!"},{"type":"video","title":"Vidhwaan Global Website","youtube":"https://youtube.com/shorts/XzPM77G7k7k?si=bxUJY1f3TRzTYU7Y","description":"बिना कुसै तकनीकी ज्ञान दे अपनी पेशेवर Global Website बनाओ!"},{"type":"video","title":"Vidhwaan NEET","youtube":"https://youtube.com/shorts/yJllgrJpHGI?si=JgHT4lJMW2vk1f2o","description":"तुंदी NEET यात्रा आस्तै इक व्यवस्थित 365 दिनें दी रोजाना तैयारी योजना!"}]
+[
+  {
+    "id": "vidhwaan-business",
+    "name": "Vidhwaan Business",
+    "category": "कारोबारी सेवां",
+    "badge": "साढ़ा कारोबारी प्लेटफॉर्म",
+    "description": "Vidhwaan Business तुंदे कारोबार गी डिजिटल तरीके कन्नै शुरू करने ते बधाने च मदद करदा ऐ। अपनी जरूरतें दे मताबक ई-कॉमर्स ऐप, कारोबारी वेबसाइट, मोबाइल ऐप ते होर डिजिटल कारोबारी समाधान बनाओ।",
+    "url": "https://business.vidhwaan.com",
+    "icon": "https://business.vidhwaan.com/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhai",
+    "name": "VidhAI",
+    "category": "AI सेवां",
+    "badge": "साढ़ी AI टीम",
+    "description": "साढ़ी AI टीम कन्नै अपने विचारें गी असली प्रोजेक्टें च बदलो। अपने प्रोजेक्ट दी जरूरत ते बजट जमा करो ते अपनी जरूरतें दे मताबक AI समाधान, कारोबारी ऑटोमेशन, वेबसाइट, मोबाइल ऐप ते सॉफ्टवेयर विकास सेवां हासल करो।",
+    "url": "https://vidhai.vidhwaan.com",
+    "icon": "https://vidhai.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "neet",
+    "name": "VIDHWAAN NEET",
+    "category": "शिक्षा",
+    "badge": "365 दिनें दी NEET तैयारी",
+    "description": "सिलेबस दे मताबक तैयार कीती गेई 365 दिनें दी NEET तैयारी ऐप। रोजाना कॉन्सेप्ट, व्याख्या ते प्रैक्टिस MCQ दे जरिए अपनी NEET तैयारी गी मजबूत करो।",
+    "url": "https://neet.vidhwaan.com",
+    "icon": "https://neet.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "kidlab",
+    "name": "KidLab",
+    "category": "विज्ञान ते सिखलाई",
+    "badge": "इंटरैक्टिव विज्ञान ऐप",
+    "description": "विद्यार्थियें लेई सिखलाई गी मजेदार बनाने आस्तै इंटरैक्टिव विज्ञान मिशन, भविष्य पर केंद्रित क्विज, दृश्य व्याख्याएं ते दिलचस्प शैक्षणिक अनुभव।",
+    "url": "https://villagekidlab.vidhwaan.com",
+    "icon": "https://villagekidlab.vidhwaan.com/icons/logo2.png",
+    "featured": false
+  },
+  {
+    "id": "calculator",
+    "name": "VIDHWAAN Calculator",
+    "category": "फायदेमंद टूल",
+    "badge": "स्मार्ट कैलकुलेटर",
+    "description": "रोजमर्रा दे हिसाब, प्रतिशत, छूट, वैज्ञानिक गणना ते होर कई फायदेमंद गणनाएं आसानी कन्नै करो।",
+    "url": "https://calculator.vidhwaan.com",
+    "icon": "https://calculator.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "ai-writer",
+    "name": "VIDHWAAN AI Writer",
+    "category": "AI सेवां",
+    "badge": "AI आधारित सामग्री निर्माण",
+    "description": "AI दे कन्नै पेशेवर ब्लॉग, लेख, सोशल मीडिया पोस्ट, ईमेल ते कारोबारी सामग्री बनाओ। एह् विद्यार्थियें, कंटेंट क्रिएटरें, पेशेवरें ते उनें कारोबारें लेई बनाया गेदा ऐ, जेह्ड़े सरल ते बुद्धिमान लेखन अनुभव चांहदे न।",
+    "url": "https://writer.vidhwaan.com",
+    "icon": "https://writer.vidhwaan.com/assets/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "billwaan",
+    "name": "Billwaan App",
+    "category": "कारोबार",
+    "badge": "बिल ते इनवॉइस",
+    "description": "बिल, इनवॉइस, अनुमान, कोटेशन, रसीद ते प्रोफार्मा इनवॉइस बनाओ। पेशेवर PDF सेव करो, प्रिंट करो ते शेयर करो। कारोबार, दुकान, फ्रीलांसर ते पेशेवरें लेई उपयुक्त।",
+    "url": "https://bill.vidhwaan.com",
+    "icon": "https://bill.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "quotes",
+    "name": "Quotes",
+    "category": "प्रेरणा",
+    "badge": "रोजाना प्रेरणा",
+    "description": "प्रेरणादायक कोट्स, ताकतवर विचार ते रोजाना हौसला ते प्रेरणा देने आस्तै तैयार कीता गेदा प्रीमियम कंटेंट खोजो।",
+    "url": "https://quotes.vidhwaan.com",
+    "icon": "https://quotes.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "code-notes",
+    "name": "Code & Notes",
+    "category": "उत्पादकता",
+    "badge": "विद्यार्थियें ते डेवलपरें लेई",
+    "description": "नोट लिखो, विचार सेव करो, कोडिंग दी प्रैक्टिस करो, कोड स्निपेट सेव करो ते पढ़ाई दे सामान गी इक थाह्र व्यवस्थित करो। विद्यार्थियें, डेवलपरें ते जिंदगी भर सिखने आह्लें लेई तैयार कीता गेदा ऐ।",
+    "url": "https://apps.vidhwaan.com/",
+    "icon": "https://utukur.vidhwaan.com/icons/dev.png",
+    "featured": false
+  },
+  {
+    "id": "clock",
+    "name": "VIDHWAAN Clock",
+    "category": "समां",
+    "badge": "स्मार्ट टाइम ऐप",
+    "description": "डिजिटल समां, लाइव घड़ी, स्टॉपवॉच, टाइमर, अलार्म ते होर फायदेमंद समें दे टूल आसानी कन्नै इस्तेमाल करो।",
+    "url": "https://clock.vidhwaan.com",
+    "icon": "https://clock.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhwaan-time",
+    "name": "VIDHWAAN Time",
+    "category": "समां",
+    "badge": "अगली पीढ़ी दा टाइम सिस्टम",
+    "description": "सुंदर तरीके कन्नै डिजाइन कीती गेइयां एनालॉग ते डिजिटल घड़ियें दे जरिए VIDHWAAN Time System दा अनुभव करो। रोजमर्रा दी जिंदगी ते भविष्य दे स्मार्ट डिवाइसें लेई तैयार कीता गेदा रियल-टाइम घड़ी अनुभव।",
+    "url": "https://time.vidhwaan.com",
+    "icon": "https://time.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "ccl",
+    "name": "CCL",
+    "category": "खेडां",
+    "badge": "Circle Cricket League",
+    "description": "अधिकृत Circle Cricket League प्लेटफॉर्म। अपना प्लेयर कार्ड बनाओ, खिलाड़ी दे रूप च रजिस्टर करो ते Circle 6 (C6) ते Circle 12 (C12) फॉर्मेटें बारे जानो। पिंड च पैदा होई नमीं खेल गी दुनिया तगर लेई जाओ।",
+    "url": "https://ccl.vidhwaan.com/",
+    "icon": "https://ccl.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "app-store",
+    "name": "VIDHWAAN App Store",
+    "category": "Vidhwaan ऐप",
+    "badge": "सारी Vidhwaan ऐप इक थाह्र",
+    "description": "Vidhwaan ऐपें गी इक थाह्र एक्सेस करने आस्तै आधिकारिक ऐप स्टोर। अपनी जरूरत दी Vidhwaan ऐप गी आसानी कन्नै खोजो ते एक्सेस करो।",
+    "url": "https://store.vidhwaan.com",
+    "icon": "https://store.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhwaan-notifications",
+    "name": "VIDHWAAN Notifications",
+    "category": "Vidhwaan जानकारी",
+    "badge": "Vidhwaan घोषणाएं",
+    "description": "जरूरी Vidhwaan घोषणाएं, नमीं ऐप ते सेवां, कारोबारी मौके, कारोबारी प्रस्ताव, खास प्रोग्राम ते होर आधिकारिक जानकारी कन्नै इक थाह्र अपडेट रौह।",
+    "url": "https://vidhwaan.com/notifications",
+    "icon": "https://vidhwaan.com/icons1/logo.png",
+    "featured": true
+  },
+  {
+    "id": "mygov",
+    "name": "MyGov India",
+    "category": "सरकारी सेवां",
+    "badge": "आधिकारिक सरकारी पोर्टल",
+    "description": "सरकारी प्रोग्रामें च हिस्सा लैओ, अपने विचार सांझे करो ते राष्ट्रीय विकास पहलकदमियें बारे जानकारी हासल करो।",
+    "url": "https://www.mygov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "aadhaar",
+    "name": "Aadhaar Services",
+    "category": "पन्छान सेवां",
+    "badge": "UIDAI",
+    "description": "आधार डाउनलोड करो ते अपना पता ते मोबाइल नंबर अपडेट करो।",
+    "url": "https://uidai.gov.in/en/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "digilocker",
+    "name": "DigiLocker",
+    "category": "डिजिटल दस्तावेज",
+    "badge": "Digital India",
+    "description": "आधार, PAN, मार्कशीट, ड्राइविंग लाइसेंस ते होर डिजिटल दस्तावेजें तक पहुंच हासल करो।",
+    "url": "https://www.digilocker.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "pan",
+    "name": "Instant PAN Card",
+    "category": "इनकम टैक्स",
+    "badge": "PAN सेवां",
+    "description": "नमें PAN कार्ड लेई आवेदन करो ते जेकर तुस इसदे लेई योग्य ओ तां मुफ्त e-PAN हासल करो।",
+    "url": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan/getNewEpan",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "voter",
+    "name": "Voter Services",
+    "category": "चुनां",
+    "badge": "Election Commission of India",
+    "description": "Voter ID लेई आवेदन करो, वोटर जानकारी अपडेट करो ते चुनावी सूची च खोज करो।",
+    "url": "https://voters.eci.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "umang",
+    "name": "UMANG",
+    "category": "सरकारी सेवां",
+    "badge": "सब किश इक थाह्र",
+    "description": "PF, पेंशन, गैस, आधार ते हजारां सरकारी सेवाएं तक इक थाह्र पहुंच हासल करो।",
+    "url": "https://web.umang.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "parivahan",
+    "name": "Driving Licence & Vehicle Services",
+    "category": "आवाजाई सेवां",
+    "badge": "Parivahan Sewa",
+    "description": "ड्राइविंग लाइसेंस, गड्डी रजिस्ट्रेशन, RC ते होर परिवहन सेवाएं तक पहुंच हासल करो।",
+    "url": "https://parivahan.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "passport",
+    "name": "Passport Seva",
+    "category": "सफर दे दस्तावेज",
+    "badge": "Ministry of External Affairs",
+    "description": "पासपोर्ट लेई आवेदन करो, अपॉइंटमेंट बुक करो ते अपने आवेदन दी स्थिति ट्रैक करो।",
+    "url": "https://www.passportindia.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "udyam",
+    "name": "MSME Registration",
+    "category": "कारोबारी सेवां",
+    "badge": "Udyam Registration Portal",
+    "description": "अपने कारोबार गी MSME दे रूप च रजिस्टर करो ते सरकारी फायदें तक पहुंच हासल करो।",
+    "url": "https://www.udyamregistration.gov.in/UdyamRegistration.aspx",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "emergency",
+    "title": "आपातकाल",
+    "number": "112",
+    "icon": "🚨",
+    "description": "पुलिस, फायर, मेडिकल ते होर आपातकालीन सहायता आस्तै भारत दा संयुक्त आपातकालीन नंबर।"
+  },
+  {
+    "id": "cybercrime",
+    "title": "राष्ट्रीय साइबर क्राइम हेल्पलाइन",
+    "number": "1930",
+    "icon": "🛡️",
+    "description": "साइबर अपराध ते खास करियै वित्तीय साइबर धोखाधड़ी दी रिपोर्ट करने आस्तै राष्ट्रीय हेल्पलाइन।"
+  },
+  {
+    "id": "women",
+    "title": "महिला हेल्पलाइन",
+    "number": "181",
+    "icon": "👩",
+    "description": "मुश्किल च फंसी महिलाएं ते महिलाएं कन्नै जुड़ी सेवाएं आस्तै सहायता ते समर्थन देने आह्ली सरकारी हेल्पलाइन।"
+  },
+  {
+    "id": "child",
+    "title": "बाल हेल्पलाइन",
+    "number": "1098",
+    "icon": "🧒",
+    "description": "मुश्किल च फंसे बच्चें आस्तै सुरक्षा, देखभाल ते आपातकालीन सहायता देने आह्ली राष्ट्रीय बाल हेल्पलाइन।"
+  },
+  {
+    "id": "elderline",
+    "title": "राष्ट्रीय वरिष्ठ नागरिक हेल्पलाइन",
+    "number": "14567",
+    "icon": "🧓",
+    "description": "वरिष्ठ नागरिकें आस्तै सहायता, जानकारी, मदद ते शिकायत समाधान च सहयोग देने आह्ली राष्ट्रीय Elderline सेवा।"
+  },
+  {
+    "id": "railways",
+    "title": "Indian Railways हेल्पलाइन",
+    "number": "139",
+    "icon": "🚂",
+    "description": "रेलवे कन्नै जुड़ी जानकारी, शिकायत, सहायता ते आपातकालीन सहयोग आस्तै एकीकृत Indian Railways हेल्पलाइन।"
+  },
+  {
+    "id": "consumer",
+    "title": "राष्ट्रीय उपभोक्ता हेल्पलाइन",
+    "number": "1915",
+    "icon": "🛍️",
+    "description": "उपभोक्ता शिकायत दर्ज करने ते सहायता हासल करने आस्तै भारत सरकार दी हेल्पलाइन।"
+  },
+  {
+    "id": "highways",
+    "title": "राष्ट्रीय राजमार्ग हेल्पलाइन",
+    "number": "1033",
+    "icon": "🛣️",
+    "description": "राष्ट्रीय राजमार्गें पर आपातकाल, वाहन खराब होने, एम्बुलेंस ते होर सहायता आस्तै 24x7 राष्ट्रीय राजमार्ग हेल्पलाइन।"
+  },
+  {
+    "id": "gas",
+    "title": "LPG रिसाव आपातकालीन हेल्पलाइन",
+    "number": "1906",
+    "icon": "🔥",
+    "description": "LPG रिसाव ते संबंधित LPG सुरक्षा आपातकालीन स्थितियें दी रिपोर्ट करने आस्तै पूरे भारत च 24x7 आपातकालीन हेल्पलाइन।"
+  },
+  {
+    "id": "voter",
+    "title": "राष्ट्रीय मतदाता हेल्पलाइन",
+    "number": "1950",
+    "icon": "🗳️",
+    "description": "वोटर रजिस्ट्रेशन, चुनावी सूची दी जानकारी, मतदान केंद्र दे विवरण ते चुनाव संबंधी सहायता आस्तै Election Commission of India दी हेल्पलाइन।"
+  },
+  {
+    "id": "electricity",
+    "title": "बिजली शिकायत हेल्पलाइन",
+    "number": "1912",
+    "icon": "⚡",
+    "description": "बिजली वितरण कंपनियें द्वारा बिजली सप्लाई ते बिजली कन्नै जुड़ी शिकायतां दर्ज करने आस्तै इस्तेमाल कीता जाने आह्ला शॉर्ट कोड।"
+  },
+  {
+    "id": "aadhaar",
+    "title": "UIDAI Aadhaar हेल्पलाइन",
+    "number": "1947",
+    "icon": "🆔",
+    "description": "आधार नामांकन, अपडेट, प्रमाणीकरण, स्थिति ते होर आधार संबंधी सहायता आस्तै आधिकारिक UIDAI हेल्पलाइन।"
+  },
+  {
+    "id": "kisan",
+    "title": "Kisan Call Centre",
+    "number": "1800-180-1551",
+    "icon": "🌾",
+    "description": "किसानें गी खेतीबाड़ी ते संबंधित क्षेत्रें बारे जानकारी ते सलाह देने आह्ली देशव्यापी टोल-फ्री कृषि हेल्पलाइन।"
+  },
+  {
+    "id": "tele_manas",
+    "title": "Tele-MANAS मानसिक सेहत हेल्पलाइन",
+    "number": "14416",
+    "icon": "🧠",
+    "description": "मानसिक सेहत संबंधी सहायता ते सहयोग देने आह्ली भारत सरकार दी राष्ट्रीय टेली-मेंटल हेल्थ सेवा।"
+  },
+  {
+    "id": "ayushman",
+    "title": "Ayushman Bharat PM-JAY हेल्पलाइन",
+    "number": "14555",
+    "icon": "🏥",
+    "description": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana दी जानकारी ते लाभार्थियें दी सहायता आस्तै राष्ट्रीय हेल्पलाइन।"
+  },
+  {
+    "id": "anti_ragging",
+    "title": "राष्ट्रीय एंटी-रैगिंग हेल्पलाइन",
+    "number": "1800-180-5522",
+    "icon": "🎓",
+    "description": "शैक्षणिक संस्थाएं च रैगिंग दी रिपोर्ट करने ते इस बारे सहायता हासल करने आस्तै राष्ट्रीय टोल-फ्री हेल्पलाइन।"
+  },
+  {
+    "id": "disaster",
+    "title": "आपदा प्रबंधन हेल्पलाइन",
+    "number": "1078",
+    "icon": "🆘",
+    "description": "आपदा ते आपातकालीन स्थितियें दौरान सहायता ते जानकारी आस्तै सरकारी आपदा प्रबंधन हेल्पलाइन।"
+  },
+  {
+    "id": "corruption_state",
+    "title": "भ्रष्टाचार विरोधी / विजिलेंस हेल्पलाइन",
+    "number": "1064",
+    "icon": "🔍",
+    "description": "रिश्वत ते भ्रष्टाचार दी शिकायतां रिपोर्ट करने आस्तै State Vigilance ते Anti-Corruption Bureaus द्वारा इस्तेमाल कीती जाने आह्ली भ्रष्टाचार विरोधी ते विजिलेंस हेल्पलाइन।"
+  },
+  {
+    "id": "corruption_central",
+    "title": "Central Vigilance Commission",
+    "number": "1800-11-0180",
+    "icon": "⚖️",
+    "description": "अपने अधिकार क्षेत्र च विजिलेंस ते भ्रष्टाचार कन्नै जुड़े मामलें आस्तै Central Vigilance Commission दा टोल-फ्री संपर्क नंबर।"
+  },
+  {
+    "id": "legal_aid",
+    "title": "National Legal Services Authority",
+    "number": "15100",
+    "icon": "⚖️",
+    "description": "मुफ्त कानूनी सेवाएं कन्नै जुड़ी जानकारी ते सहायता आस्तै राष्ट्रीय कानूनी सहायता हेल्पलाइन।"
+  },
+  {
+    "id": 1,
+    "badge": "आधिकारिक",
+    "time": "ग्लोबल नेटवर्क",
+    "title": "Vidhwaan",
+    "description": "Village Based Global Technology Company, आधिकारिक डिजिटल इकोसिस्टम जेह्ड़ा Vidhwaan प्लेटफॉर्म, तकनीकी उत्पाद, AI सिस्टम, सांस्कृतिक पहल, कम्युनिटी प्रोजेक्ट ते भविष्य दी नवाचारें गी इक संयुक्त नेटवर्क हेठ जोड़दा ऐ।",
+    "url": "https://vidhwaan.com"
+  },
+  {
+    "id": 2,
+    "badge": "टेक्नोलॉजी",
+    "time": "ग्लोबल",
+    "title": "Vidhwaan Technologies",
+    "description": "स्टार्टअप, उद्यम ते दुनिया भर दी कम्युनिटियां आस्तै बनाए गे नमीं डिजिटल इन्फ्रास्ट्रक्चर, ऑटोमेशन सिस्टम, क्लाउड-नेटिव प्लेटफॉर्म ते स्केलेबल सॉफ्टवेयर समाधान।",
+    "url": "https://tech.vidhwaan.com"
+  },
+  {
+    "id": 3,
+    "badge": "AI इकोसिस्टम",
+    "time": "फ्लैगशिप",
+    "title": "Vidhwaan AI",
+    "description": "Vidhwaan इकोसिस्टम भर च बुद्धिमान असिस्टेंट, ऑटोमेशन सिस्टम, उत्पादकता टूल, नॉलेज इंजन ते अगली पीढ़ी दे डिजिटल अनुभवें गी शक्ति देने आह्ला उन्नत AI प्लेटफॉर्म।",
+    "url": "https://ai.vidhwaan.com"
+  },
+  {
+    "id": 4,
+    "badge": "कारोबारी प्लेटफॉर्म",
+    "time": "कारोबार",
+    "title": "Vidhwaan Business",
+    "description": "सरल, आधुनिक ते सुलभ तकनीक दे जरिए कारोबारें गी पेशेवर वेबसाइट ते ई-कॉमर्स एप्लिकेशन बनाने च मदद देने आह्ला डिजिटल कारोबारी प्लेटफॉर्म।",
+    "url": "https://business.vidhwaan.com"
+  },
+  {
+    "id": 5,
+    "badge": "फाउंडेशन",
+    "time": "सामाजिक प्रभाव",
+    "title": "Vidhwaan Foundation",
+    "description": "तकनीक आधारित सामाजिक पहलां, जेह्ड़ियां पहुंच, शिक्षा, समावेश ते कम्युनिटी सशक्तिकरण पर केंद्रित न।",
+    "url": "https://foundation.vidhwaan.com"
+  },
+  {
+    "id": 6,
+    "badge": "AI सेवां",
+    "time": "स्मार्ट ऑटोमेशन",
+    "title": "VidhAI",
+    "description": "AI आधारित ऑटोमेशन, बुद्धिमान कारोबारी समाधान, वेबसाइट विकास, वर्कफ्लो ऑप्टिमाइजेशन ते आधुनिक डिजिटल ट्रांसफॉर्मेशन सेवां।",
+    "url": "https://vidhai.vidhwaan.com"
+  },
+  {
+    "id": 7,
+    "badge": "मार्केटप्लेस",
+    "time": "Market",
+    "title": "Online Shop",
+    "description": "आधुनिक गांव-केंद्रित मार्केटप्लेस इकोसिस्टम दे जरिए स्थानीय उत्पादें, सेवाएं ते पिंडें दे कारोबारें गी जोड़ने आह्ला डिजिटल कॉमर्स प्लेटफॉर्म।",
+    "url": "https://market.vidhwaan.com"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan Ecommerce",
+    "youtube": "https://youtube.com/shorts/vbKKKwyrazM?si=EuTQHsb7JtQEmtnc",
+    "description": "बिना कुसै तकनीकी ज्ञान दे अपना पेशेवर Ecommerce ऐप बनाओ!"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan Global Website",
+    "youtube": "https://youtube.com/shorts/XzPM77G7k7k?si=bxUJY1f3TRzTYU7Y",
+    "description": "बिना कुसै तकनीकी ज्ञान दे अपनी पेशेवर Global Website बनाओ!"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan NEET",
+    "youtube": "https://youtube.com/shorts/yJllgrJpHGI?si=JgHT4lJMW2vk1f2o",
+    "description": "तुंदी NEET यात्रा आस्तै इक व्यवस्थित 365 दिनें दी रोजाना तैयारी योजना!"
+  }
+]

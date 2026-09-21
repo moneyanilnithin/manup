@@ -1,1 +1,437 @@
-[{"id":"vidhwaan-business","name":"Vidhwaan Business","category":"व्यवसाय सेवाहरू","badge":"हाम्रो व्यवसाय प्लेटफर्म","description":"Vidhwaan Business ले तपाईंलाई आफ्नो व्यवसाय डिजिटल रूपमा सुरु गर्न र विस्तार गर्न मद्दत गर्छ। आफ्नो आवश्यकताअनुसार ई-कमर्स एप, व्यवसायिक वेबसाइट, मोबाइल एप तथा अन्य डिजिटल व्यवसायिक समाधानहरू सिर्जना गर्नुहोस्।","url":"https://business.vidhwaan.com","icon":"https://business.vidhwaan.com/logo.png","featured":false},{"id":"vidhai","name":"VidhAI","category":"AI सेवाहरू","badge":"हाम्रो AI टोली","description":"हाम्रो AI टोलीसँग आफ्ना विचारहरूलाई वास्तविक परियोजनामा रूपान्तरण गर्नुहोस्। आफ्ना परियोजनाका आवश्यकता र बजेट पठाउनुहोस् र आफ्नो आवश्यकताअनुसार AI समाधान, व्यवसाय स्वचालन, वेबसाइट, मोबाइल एप तथा सफ्टवेयर विकास सेवाहरू प्राप्त गर्नुहोस्।","url":"https://vidhai.vidhwaan.com","icon":"https://vidhai.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"neet","name":"VIDHWAAN NEET","category":"शिक्षा","badge":"३६५-दिने NEET तयारी","description":"पाठ्यक्रमअनुसार तयार गरिएको ३६५-दिने NEET तयारी एप। दैनिक अवधारणा, व्याख्या र अभ्यास MCQ मार्फत आफ्नो NEET तयारीलाई अझ बलियो बनाउनुहोस्।","url":"https://neet.vidhwaan.com","icon":"https://neet.vidhwaan.com/icons/logo.png","featured":false},{"id":"kidlab","name":"KidLab","category":"विज्ञान र सिकाइ","badge":"अन्तरक्रियात्मक विज्ञान एप","description":"विद्यार्थीहरूका लागि सिकाइलाई रमाइलो बनाउन अन्तरक्रियात्मक विज्ञान मिशन, भविष्यकेन्द्रित क्विज, दृश्यात्मक व्याख्या र आकर्षक शैक्षिक अनुभवहरू।","url":"https://villagekidlab.vidhwaan.com","icon":"https://villagekidlab.vidhwaan.com/icons/logo2.png","featured":false},{"id":"calculator","name":"VIDHWAAN Calculator","category":"उपयोगी उपकरणहरू","badge":"स्मार्ट क्याल्कुलेटर","description":"दैनिक हिसाब, प्रतिशत, छुट, वैज्ञानिक गणना तथा अन्य धेरै उपयोगी गणनाहरू सजिलै गर्नुहोस्।","url":"https://calculator.vidhwaan.com","icon":"https://calculator.vidhwaan.com/icons/logo.png","featured":false},{"id":"ai-writer","name":"VIDHWAAN AI Writer","category":"AI सेवाहरू","badge":"AI-सञ्चालित सामग्री सिर्जना","description":"AI प्रयोग गरेर व्यावसायिक ब्लग, लेख, सामाजिक सञ्जाल पोस्ट, इमेल र व्यवसायिक सामग्री सिर्जना गर्नुहोस्। सरल र बुद्धिमान लेखन अनुभव खोज्ने विद्यार्थी, सामग्री सिर्जनाकर्ता, पेशेवर तथा व्यवसायहरूका लागि डिजाइन गरिएको।","url":"https://writer.vidhwaan.com","icon":"https://writer.vidhwaan.com/assets/icons/icon-512.png","featured":false},{"id":"billwaan","name":"Billwaan App","category":"व्यवसाय","badge":"बिल र इनभ्वाइस","description":"बिल, इनभ्वाइस, अनुमानपत्र, कोटेसन, रसिद तथा प्रोफर्मा इनभ्वाइस सिर्जना गर्नुहोस्। व्यावसायिक PDF सुरक्षित गर्नुहोस्, प्रिन्ट गर्नुहोस् र साझा गर्नुहोस्। व्यवसाय, पसल, फ्रीलान्सर तथा पेशेवरहरूका लागि उपयुक्त।","url":"https://bill.vidhwaan.com","icon":"https://bill.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"quotes","name":"Quotes","category":"प्रेरणा","badge":"दैनिक प्रेरणा","description":"दैनिक प्रेरणा र उत्साह प्रदान गर्न तयार गरिएका प्रेरणादायी उद्धरण, प्रभावशाली विचार तथा उत्कृष्ट सामग्रीहरू खोज्नुहोस्।","url":"https://quotes.vidhwaan.com","icon":"https://quotes.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"code-notes","name":"Code & Notes","category":"उत्पादकता","badge":"विद्यार्थी र डेभलपरहरूका लागि","description":"नोट लेख्नुहोस्, विचार सुरक्षित गर्नुहोस्, कोडिङ अभ्यास गर्नुहोस्, कोड स्निपेट सुरक्षित गर्नुहोस् र अध्ययन सामग्रीलाई एउटै स्थानमा व्यवस्थित गर्नुहोस्। विद्यार्थी, डेभलपर तथा जीवनभर सिकाइ गर्नेहरूका लागि डिजाइन गरिएको।","url":"https://apps.vidhwaan.com/","icon":"https://utukur.vidhwaan.com/icons/dev.png","featured":false},{"id":"clock","name":"VIDHWAAN Clock","category":"समय","badge":"स्मार्ट टाइम एप","description":"डिजिटल समय, लाइभ घडी, स्टपवाच, टाइमर, अलार्म तथा अन्य उपयोगी समय उपकरणहरू सजिलै प्रयोग गर्नुहोस्।","url":"https://clock.vidhwaan.com","icon":"https://clock.vidhwaan.com/icons/logo.png","featured":false},{"id":"vidhwaan-time","name":"VIDHWAAN Time","category":"समय","badge":"अर्को पुस्ताको समय प्रणाली","description":"सुन्दर रूपमा डिजाइन गरिएका एनालग र डिजिटल घडीमार्फत VIDHWAAN Time System को अनुभव लिनुहोस्। दैनिक जीवन र भविष्यका स्मार्ट उपकरणहरूका लागि डिजाइन गरिएको वास्तविक-समय घडी अनुभव।","url":"https://time.vidhwaan.com","icon":"https://time.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"ccl","name":"CCL","category":"खेलकुद","badge":"Circle Cricket League","description":"आधिकारिक Circle Cricket League प्लेटफर्म। आफ्नो खेलाडी कार्ड सिर्जना गर्नुहोस्, खेलाडीका रूपमा दर्ता गर्नुहोस् र Circle 6 (C6) तथा Circle 12 (C12) फर्म्याटहरू हेर्नुहोस्। गाउँबाट जन्मिएको नयाँ खेललाई विश्वमा पुर्‍याउनुहोस्।","url":"https://ccl.vidhwaan.com/","icon":"https://ccl.vidhwaan.com/icons/icon-512.png","featured":false},{"id":"app-store","name":"VIDHWAAN App Store","category":"Vidhwaan एपहरू","badge":"सबै Vidhwaan एपहरू एउटै स्थानमा","description":"Vidhwaan एपहरू एउटै स्थानबाट पहुँच गर्नका लागि आधिकारिक एप स्टोर। आफूलाई आवश्यक Vidhwaan एप सजिलै खोज्नुहोस् र पहुँच गर्नुहोस्।","url":"https://store.vidhwaan.com","icon":"https://store.vidhwaan.com/icons/logo.png","featured":false},{"id":"vidhwaan-notifications","name":"VIDHWAAN Notifications","category":"Vidhwaan जानकारी","badge":"Vidhwaan घोषणाहरू","description":"महत्त्वपूर्ण Vidhwaan घोषणा, नयाँ एप तथा सेवाहरू, व्यवसायिक अवसर, व्यवसायिक प्रस्ताव, विशेष कार्यक्रम तथा अन्य आधिकारिक जानकारी एउटै स्थानमा प्राप्त गरी अद्यावधिक रहनुहोस्।","url":"https://vidhwaan.com/notifications","icon":"https://vidhwaan.com/icons1/logo.png","featured":true},{"id":"mygov","name":"MyGov India","category":"सरकारी सेवाहरू","badge":"आधिकारिक सरकारी पोर्टल","description":"सरकारी कार्यक्रमहरूमा सहभागी हुनुहोस्, आफ्ना विचारहरू साझा गर्नुहोस् र राष्ट्रिय विकास पहलसम्बन्धी जानकारी प्राप्त गर्नुहोस्।","url":"https://www.mygov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"aadhaar","name":"Aadhaar Services","category":"पहिचान सेवाहरू","badge":"UIDAI","description":"आधार डाउनलोड गर्नुहोस् र आफ्नो ठेगाना तथा मोबाइल नम्बर अद्यावधिक गर्नुहोस्।","url":"https://uidai.gov.in/en/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"digilocker","name":"DigiLocker","category":"डिजिटल कागजातहरू","badge":"Digital India","description":"आधार, PAN, मार्कसिट, ड्राइभिङ लाइसेन्स तथा अन्य डिजिटल कागजातहरू पहुँच गर्नुहोस्।","url":"https://www.digilocker.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"pan","name":"Instant PAN Card","category":"आयकर","badge":"PAN सेवाहरू","description":"नयाँ PAN कार्डका लागि आवेदन दिनुहोस् र योग्य भएमा निःशुल्क e-PAN प्राप्त गर्नुहोस्।","url":"https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan/getNewEpan","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"voter","name":"Voter Services","category":"निर्वाचन","badge":"Election Commission of India","description":"मतदाता परिचयपत्रका लागि आवेदन दिनुहोस्, मतदाता विवरण अद्यावधिक गर्नुहोस् र मतदाता सूची खोज्नुहोस्।","url":"https://voters.eci.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"umang","name":"UMANG","category":"सरकारी सेवाहरू","badge":"एकीकृत सेवा प्लेटफर्म","description":"PF, पेन्सन, ग्यास, आधार तथा हजारौँ सरकारी सेवाहरू एउटै स्थानमा पहुँच गर्नुहोस्।","url":"https://web.umang.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"parivahan","name":"Driving Licence & Vehicle Services","category":"यातायात सेवाहरू","badge":"Parivahan Sewa","description":"ड्राइभिङ लाइसेन्स, सवारी दर्ता, RC तथा अन्य यातायात सेवाहरू पहुँच गर्नुहोस्।","url":"https://parivahan.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"passport","name":"Passport Seva","category":"यात्रा कागजातहरू","badge":"Ministry of External Affairs","description":"पासपोर्टका लागि आवेदन दिनुहोस्, अपोइन्टमेन्ट बुक गर्नुहोस् र आफ्नो आवेदनको स्थिति ट्र्याक गर्नुहोस्।","url":"https://www.passportindia.gov.in/","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"udyam","name":"MSME Registration","category":"व्यवसाय सेवाहरू","badge":"Udyam Registration Portal","description":"आफ्नो व्यवसायलाई MSME का रूपमा दर्ता गर्नुहोस् र सरकारी सुविधाहरूमा पहुँच प्राप्त गर्नुहोस्।","url":"https://www.udyamregistration.gov.in/UdyamRegistration.aspx","icon":"https://utukur.vidhwaan.com/icons/gov.png"},{"id":"emergency","title":"आपतकालीन सेवा","number":"112","icon":"🚨","description":"प्रहरी, दमकल, चिकित्सा तथा अन्य आपतकालीन सहयोगका लागि भारतको एकीकृत आपतकालीन नम्बर।"},{"id":"cybercrime","title":"राष्ट्रिय साइबर अपराध हेल्पलाइन","number":"1930","icon":"🛡️","description":"साइबर अपराध र विशेषगरी वित्तीय साइबर ठगी रिपोर्ट गर्नका लागि राष्ट्रिय हेल्पलाइन।"},{"id":"women","title":"महिला हेल्पलाइन","number":"181","icon":"👩","description":"संकटमा परेका महिला तथा महिलासम्बन्धी सेवाका लागि सहयोग र सहायता प्रदान गर्ने सरकारी हेल्पलाइन।"},{"id":"child","title":"बाल हेल्पलाइन","number":"1098","icon":"🧒","description":"संकटमा रहेका बालबालिका, संरक्षण, हेरचाह तथा आपतकालीन सहयोगका लागि राष्ट्रिय बाल हेल्पलाइन।"},{"id":"elderline","title":"राष्ट्रिय ज्येष्ठ नागरिक हेल्पलाइन","number":"14567","icon":"🧓","description":"ज्येष्ठ नागरिकका लागि सहयोग, जानकारी, सहायता तथा गुनासो समाधानसम्बन्धी सेवा प्रदान गर्ने राष्ट्रिय Elderline सेवा।"},{"id":"railways","title":"भारतीय रेलवे हेल्पलाइन","number":"139","icon":"🚂","description":"रेलवे सम्बन्धी जानकारी, गुनासो, सहायता तथा आपतकालीन सहयोगका लागि एकीकृत भारतीय रेलवे हेल्पलाइन।"},{"id":"consumer","title":"राष्ट्रिय उपभोक्ता हेल्पलाइन","number":"1915","icon":"🛍️","description":"उपभोक्ता गुनासो दर्ता गर्न तथा त्यससम्बन्धी सहायता प्राप्त गर्नका लागि भारत सरकारको हेल्पलाइन।"},{"id":"highways","title":"राष्ट्रिय राजमार्ग हेल्पलाइन","number":"1033","icon":"🛣️","description":"राष्ट्रिय राजमार्गमा आपतकालीन अवस्था, सवारी बिग्रिएको, एम्बुलेन्स तथा अन्य सहयोगका लागि २४x७ राष्ट्रिय राजमार्ग हेल्पलाइन।"},{"id":"gas","title":"LPG चुहावट आपतकालीन हेल्पलाइन","number":"1906","icon":"🔥","description":"LPG चुहावट तथा सम्बन्धित LPG सुरक्षा आपतकालीन अवस्थाहरू रिपोर्ट गर्नका लागि भारतभर २४x७ आपतकालीन हेल्पलाइन।"},{"id":"voter","title":"राष्ट्रिय मतदाता हेल्पलाइन","number":"1950","icon":"🗳️","description":"मतदाता दर्ता, मतदाता सूचीसम्बन्धी जानकारी, मतदान केन्द्रको विवरण तथा निर्वाचनसम्बन्धी सहयोगका लागि Election Commission of India हेल्पलाइन।"},{"id":"electricity","title":"विद्युत् गुनासो हेल्पलाइन","number":"1912","icon":"⚡","description":"विद्युत् वितरण संस्थाहरूले विद्युत् आपूर्ति तथा विद्युत्सम्बन्धी गुनासो रिपोर्ट गर्न प्रयोग गर्ने छोटो नम्बर।"},{"id":"aadhaar","title":"UIDAI Aadhaar हेल्पलाइन","number":"1947","icon":"🆔","description":"आधार नामांकन, अद्यावधिक, प्रमाणीकरण, स्थिति तथा अन्य आधारसम्बन्धी सहयोगका लागि आधिकारिक UIDAI हेल्पलाइन।"},{"id":"kisan","title":"किसान कल सेन्टर","number":"1800-180-1551","icon":"🌾","description":"कृषि तथा सम्बन्धित क्षेत्रसम्बन्धी जानकारी र सुझाव प्रदान गर्ने राष्ट्रव्यापी टोल-फ्री कृषि हेल्पलाइन।"},{"id":"tele_manas","title":"Tele-MANAS मानसिक स्वास्थ्य हेल्पलाइन","number":"14416","icon":"🧠","description":"मानसिक स्वास्थ्यसम्बन्धी सहयोग र सहायता प्रदान गर्ने भारत सरकारको राष्ट्रिय टेलि-मानसिक स्वास्थ्य सेवा।"},{"id":"ayushman","title":"Ayushman Bharat PM-JAY हेल्पलाइन","number":"14555","icon":"🏥","description":"Ayushman Bharat Pradhan Mantri Jan Arogya Yojana सम्बन्धी जानकारी तथा लाभार्थी सहयोगका लागि राष्ट्रिय हेल्पलाइन।"},{"id":"anti_ragging","title":"राष्ट्रिय एन्टी-र्‍यागिङ हेल्पलाइन","number":"1800-180-5522","icon":"🎓","description":"शैक्षिक संस्थाहरूमा हुने र्‍यागिङ रिपोर्ट गर्न तथा त्यससम्बन्धी सहायता प्राप्त गर्नका लागि राष्ट्रिय टोल-फ्री हेल्पलाइन।"},{"id":"disaster","title":"विपद् व्यवस्थापन हेल्पलाइन","number":"1078","icon":"🆘","description":"विपद् तथा आपतकालीन अवस्थाका समयमा सहायता र जानकारीका लागि सरकारी विपद् व्यवस्थापन हेल्पलाइन।"},{"id":"corruption_state","title":"भ्रष्टाचार विरोधी / सतर्कता हेल्पलाइन","number":"1064","icon":"🔍","description":"रिसवत तथा भ्रष्टाचारसम्बन्धी गुनासो रिपोर्ट गर्न State Vigilance तथा Anti-Corruption Bureaus द्वारा प्रयोग गरिने भ्रष्टाचार विरोधी तथा सतर्कता हेल्पलाइन।"},{"id":"corruption_central","title":"Central Vigilance Commission","number":"1800-11-0180","icon":"⚖️","description":"आफ्नो अधिकार क्षेत्रअन्तर्गत सतर्कता तथा भ्रष्टाचारसम्बन्धी विषयका लागि Central Vigilance Commission को टोल-फ्री सम्पर्क नम्बर।"},{"id":"legal_aid","title":"National Legal Services Authority","number":"15100","icon":"⚖️","description":"निःशुल्क कानुनी सेवासम्बन्धी जानकारी र सहायता प्राप्त गर्नका लागि राष्ट्रिय कानुनी सहायता हेल्पलाइन।"},{"id":1,"badge":"आधिकारिक","time":"विश्वव्यापी नेटवर्क","title":"Vidhwaan","description":"गाउँमा आधारित विश्वव्यापी प्रविधि कम्पनी, जसले Vidhwaan प्लेटफर्म, प्रविधि उत्पादन, AI प्रणाली, सांस्कृतिक पहल, सामुदायिक परियोजना तथा भविष्यका नवप्रवर्तनहरूलाई एउटै एकीकृत नेटवर्कमार्फत जोड्ने आधिकारिक डिजिटल इकोसिस्टम हो।","url":"https://vidhwaan.com"},{"id":2,"badge":"प्रविधि","time":"विश्वव्यापी","title":"Vidhwaan Technologies","description":"स्टार्टअप, उद्यम तथा विश्वभरका समुदायहरूका लागि निर्माण गरिएका आधुनिक डिजिटल पूर्वाधार, स्वचालन प्रणाली, क्लाउड-नेटिभ प्लेटफर्म तथा विस्तारयोग्य सफ्टवेयर समाधानहरू।","url":"https://tech.vidhwaan.com"},{"id":3,"badge":"AI इकोसिस्टम","time":"प्रमुख","title":"Vidhwaan AI","description":"Vidhwaan इकोसिस्टमभर बुद्धिमान सहायक, स्वचालन प्रणाली, उत्पादकता उपकरण, ज्ञान इन्जिन तथा नयाँ पुस्ताका डिजिटल अनुभवहरू सञ्चालन गर्ने उन्नत AI प्लेटफर्म।","url":"https://ai.vidhwaan.com"},{"id":4,"badge":"व्यवसाय प्लेटफर्म","time":"व्यवसाय","title":"Vidhwaan Business","description":"सरल, आधुनिक तथा पहुँचयोग्य प्रविधिमार्फत व्यवसायहरूलाई व्यावसायिक वेबसाइट र ई-कमर्स एप्लिकेसन सिर्जना गर्न सहयोग गर्ने डिजिटल व्यवसाय प्लेटफर्म।","url":"https://business.vidhwaan.com"},{"id":5,"badge":"फाउन्डेसन","time":"सामाजिक प्रभाव","title":"Vidhwaan Foundation","description":"पहुँच, शिक्षा, समावेशिता तथा सामुदायिक सशक्तीकरणमा केन्द्रित प्रविधि-सञ्चालित सामाजिक पहलहरू।","url":"https://foundation.vidhwaan.com"},{"id":6,"badge":"AI सेवाहरू","time":"स्मार्ट स्वचालन","title":"VidhAI","description":"AI-सञ्चालित स्वचालन, बुद्धिमान व्यवसायिक समाधान, वेबसाइट विकास, कार्यप्रवाह अनुकूलन तथा आधुनिक डिजिटल रूपान्तरण सेवाहरू।","url":"https://vidhai.vidhwaan.com"},{"id":7,"badge":"मार्केटप्लेस","time":"बजार","title":"Online Shop","description":"आधुनिक गाउँ-केन्द्रित मार्केटप्लेस इकोसिस्टममार्फत स्थानीय उत्पादन, सेवा तथा गाउँका व्यवसायहरूलाई जोड्ने डिजिटल वाणिज्य प्लेटफर्म।","url":"https://market.vidhwaan.com"},{"type":"video","title":"Vidhwaan Ecommerce","youtube":"https://youtube.com/shorts/vbKKKwyrazM?si=EuTQHsb7JtQEmtnc","description":"कुनै प्राविधिक ज्ञानबिना आफ्नो व्यावसायिक Ecommerce एप सिर्जना गर्नुहोस्!"},{"type":"video","title":"Vidhwaan Global Website","youtube":"https://youtube.com/shorts/XzPM77G7k7k?si=bxUJY1f3TRzTYU7Y","description":"कुनै प्राविधिक ज्ञानबिना आफ्नो व्यावसायिक Global Website सिर्जना गर्नुहोस्!"},{"type":"video","title":"Vidhwaan NEET","youtube":"https://youtube.com/shorts/yJllgrJpHGI?si=JgHT4lJMW2vk1f2o","description":"तपाईंको NEET यात्राका लागि व्यवस्थित ३६५-दिने दैनिक तयारी योजना!"}]
+[
+  {
+    "id": "vidhwaan-business",
+    "name": "Vidhwaan Business",
+    "category": "व्यवसाय सेवाहरू",
+    "badge": "हाम्रो व्यवसाय प्लेटफर्म",
+    "description": "Vidhwaan Business ले तपाईंलाई आफ्नो व्यवसाय डिजिटल रूपमा सुरु गर्न र विस्तार गर्न मद्दत गर्छ। आफ्नो आवश्यकताअनुसार ई-कमर्स एप, व्यवसायिक वेबसाइट, मोबाइल एप तथा अन्य डिजिटल व्यवसायिक समाधानहरू सिर्जना गर्नुहोस्।",
+    "url": "https://business.vidhwaan.com",
+    "icon": "https://business.vidhwaan.com/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhai",
+    "name": "VidhAI",
+    "category": "AI सेवाहरू",
+    "badge": "हाम्रो AI टोली",
+    "description": "हाम्रो AI टोलीसँग आफ्ना विचारहरूलाई वास्तविक परियोजनामा रूपान्तरण गर्नुहोस्। आफ्ना परियोजनाका आवश्यकता र बजेट पठाउनुहोस् र आफ्नो आवश्यकताअनुसार AI समाधान, व्यवसाय स्वचालन, वेबसाइट, मोबाइल एप तथा सफ्टवेयर विकास सेवाहरू प्राप्त गर्नुहोस्।",
+    "url": "https://vidhai.vidhwaan.com",
+    "icon": "https://vidhai.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "neet",
+    "name": "VIDHWAAN NEET",
+    "category": "शिक्षा",
+    "badge": "३६५-दिने NEET तयारी",
+    "description": "पाठ्यक्रमअनुसार तयार गरिएको ३६५-दिने NEET तयारी एप। दैनिक अवधारणा, व्याख्या र अभ्यास MCQ मार्फत आफ्नो NEET तयारीलाई अझ बलियो बनाउनुहोस्।",
+    "url": "https://neet.vidhwaan.com",
+    "icon": "https://neet.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "kidlab",
+    "name": "KidLab",
+    "category": "विज्ञान र सिकाइ",
+    "badge": "अन्तरक्रियात्मक विज्ञान एप",
+    "description": "विद्यार्थीहरूका लागि सिकाइलाई रमाइलो बनाउन अन्तरक्रियात्मक विज्ञान मिशन, भविष्यकेन्द्रित क्विज, दृश्यात्मक व्याख्या र आकर्षक शैक्षिक अनुभवहरू।",
+    "url": "https://villagekidlab.vidhwaan.com",
+    "icon": "https://villagekidlab.vidhwaan.com/icons/logo2.png",
+    "featured": false
+  },
+  {
+    "id": "calculator",
+    "name": "VIDHWAAN Calculator",
+    "category": "उपयोगी उपकरणहरू",
+    "badge": "स्मार्ट क्याल्कुलेटर",
+    "description": "दैनिक हिसाब, प्रतिशत, छुट, वैज्ञानिक गणना तथा अन्य धेरै उपयोगी गणनाहरू सजिलै गर्नुहोस्।",
+    "url": "https://calculator.vidhwaan.com",
+    "icon": "https://calculator.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "ai-writer",
+    "name": "VIDHWAAN AI Writer",
+    "category": "AI सेवाहरू",
+    "badge": "AI-सञ्चालित सामग्री सिर्जना",
+    "description": "AI प्रयोग गरेर व्यावसायिक ब्लग, लेख, सामाजिक सञ्जाल पोस्ट, इमेल र व्यवसायिक सामग्री सिर्जना गर्नुहोस्। सरल र बुद्धिमान लेखन अनुभव खोज्ने विद्यार्थी, सामग्री सिर्जनाकर्ता, पेशेवर तथा व्यवसायहरूका लागि डिजाइन गरिएको।",
+    "url": "https://writer.vidhwaan.com",
+    "icon": "https://writer.vidhwaan.com/assets/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "billwaan",
+    "name": "Billwaan App",
+    "category": "व्यवसाय",
+    "badge": "बिल र इनभ्वाइस",
+    "description": "बिल, इनभ्वाइस, अनुमानपत्र, कोटेसन, रसिद तथा प्रोफर्मा इनभ्वाइस सिर्जना गर्नुहोस्। व्यावसायिक PDF सुरक्षित गर्नुहोस्, प्रिन्ट गर्नुहोस् र साझा गर्नुहोस्। व्यवसाय, पसल, फ्रीलान्सर तथा पेशेवरहरूका लागि उपयुक्त।",
+    "url": "https://bill.vidhwaan.com",
+    "icon": "https://bill.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "quotes",
+    "name": "Quotes",
+    "category": "प्रेरणा",
+    "badge": "दैनिक प्रेरणा",
+    "description": "दैनिक प्रेरणा र उत्साह प्रदान गर्न तयार गरिएका प्रेरणादायी उद्धरण, प्रभावशाली विचार तथा उत्कृष्ट सामग्रीहरू खोज्नुहोस्।",
+    "url": "https://quotes.vidhwaan.com",
+    "icon": "https://quotes.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "code-notes",
+    "name": "Code & Notes",
+    "category": "उत्पादकता",
+    "badge": "विद्यार्थी र डेभलपरहरूका लागि",
+    "description": "नोट लेख्नुहोस्, विचार सुरक्षित गर्नुहोस्, कोडिङ अभ्यास गर्नुहोस्, कोड स्निपेट सुरक्षित गर्नुहोस् र अध्ययन सामग्रीलाई एउटै स्थानमा व्यवस्थित गर्नुहोस्। विद्यार्थी, डेभलपर तथा जीवनभर सिकाइ गर्नेहरूका लागि डिजाइन गरिएको।",
+    "url": "https://apps.vidhwaan.com/",
+    "icon": "https://utukur.vidhwaan.com/icons/dev.png",
+    "featured": false
+  },
+  {
+    "id": "clock",
+    "name": "VIDHWAAN Clock",
+    "category": "समय",
+    "badge": "स्मार्ट टाइम एप",
+    "description": "डिजिटल समय, लाइभ घडी, स्टपवाच, टाइमर, अलार्म तथा अन्य उपयोगी समय उपकरणहरू सजिलै प्रयोग गर्नुहोस्।",
+    "url": "https://clock.vidhwaan.com",
+    "icon": "https://clock.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhwaan-time",
+    "name": "VIDHWAAN Time",
+    "category": "समय",
+    "badge": "अर्को पुस्ताको समय प्रणाली",
+    "description": "सुन्दर रूपमा डिजाइन गरिएका एनालग र डिजिटल घडीमार्फत VIDHWAAN Time System को अनुभव लिनुहोस्। दैनिक जीवन र भविष्यका स्मार्ट उपकरणहरूका लागि डिजाइन गरिएको वास्तविक-समय घडी अनुभव।",
+    "url": "https://time.vidhwaan.com",
+    "icon": "https://time.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "ccl",
+    "name": "CCL",
+    "category": "खेलकुद",
+    "badge": "Circle Cricket League",
+    "description": "आधिकारिक Circle Cricket League प्लेटफर्म। आफ्नो खेलाडी कार्ड सिर्जना गर्नुहोस्, खेलाडीका रूपमा दर्ता गर्नुहोस् र Circle 6 (C6) तथा Circle 12 (C12) फर्म्याटहरू हेर्नुहोस्। गाउँबाट जन्मिएको नयाँ खेललाई विश्वमा पुर्‍याउनुहोस्।",
+    "url": "https://ccl.vidhwaan.com/",
+    "icon": "https://ccl.vidhwaan.com/icons/icon-512.png",
+    "featured": false
+  },
+  {
+    "id": "app-store",
+    "name": "VIDHWAAN App Store",
+    "category": "Vidhwaan एपहरू",
+    "badge": "सबै Vidhwaan एपहरू एउटै स्थानमा",
+    "description": "Vidhwaan एपहरू एउटै स्थानबाट पहुँच गर्नका लागि आधिकारिक एप स्टोर। आफूलाई आवश्यक Vidhwaan एप सजिलै खोज्नुहोस् र पहुँच गर्नुहोस्।",
+    "url": "https://store.vidhwaan.com",
+    "icon": "https://store.vidhwaan.com/icons/logo.png",
+    "featured": false
+  },
+  {
+    "id": "vidhwaan-notifications",
+    "name": "VIDHWAAN Notifications",
+    "category": "Vidhwaan जानकारी",
+    "badge": "Vidhwaan घोषणाहरू",
+    "description": "महत्त्वपूर्ण Vidhwaan घोषणा, नयाँ एप तथा सेवाहरू, व्यवसायिक अवसर, व्यवसायिक प्रस्ताव, विशेष कार्यक्रम तथा अन्य आधिकारिक जानकारी एउटै स्थानमा प्राप्त गरी अद्यावधिक रहनुहोस्।",
+    "url": "https://vidhwaan.com/notifications",
+    "icon": "https://vidhwaan.com/icons1/logo.png",
+    "featured": true
+  },
+  {
+    "id": "mygov",
+    "name": "MyGov India",
+    "category": "सरकारी सेवाहरू",
+    "badge": "आधिकारिक सरकारी पोर्टल",
+    "description": "सरकारी कार्यक्रमहरूमा सहभागी हुनुहोस्, आफ्ना विचारहरू साझा गर्नुहोस् र राष्ट्रिय विकास पहलसम्बन्धी जानकारी प्राप्त गर्नुहोस्।",
+    "url": "https://www.mygov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "aadhaar",
+    "name": "Aadhaar Services",
+    "category": "पहिचान सेवाहरू",
+    "badge": "UIDAI",
+    "description": "आधार डाउनलोड गर्नुहोस् र आफ्नो ठेगाना तथा मोबाइल नम्बर अद्यावधिक गर्नुहोस्।",
+    "url": "https://uidai.gov.in/en/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "digilocker",
+    "name": "DigiLocker",
+    "category": "डिजिटल कागजातहरू",
+    "badge": "Digital India",
+    "description": "आधार, PAN, मार्कसिट, ड्राइभिङ लाइसेन्स तथा अन्य डिजिटल कागजातहरू पहुँच गर्नुहोस्।",
+    "url": "https://www.digilocker.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "pan",
+    "name": "Instant PAN Card",
+    "category": "आयकर",
+    "badge": "PAN सेवाहरू",
+    "description": "नयाँ PAN कार्डका लागि आवेदन दिनुहोस् र योग्य भएमा निःशुल्क e-PAN प्राप्त गर्नुहोस्।",
+    "url": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan/getNewEpan",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "voter",
+    "name": "Voter Services",
+    "category": "निर्वाचन",
+    "badge": "Election Commission of India",
+    "description": "मतदाता परिचयपत्रका लागि आवेदन दिनुहोस्, मतदाता विवरण अद्यावधिक गर्नुहोस् र मतदाता सूची खोज्नुहोस्।",
+    "url": "https://voters.eci.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "umang",
+    "name": "UMANG",
+    "category": "सरकारी सेवाहरू",
+    "badge": "एकीकृत सेवा प्लेटफर्म",
+    "description": "PF, पेन्सन, ग्यास, आधार तथा हजारौँ सरकारी सेवाहरू एउटै स्थानमा पहुँच गर्नुहोस्।",
+    "url": "https://web.umang.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "parivahan",
+    "name": "Driving Licence & Vehicle Services",
+    "category": "यातायात सेवाहरू",
+    "badge": "Parivahan Sewa",
+    "description": "ड्राइभिङ लाइसेन्स, सवारी दर्ता, RC तथा अन्य यातायात सेवाहरू पहुँच गर्नुहोस्।",
+    "url": "https://parivahan.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "passport",
+    "name": "Passport Seva",
+    "category": "यात्रा कागजातहरू",
+    "badge": "Ministry of External Affairs",
+    "description": "पासपोर्टका लागि आवेदन दिनुहोस्, अपोइन्टमेन्ट बुक गर्नुहोस् र आफ्नो आवेदनको स्थिति ट्र्याक गर्नुहोस्।",
+    "url": "https://www.passportindia.gov.in/",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "udyam",
+    "name": "MSME Registration",
+    "category": "व्यवसाय सेवाहरू",
+    "badge": "Udyam Registration Portal",
+    "description": "आफ्नो व्यवसायलाई MSME का रूपमा दर्ता गर्नुहोस् र सरकारी सुविधाहरूमा पहुँच प्राप्त गर्नुहोस्।",
+    "url": "https://www.udyamregistration.gov.in/UdyamRegistration.aspx",
+    "icon": "https://utukur.vidhwaan.com/icons/gov.png"
+  },
+  {
+    "id": "emergency",
+    "title": "आपतकालीन सेवा",
+    "number": "112",
+    "icon": "🚨",
+    "description": "प्रहरी, दमकल, चिकित्सा तथा अन्य आपतकालीन सहयोगका लागि भारतको एकीकृत आपतकालीन नम्बर।"
+  },
+  {
+    "id": "cybercrime",
+    "title": "राष्ट्रिय साइबर अपराध हेल्पलाइन",
+    "number": "1930",
+    "icon": "🛡️",
+    "description": "साइबर अपराध र विशेषगरी वित्तीय साइबर ठगी रिपोर्ट गर्नका लागि राष्ट्रिय हेल्पलाइन।"
+  },
+  {
+    "id": "women",
+    "title": "महिला हेल्पलाइन",
+    "number": "181",
+    "icon": "👩",
+    "description": "संकटमा परेका महिला तथा महिलासम्बन्धी सेवाका लागि सहयोग र सहायता प्रदान गर्ने सरकारी हेल्पलाइन।"
+  },
+  {
+    "id": "child",
+    "title": "बाल हेल्पलाइन",
+    "number": "1098",
+    "icon": "🧒",
+    "description": "संकटमा रहेका बालबालिका, संरक्षण, हेरचाह तथा आपतकालीन सहयोगका लागि राष्ट्रिय बाल हेल्पलाइन।"
+  },
+  {
+    "id": "elderline",
+    "title": "राष्ट्रिय ज्येष्ठ नागरिक हेल्पलाइन",
+    "number": "14567",
+    "icon": "🧓",
+    "description": "ज्येष्ठ नागरिकका लागि सहयोग, जानकारी, सहायता तथा गुनासो समाधानसम्बन्धी सेवा प्रदान गर्ने राष्ट्रिय Elderline सेवा।"
+  },
+  {
+    "id": "railways",
+    "title": "भारतीय रेलवे हेल्पलाइन",
+    "number": "139",
+    "icon": "🚂",
+    "description": "रेलवे सम्बन्धी जानकारी, गुनासो, सहायता तथा आपतकालीन सहयोगका लागि एकीकृत भारतीय रेलवे हेल्पलाइन।"
+  },
+  {
+    "id": "consumer",
+    "title": "राष्ट्रिय उपभोक्ता हेल्पलाइन",
+    "number": "1915",
+    "icon": "🛍️",
+    "description": "उपभोक्ता गुनासो दर्ता गर्न तथा त्यससम्बन्धी सहायता प्राप्त गर्नका लागि भारत सरकारको हेल्पलाइन।"
+  },
+  {
+    "id": "highways",
+    "title": "राष्ट्रिय राजमार्ग हेल्पलाइन",
+    "number": "1033",
+    "icon": "🛣️",
+    "description": "राष्ट्रिय राजमार्गमा आपतकालीन अवस्था, सवारी बिग्रिएको, एम्बुलेन्स तथा अन्य सहयोगका लागि २४x७ राष्ट्रिय राजमार्ग हेल्पलाइन।"
+  },
+  {
+    "id": "gas",
+    "title": "LPG चुहावट आपतकालीन हेल्पलाइन",
+    "number": "1906",
+    "icon": "🔥",
+    "description": "LPG चुहावट तथा सम्बन्धित LPG सुरक्षा आपतकालीन अवस्थाहरू रिपोर्ट गर्नका लागि भारतभर २४x७ आपतकालीन हेल्पलाइन।"
+  },
+  {
+    "id": "voter",
+    "title": "राष्ट्रिय मतदाता हेल्पलाइन",
+    "number": "1950",
+    "icon": "🗳️",
+    "description": "मतदाता दर्ता, मतदाता सूचीसम्बन्धी जानकारी, मतदान केन्द्रको विवरण तथा निर्वाचनसम्बन्धी सहयोगका लागि Election Commission of India हेल्पलाइन।"
+  },
+  {
+    "id": "electricity",
+    "title": "विद्युत् गुनासो हेल्पलाइन",
+    "number": "1912",
+    "icon": "⚡",
+    "description": "विद्युत् वितरण संस्थाहरूले विद्युत् आपूर्ति तथा विद्युत्सम्बन्धी गुनासो रिपोर्ट गर्न प्रयोग गर्ने छोटो नम्बर।"
+  },
+  {
+    "id": "aadhaar",
+    "title": "UIDAI Aadhaar हेल्पलाइन",
+    "number": "1947",
+    "icon": "🆔",
+    "description": "आधार नामांकन, अद्यावधिक, प्रमाणीकरण, स्थिति तथा अन्य आधारसम्बन्धी सहयोगका लागि आधिकारिक UIDAI हेल्पलाइन।"
+  },
+  {
+    "id": "kisan",
+    "title": "किसान कल सेन्टर",
+    "number": "1800-180-1551",
+    "icon": "🌾",
+    "description": "कृषि तथा सम्बन्धित क्षेत्रसम्बन्धी जानकारी र सुझाव प्रदान गर्ने राष्ट्रव्यापी टोल-फ्री कृषि हेल्पलाइन।"
+  },
+  {
+    "id": "tele_manas",
+    "title": "Tele-MANAS मानसिक स्वास्थ्य हेल्पलाइन",
+    "number": "14416",
+    "icon": "🧠",
+    "description": "मानसिक स्वास्थ्यसम्बन्धी सहयोग र सहायता प्रदान गर्ने भारत सरकारको राष्ट्रिय टेलि-मानसिक स्वास्थ्य सेवा।"
+  },
+  {
+    "id": "ayushman",
+    "title": "Ayushman Bharat PM-JAY हेल्पलाइन",
+    "number": "14555",
+    "icon": "🏥",
+    "description": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana सम्बन्धी जानकारी तथा लाभार्थी सहयोगका लागि राष्ट्रिय हेल्पलाइन।"
+  },
+  {
+    "id": "anti_ragging",
+    "title": "राष्ट्रिय एन्टी-र्‍यागिङ हेल्पलाइन",
+    "number": "1800-180-5522",
+    "icon": "🎓",
+    "description": "शैक्षिक संस्थाहरूमा हुने र्‍यागिङ रिपोर्ट गर्न तथा त्यससम्बन्धी सहायता प्राप्त गर्नका लागि राष्ट्रिय टोल-फ्री हेल्पलाइन।"
+  },
+  {
+    "id": "disaster",
+    "title": "विपद् व्यवस्थापन हेल्पलाइन",
+    "number": "1078",
+    "icon": "🆘",
+    "description": "विपद् तथा आपतकालीन अवस्थाका समयमा सहायता र जानकारीका लागि सरकारी विपद् व्यवस्थापन हेल्पलाइन।"
+  },
+  {
+    "id": "corruption_state",
+    "title": "भ्रष्टाचार विरोधी / सतर्कता हेल्पलाइन",
+    "number": "1064",
+    "icon": "🔍",
+    "description": "रिसवत तथा भ्रष्टाचारसम्बन्धी गुनासो रिपोर्ट गर्न State Vigilance तथा Anti-Corruption Bureaus द्वारा प्रयोग गरिने भ्रष्टाचार विरोधी तथा सतर्कता हेल्पलाइन।"
+  },
+  {
+    "id": "corruption_central",
+    "title": "Central Vigilance Commission",
+    "number": "1800-11-0180",
+    "icon": "⚖️",
+    "description": "आफ्नो अधिकार क्षेत्रअन्तर्गत सतर्कता तथा भ्रष्टाचारसम्बन्धी विषयका लागि Central Vigilance Commission को टोल-फ्री सम्पर्क नम्बर।"
+  },
+  {
+    "id": "legal_aid",
+    "title": "National Legal Services Authority",
+    "number": "15100",
+    "icon": "⚖️",
+    "description": "निःशुल्क कानुनी सेवासम्बन्धी जानकारी र सहायता प्राप्त गर्नका लागि राष्ट्रिय कानुनी सहायता हेल्पलाइन।"
+  },
+  {
+    "id": 1,
+    "badge": "आधिकारिक",
+    "time": "विश्वव्यापी नेटवर्क",
+    "title": "Vidhwaan",
+    "description": "गाउँमा आधारित विश्वव्यापी प्रविधि कम्पनी, जसले Vidhwaan प्लेटफर्म, प्रविधि उत्पादन, AI प्रणाली, सांस्कृतिक पहल, सामुदायिक परियोजना तथा भविष्यका नवप्रवर्तनहरूलाई एउटै एकीकृत नेटवर्कमार्फत जोड्ने आधिकारिक डिजिटल इकोसिस्टम हो।",
+    "url": "https://vidhwaan.com"
+  },
+  {
+    "id": 2,
+    "badge": "प्रविधि",
+    "time": "विश्वव्यापी",
+    "title": "Vidhwaan Technologies",
+    "description": "स्टार्टअप, उद्यम तथा विश्वभरका समुदायहरूका लागि निर्माण गरिएका आधुनिक डिजिटल पूर्वाधार, स्वचालन प्रणाली, क्लाउड-नेटिभ प्लेटफर्म तथा विस्तारयोग्य सफ्टवेयर समाधानहरू।",
+    "url": "https://tech.vidhwaan.com"
+  },
+  {
+    "id": 3,
+    "badge": "AI इकोसिस्टम",
+    "time": "प्रमुख",
+    "title": "Vidhwaan AI",
+    "description": "Vidhwaan इकोसिस्टमभर बुद्धिमान सहायक, स्वचालन प्रणाली, उत्पादकता उपकरण, ज्ञान इन्जिन तथा नयाँ पुस्ताका डिजिटल अनुभवहरू सञ्चालन गर्ने उन्नत AI प्लेटफर्म।",
+    "url": "https://ai.vidhwaan.com"
+  },
+  {
+    "id": 4,
+    "badge": "व्यवसाय प्लेटफर्म",
+    "time": "व्यवसाय",
+    "title": "Vidhwaan Business",
+    "description": "सरल, आधुनिक तथा पहुँचयोग्य प्रविधिमार्फत व्यवसायहरूलाई व्यावसायिक वेबसाइट र ई-कमर्स एप्लिकेसन सिर्जना गर्न सहयोग गर्ने डिजिटल व्यवसाय प्लेटफर्म।",
+    "url": "https://business.vidhwaan.com"
+  },
+  {
+    "id": 5,
+    "badge": "फाउन्डेसन",
+    "time": "सामाजिक प्रभाव",
+    "title": "Vidhwaan Foundation",
+    "description": "पहुँच, शिक्षा, समावेशिता तथा सामुदायिक सशक्तीकरणमा केन्द्रित प्रविधि-सञ्चालित सामाजिक पहलहरू।",
+    "url": "https://foundation.vidhwaan.com"
+  },
+  {
+    "id": 6,
+    "badge": "AI सेवाहरू",
+    "time": "स्मार्ट स्वचालन",
+    "title": "VidhAI",
+    "description": "AI-सञ्चालित स्वचालन, बुद्धिमान व्यवसायिक समाधान, वेबसाइट विकास, कार्यप्रवाह अनुकूलन तथा आधुनिक डिजिटल रूपान्तरण सेवाहरू।",
+    "url": "https://vidhai.vidhwaan.com"
+  },
+  {
+    "id": 7,
+    "badge": "मार्केटप्लेस",
+    "time": "बजार",
+    "title": "Online Shop",
+    "description": "आधुनिक गाउँ-केन्द्रित मार्केटप्लेस इकोसिस्टममार्फत स्थानीय उत्पादन, सेवा तथा गाउँका व्यवसायहरूलाई जोड्ने डिजिटल वाणिज्य प्लेटफर्म।",
+    "url": "https://market.vidhwaan.com"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan Ecommerce",
+    "youtube": "https://youtube.com/shorts/vbKKKwyrazM?si=EuTQHsb7JtQEmtnc",
+    "description": "कुनै प्राविधिक ज्ञानबिना आफ्नो व्यावसायिक Ecommerce एप सिर्जना गर्नुहोस्!"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan Global Website",
+    "youtube": "https://youtube.com/shorts/XzPM77G7k7k?si=bxUJY1f3TRzTYU7Y",
+    "description": "कुनै प्राविधिक ज्ञानबिना आफ्नो व्यावसायिक Global Website सिर्जना गर्नुहोस्!"
+  },
+  {
+    "type": "video",
+    "title": "Vidhwaan NEET",
+    "youtube": "https://youtube.com/shorts/yJllgrJpHGI?si=JgHT4lJMW2vk1f2o",
+    "description": "तपाईंको NEET यात्राका लागि व्यवस्थित ३६५-दिने दैनिक तयारी योजना!"
+  }
+]

@@ -35,7 +35,8 @@ const EXCLUDED_DIRECTORIES = new Set([
 
 const EXCLUDED_FILES = new Set([
   "scripts/protect.js",
-  "template.html"
+  "template.html",
+  "india.json"
 ]);
 
 async function discoverFiles(directory = ROOT) {
