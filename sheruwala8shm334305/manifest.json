@@ -1,0 +1,62 @@
+{
+  "name": "Sheruwala-8Shm Tech Universe",
+
+  "short_name": "Sheruwala-8Shm",
+
+  "description": "The futuristic tech ecosystem of Sheruwala-8Shm.",
+
+  "start_url": "/sheruwala8shm334305/",
+
+  "scope": "/sheruwala8shm334305/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Sheruwala-8Shm Tech Universe"
+    }
+
+  ]
+}

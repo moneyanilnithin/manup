@@ -1,0 +1,62 @@
+{
+  "name": "Raimakulakunta Tech Universe",
+
+  "short_name": "Raimakulakunta",
+
+  "description": "The futuristic tech ecosystem of Raimakulakunta.",
+
+  "start_url": "/raimakulakunta509153/",
+
+  "scope": "/raimakulakunta509153/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Raimakulakunta Tech Universe"
+    }
+
+  ]
+}

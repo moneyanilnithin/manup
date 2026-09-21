@@ -1,0 +1,62 @@
+{
+  "name": "TetariyaKalan Tech Universe",
+
+  "short_name": "TetariyaKalan",
+
+  "description": "The futuristic tech ecosystem of TetariyaKalan.",
+
+  "start_url": "/tetariyakalan824220/",
+
+  "scope": "/tetariyakalan824220/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "TetariyaKalan Tech Universe"
+    }
+
+  ]
+}

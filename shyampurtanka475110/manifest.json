@@ -1,0 +1,62 @@
+{
+  "name": "ShyampurTanka Tech Universe",
+
+  "short_name": "ShyampurTanka",
+
+  "description": "The futuristic tech ecosystem of ShyampurTanka.",
+
+  "start_url": "/shyampurtanka475110/",
+
+  "scope": "/shyampurtanka475110/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ShyampurTanka Tech Universe"
+    }
+
+  ]
+}

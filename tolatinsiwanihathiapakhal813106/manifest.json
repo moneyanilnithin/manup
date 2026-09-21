@@ -1,0 +1,62 @@
+{
+  "name": "TolaTinsiwaniHathiaPakhal Tech Universe",
+
+  "short_name": "TolaTinsiwaniHathiaPakhal",
+
+  "description": "The futuristic tech ecosystem of TolaTinsiwaniHathiaPakhal.",
+
+  "start_url": "/tolatinsiwanihathiapakhal813106/",
+
+  "scope": "/tolatinsiwanihathiapakhal813106/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "TolaTinsiwaniHathiaPakhal Tech Universe"
+    }
+
+  ]
+}

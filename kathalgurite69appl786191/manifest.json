@@ -1,0 +1,62 @@
+{
+  "name": "KathalguriT.E.69Appl Tech Universe",
+
+  "short_name": "KathalguriT.E.69Appl",
+
+  "description": "The futuristic tech ecosystem of KathalguriT.E.69Appl.",
+
+  "start_url": "/kathalgurite69appl786191/",
+
+  "scope": "/kathalgurite69appl786191/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "KathalguriT.E.69Appl Tech Universe"
+    }
+
+  ]
+}

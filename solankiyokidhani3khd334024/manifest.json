@@ -1,0 +1,62 @@
+{
+  "name": "SolankiyoKiDhani-3Khd Tech Universe",
+
+  "short_name": "SolankiyoKiDhani-3Khd",
+
+  "description": "The futuristic tech ecosystem of SolankiyoKiDhani-3Khd.",
+
+  "start_url": "/solankiyokidhani3khd334024/",
+
+  "scope": "/solankiyokidhani3khd334024/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "SolankiyoKiDhani-3Khd Tech Universe"
+    }
+
+  ]
+}

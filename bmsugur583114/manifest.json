@@ -1,0 +1,62 @@
+{
+  "name": "B.M.Sugur Tech Universe",
+
+  "short_name": "B.M.Sugur",
+
+  "description": "The futuristic tech ecosystem of B.M.Sugur.",
+
+  "start_url": "/bmsugur583114/",
+
+  "scope": "/bmsugur583114/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "B.M.Sugur Tech Universe"
+    }
+
+  ]
+}

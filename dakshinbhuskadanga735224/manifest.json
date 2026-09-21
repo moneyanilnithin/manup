@@ -1,0 +1,62 @@
+{
+  "name": "DakshinBhuskadanga Tech Universe",
+
+  "short_name": "DakshinBhuskadanga",
+
+  "description": "The futuristic tech ecosystem of DakshinBhuskadanga.",
+
+  "start_url": "/dakshinbhuskadanga735224/",
+
+  "scope": "/dakshinbhuskadanga735224/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "DakshinBhuskadanga Tech Universe"
+    }
+
+  ]
+}

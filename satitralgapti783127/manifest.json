@@ -1,0 +1,62 @@
+{
+  "name": "SatitralgaPt.I Tech Universe",
+
+  "short_name": "SatitralgaPt.I",
+
+  "description": "The futuristic tech ecosystem of SatitralgaPt.I.",
+
+  "start_url": "/satitralgapti783127/",
+
+  "scope": "/satitralgapti783127/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "SatitralgaPt.I Tech Universe"
+    }
+
+  ]
+}

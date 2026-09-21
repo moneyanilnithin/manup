@@ -1,0 +1,219 @@
+/* =========================================
+   VIDHWAAN VILLAGE UNIVERSE
+   SERVICE WORKER TEMPLATE
+========================================= */
+
+/*
+CI/CD VARIABLES
+
+24-25Kyd-24KydB
+2425kyd24kydb334023
+
+Example
+
+24-25Kyd-24KydB   = Utukur
+2425kyd24kydb334023 = utukur524407
+*/
+
+
+const CACHE_NAME =
+  "2425kyd24kydb334023-v1";
+
+/* =========================================
+   INSTALL
+========================================= */
+
+self.addEventListener(
+  "install",
+  () => {
+
+    self.skipWaiting();
+
+  }
+);
+
+/* =========================================
+   ACTIVATE
+========================================= */
+
+self.addEventListener(
+  "activate",
+  event => {
+
+    event.waitUntil(
+
+      Promise.all([
+
+        caches.keys()
+          .then(keys =>
+            Promise.all(
+
+              keys.map(key => {
+
+                if (
+                  key !== CACHE_NAME
+                ) {
+
+                  return caches.delete(
+                    key
+                  );
+
+                }
+
+              })
+
+            )
+          ),
+
+        self.clients.claim()
+
+      ])
+
+    );
+
+  }
+);
+
+/* =========================================
+   NETWORK FIRST
+========================================= */
+
+self.addEventListener(
+  "fetch",
+  event => {
+
+    if (
+      event.request.method !==
+      "GET"
+    ) {
+      return;
+    }
+
+    event.respondWith(
+
+      fetch(
+        event.request
+      )
+
+      .then(response => {
+
+        const responseClone =
+          response.clone();
+
+        caches
+          .open(CACHE_NAME)
+          .then(cache => {
+
+            cache.put(
+              event.request,
+              responseClone
+            );
+
+          });
+
+        return response;
+
+      })
+
+      .catch(() => {
+
+        return caches.match(
+          event.request
+        );
+
+      })
+
+    );
+
+  }
+);
+
+/* =========================================
+   SKIP WAITING
+========================================= */
+
+self.addEventListener(
+  "message",
+  event => {
+
+    if (
+
+      event.data &&
+      event.data.type ===
+      "SKIP_WAITING"
+
+    ) {
+
+      self.skipWaiting();
+
+    }
+
+  }
+);
+
+/* =========================================
+   PUSH
+========================================= */
+
+self.addEventListener(
+  "push",
+  event => {
+
+    if (!event.data) {
+      return;
+    }
+
+    const data =
+      event.data.json();
+
+    self.registration.showNotification(
+
+      data.title || "24-25Kyd-24KydB",
+
+      {
+        body:
+          data.body || "",
+
+        icon:
+          "/icons/icon-192.png",
+
+        badge:
+          "/icons/icon-192.png",
+
+        data:
+          data.url || "/2425kyd24kydb334023/"
+      }
+
+    );
+
+  }
+);
+
+/* =========================================
+   NOTIFICATION CLICK
+========================================= */
+
+self.addEventListener(
+  "notificationclick",
+  event => {
+
+    event.notification.close();
+
+    event.waitUntil(
+
+      clients.openWindow(
+
+        event.notification.data ||
+
+        "/2425kyd24kydb334023/"
+
+      )
+
+    );
+
+  }
+);
+
+console.log(
+  "24-25Kyd-24KydB Service Worker Loaded"
+);

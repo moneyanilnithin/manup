@@ -1,0 +1,62 @@
+{
+  "name": "Giddhmudi Tech Universe",
+
+  "short_name": "Giddhmudi",
+
+  "description": "The futuristic tech ecosystem of Giddhmudi.",
+
+  "start_url": "/giddhmudi497449/",
+
+  "scope": "/giddhmudi497449/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Giddhmudi Tech Universe"
+    }
+
+  ]
+}

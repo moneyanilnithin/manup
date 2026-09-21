@@ -1,0 +1,62 @@
+{
+  "name": "Kishanpura3Bjw-IIA Tech Universe",
+
+  "short_name": "Kishanpura3Bjw-IIA",
+
+  "description": "The futuristic tech ecosystem of Kishanpura3Bjw-IIA.",
+
+  "start_url": "/kishanpura3bjwiia335804/",
+
+  "scope": "/kishanpura3bjwiia335804/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Kishanpura3Bjw-IIA Tech Universe"
+    }
+
+  ]
+}

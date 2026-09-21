@@ -1,0 +1,62 @@
+{
+  "name": "Karaiyamura Tech Universe",
+
+  "short_name": "Karaiyamura",
+
+  "description": "The futuristic tech ecosystem of Karaiyamura.",
+
+  "start_url": "/karaiyamura799013/",
+
+  "scope": "/karaiyamura799013/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Karaiyamura Tech Universe"
+    }
+
+  ]
+}

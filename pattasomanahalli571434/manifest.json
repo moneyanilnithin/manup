@@ -1,0 +1,62 @@
+{
+  "name": "Pattasomanahalli Tech Universe",
+
+  "short_name": "Pattasomanahalli",
+
+  "description": "The futuristic tech ecosystem of Pattasomanahalli.",
+
+  "start_url": "/pattasomanahalli571434/",
+
+  "scope": "/pattasomanahalli571434/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Pattasomanahalli Tech Universe"
+    }
+
+  ]
+}

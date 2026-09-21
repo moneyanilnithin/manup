@@ -1,0 +1,62 @@
+{
+  "name": "ButlerBayForestCamp4-Ii Tech Universe",
+
+  "short_name": "ButlerBayForestCamp4-Ii",
+
+  "description": "The futuristic tech ecosystem of ButlerBayForestCamp4-Ii.",
+
+  "start_url": "/butlerbayforestcamp4ii744207/",
+
+  "scope": "/butlerbayforestcamp4ii744207/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ButlerBayForestCamp4-Ii Tech Universe"
+    }
+
+  ]
+}

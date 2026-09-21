@@ -1,0 +1,62 @@
+{
+  "name": "DhupaGuriKachariGaon Tech Universe",
+
+  "short_name": "DhupaGuriKachariGaon",
+
+  "description": "The futuristic tech ecosystem of DhupaGuriKachariGaon.",
+
+  "start_url": "/dhupagurikacharigaon782123/",
+
+  "scope": "/dhupagurikacharigaon782123/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "DhupaGuriKachariGaon Tech Universe"
+    }
+
+  ]
+}

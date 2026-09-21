@@ -1,0 +1,62 @@
+{
+  "name": "PatiarparaPt-I Tech Universe",
+
+  "short_name": "PatiarparaPt-I",
+
+  "description": "The futuristic tech ecosystem of PatiarparaPt-I.",
+
+  "start_url": "/patiarparapti783134/",
+
+  "scope": "/patiarparapti783134/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "PatiarparaPt-I Tech Universe"
+    }
+
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Wadachiwadi Tech Universe",
+
+  "short_name": "Wadachiwadi",
+
+  "description": "The futuristic tech ecosystem of Wadachiwadi.",
+
+  "start_url": "/wadachiwadi412803/",
+
+  "scope": "/wadachiwadi412803/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Wadachiwadi Tech Universe"
+    }
+
+  ]
+}

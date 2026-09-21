@@ -1,0 +1,62 @@
+{
+  "name": "JangalMehfuzaMehdudaC-238 Tech Universe",
+
+  "short_name": "JangalMehfuzaMehdudaC-238",
+
+  "description": "The futuristic tech ecosystem of JangalMehfuzaMehdudaC-238.",
+
+  "start_url": "/jangalmehfuzamehdudac238172108/",
+
+  "scope": "/jangalmehfuzamehdudac238172108/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "JangalMehfuzaMehdudaC-238 Tech Universe"
+    }
+
+  ]
+}

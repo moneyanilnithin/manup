@@ -1,0 +1,62 @@
+{
+  "name": "PaliyaSiswa Tech Universe",
+
+  "short_name": "PaliyaSiswa",
+
+  "description": "The futuristic tech ecosystem of PaliyaSiswa.",
+
+  "start_url": "/paliyasiswa272204/",
+
+  "scope": "/paliyasiswa272204/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "PaliyaSiswa Tech Universe"
+    }
+
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "KasbaPahalwanpur Tech Universe",
+
+  "short_name": "KasbaPahalwanpur",
+
+  "description": "The futuristic tech ecosystem of KasbaPahalwanpur.",
+
+  "start_url": "/kasbapahalwanpur276126/",
+
+  "scope": "/kasbapahalwanpur276126/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "KasbaPahalwanpur Tech Universe"
+    }
+
+  ]
+}

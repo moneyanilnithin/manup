@@ -1,0 +1,62 @@
+{
+  "name": "Lorrojig&VishnuNallaha Tech Universe",
+
+  "short_name": "Lorrojig&VishnuNallaha",
+
+  "description": "The futuristic tech ecosystem of Lorrojig&VishnuNallaha.",
+
+  "start_url": "/lorrojigvishnunallaha744210/",
+
+  "scope": "/lorrojigvishnunallaha744210/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Lorrojig&VishnuNallaha Tech Universe"
+    }
+
+  ]
+}

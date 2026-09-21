@@ -1,0 +1,62 @@
+{
+  "name": "DighaliPt-Iii Tech Universe",
+
+  "short_name": "DighaliPt-Iii",
+
+  "description": "The futuristic tech ecosystem of DighaliPt-Iii.",
+
+  "start_url": "/dighaliptiii783123/",
+
+  "scope": "/dighaliptiii783123/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "DighaliPt-Iii Tech Universe"
+    }
+
+  ]
+}

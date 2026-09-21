@@ -1,0 +1,62 @@
+{
+  "name": "Poojaramanahalli Tech Universe",
+
+  "short_name": "Poojaramanahalli",
+
+  "description": "The futuristic tech ecosystem of Poojaramanahalli.",
+
+  "start_url": "/poojaramanahalli562114/",
+
+  "scope": "/poojaramanahalli562114/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Poojaramanahalli Tech Universe"
+    }
+
+  ]
+}

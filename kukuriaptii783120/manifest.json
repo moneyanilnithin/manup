@@ -1,0 +1,62 @@
+{
+  "name": "KukuriaPt-Ii Tech Universe",
+
+  "short_name": "KukuriaPt-Ii",
+
+  "description": "The futuristic tech ecosystem of KukuriaPt-Ii.",
+
+  "start_url": "/kukuriaptii783120/",
+
+  "scope": "/kukuriaptii783120/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "KukuriaPt-Ii Tech Universe"
+    }
+
+  ]
+}

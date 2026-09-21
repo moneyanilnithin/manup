@@ -1,0 +1,62 @@
+{
+  "name": "Vadlur-Begumpet Tech Universe",
+
+  "short_name": "Vadlur-Begumpet",
+
+  "description": "The futuristic tech ecosystem of Vadlur-Begumpet.",
+
+  "start_url": "/vadlurbegumpet505530/",
+
+  "scope": "/vadlurbegumpet505530/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Vadlur-Begumpet Tech Universe"
+    }
+
+  ]
+}

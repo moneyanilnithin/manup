@@ -1,0 +1,62 @@
+{
+  "name": "DhamangaonPat Tech Universe",
+
+  "short_name": "DhamangaonPat",
+
+  "description": "The futuristic tech ecosystem of DhamangaonPat.",
+
+  "start_url": "/dhamangaonpat422610/",
+
+  "scope": "/dhamangaonpat422610/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "DhamangaonPat Tech Universe"
+    }
+
+  ]
+}

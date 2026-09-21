@@ -1,0 +1,62 @@
+{
+  "name": "ChatSardarpura Tech Universe",
+
+  "short_name": "ChatSardarpura",
+
+  "description": "The futuristic tech ecosystem of ChatSardarpura.",
+
+  "start_url": "/chatsardarpura305205/",
+
+  "scope": "/chatsardarpura305205/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ChatSardarpura Tech Universe"
+    }
+
+  ]
+}

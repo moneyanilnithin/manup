@@ -1,0 +1,219 @@
+/* =========================================
+   VIDHWAAN VILLAGE UNIVERSE
+   SERVICE WORKER TEMPLATE
+========================================= */
+
+/*
+CI/CD VARIABLES
+
+ChakHabibullah
+chakhabibullah221601
+
+Example
+
+ChakHabibullah   = Utukur
+chakhabibullah221601 = utukur524407
+*/
+
+
+const CACHE_NAME =
+  "chakhabibullah221601-v1";
+
+/* =========================================
+   INSTALL
+========================================= */
+
+self.addEventListener(
+  "install",
+  () => {
+
+    self.skipWaiting();
+
+  }
+);
+
+/* =========================================
+   ACTIVATE
+========================================= */
+
+self.addEventListener(
+  "activate",
+  event => {
+
+    event.waitUntil(
+
+      Promise.all([
+
+        caches.keys()
+          .then(keys =>
+            Promise.all(
+
+              keys.map(key => {
+
+                if (
+                  key !== CACHE_NAME
+                ) {
+
+                  return caches.delete(
+                    key
+                  );
+
+                }
+
+              })
+
+            )
+          ),
+
+        self.clients.claim()
+
+      ])
+
+    );
+
+  }
+);
+
+/* =========================================
+   NETWORK FIRST
+========================================= */
+
+self.addEventListener(
+  "fetch",
+  event => {
+
+    if (
+      event.request.method !==
+      "GET"
+    ) {
+      return;
+    }
+
+    event.respondWith(
+
+      fetch(
+        event.request
+      )
+
+      .then(response => {
+
+        const responseClone =
+          response.clone();
+
+        caches
+          .open(CACHE_NAME)
+          .then(cache => {
+
+            cache.put(
+              event.request,
+              responseClone
+            );
+
+          });
+
+        return response;
+
+      })
+
+      .catch(() => {
+
+        return caches.match(
+          event.request
+        );
+
+      })
+
+    );
+
+  }
+);
+
+/* =========================================
+   SKIP WAITING
+========================================= */
+
+self.addEventListener(
+  "message",
+  event => {
+
+    if (
+
+      event.data &&
+      event.data.type ===
+      "SKIP_WAITING"
+
+    ) {
+
+      self.skipWaiting();
+
+    }
+
+  }
+);
+
+/* =========================================
+   PUSH
+========================================= */
+
+self.addEventListener(
+  "push",
+  event => {
+
+    if (!event.data) {
+      return;
+    }
+
+    const data =
+      event.data.json();
+
+    self.registration.showNotification(
+
+      data.title || "ChakHabibullah",
+
+      {
+        body:
+          data.body || "",
+
+        icon:
+          "/icons/icon-192.png",
+
+        badge:
+          "/icons/icon-192.png",
+
+        data:
+          data.url || "/chakhabibullah221601/"
+      }
+
+    );
+
+  }
+);
+
+/* =========================================
+   NOTIFICATION CLICK
+========================================= */
+
+self.addEventListener(
+  "notificationclick",
+  event => {
+
+    event.notification.close();
+
+    event.waitUntil(
+
+      clients.openWindow(
+
+        event.notification.data ||
+
+        "/chakhabibullah221601/"
+
+      )
+
+    );
+
+  }
+);
+
+console.log(
+  "ChakHabibullah Service Worker Loaded"
+);

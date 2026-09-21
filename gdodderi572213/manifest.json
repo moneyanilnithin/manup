@@ -1,0 +1,62 @@
+{
+  "name": "G.Dodderi Tech Universe",
+
+  "short_name": "G.Dodderi",
+
+  "description": "The futuristic tech ecosystem of G.Dodderi.",
+
+  "start_url": "/gdodderi572213/",
+
+  "scope": "/gdodderi572213/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "G.Dodderi Tech Universe"
+    }
+
+  ]
+}

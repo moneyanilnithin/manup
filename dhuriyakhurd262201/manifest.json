@@ -1,0 +1,62 @@
+{
+  "name": "DhuriyaKhurd Tech Universe",
+
+  "short_name": "DhuriyaKhurd",
+
+  "description": "The futuristic tech ecosystem of DhuriyaKhurd.",
+
+  "start_url": "/dhuriyakhurd262201/",
+
+  "scope": "/dhuriyakhurd262201/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "DhuriyaKhurd Tech Universe"
+    }
+
+  ]
+}

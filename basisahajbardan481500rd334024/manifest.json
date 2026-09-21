@@ -1,0 +1,62 @@
+{
+  "name": "BasiSahajbardan-481-500-Rd Tech Universe",
+
+  "short_name": "BasiSahajbardan-481-500-Rd",
+
+  "description": "The futuristic tech ecosystem of BasiSahajbardan-481-500-Rd.",
+
+  "start_url": "/basisahajbardan481500rd334024/",
+
+  "scope": "/basisahajbardan481500rd334024/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "BasiSahajbardan-481-500-Rd Tech Universe"
+    }
+
+  ]
+}

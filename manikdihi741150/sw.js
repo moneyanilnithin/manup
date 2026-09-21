@@ -1,0 +1,219 @@
+/* =========================================
+   VIDHWAAN VILLAGE UNIVERSE
+   SERVICE WORKER TEMPLATE
+========================================= */
+
+/*
+CI/CD VARIABLES
+
+Manikdihi
+manikdihi741150
+
+Example
+
+Manikdihi   = Utukur
+manikdihi741150 = utukur524407
+*/
+
+
+const CACHE_NAME =
+  "manikdihi741150-v1";
+
+/* =========================================
+   INSTALL
+========================================= */
+
+self.addEventListener(
+  "install",
+  () => {
+
+    self.skipWaiting();
+
+  }
+);
+
+/* =========================================
+   ACTIVATE
+========================================= */
+
+self.addEventListener(
+  "activate",
+  event => {
+
+    event.waitUntil(
+
+      Promise.all([
+
+        caches.keys()
+          .then(keys =>
+            Promise.all(
+
+              keys.map(key => {
+
+                if (
+                  key !== CACHE_NAME
+                ) {
+
+                  return caches.delete(
+                    key
+                  );
+
+                }
+
+              })
+
+            )
+          ),
+
+        self.clients.claim()
+
+      ])
+
+    );
+
+  }
+);
+
+/* =========================================
+   NETWORK FIRST
+========================================= */
+
+self.addEventListener(
+  "fetch",
+  event => {
+
+    if (
+      event.request.method !==
+      "GET"
+    ) {
+      return;
+    }
+
+    event.respondWith(
+
+      fetch(
+        event.request
+      )
+
+      .then(response => {
+
+        const responseClone =
+          response.clone();
+
+        caches
+          .open(CACHE_NAME)
+          .then(cache => {
+
+            cache.put(
+              event.request,
+              responseClone
+            );
+
+          });
+
+        return response;
+
+      })
+
+      .catch(() => {
+
+        return caches.match(
+          event.request
+        );
+
+      })
+
+    );
+
+  }
+);
+
+/* =========================================
+   SKIP WAITING
+========================================= */
+
+self.addEventListener(
+  "message",
+  event => {
+
+    if (
+
+      event.data &&
+      event.data.type ===
+      "SKIP_WAITING"
+
+    ) {
+
+      self.skipWaiting();
+
+    }
+
+  }
+);
+
+/* =========================================
+   PUSH
+========================================= */
+
+self.addEventListener(
+  "push",
+  event => {
+
+    if (!event.data) {
+      return;
+    }
+
+    const data =
+      event.data.json();
+
+    self.registration.showNotification(
+
+      data.title || "Manikdihi",
+
+      {
+        body:
+          data.body || "",
+
+        icon:
+          "/icons/icon-192.png",
+
+        badge:
+          "/icons/icon-192.png",
+
+        data:
+          data.url || "/manikdihi741150/"
+      }
+
+    );
+
+  }
+);
+
+/* =========================================
+   NOTIFICATION CLICK
+========================================= */
+
+self.addEventListener(
+  "notificationclick",
+  event => {
+
+    event.notification.close();
+
+    event.waitUntil(
+
+      clients.openWindow(
+
+        event.notification.data ||
+
+        "/manikdihi741150/"
+
+      )
+
+    );
+
+  }
+);
+
+console.log(
+  "Manikdihi Service Worker Loaded"
+);

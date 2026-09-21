@@ -1,0 +1,62 @@
+{
+  "name": "BalarcharPtIII Tech Universe",
+
+  "short_name": "BalarcharPtIII",
+
+  "description": "The futuristic tech ecosystem of BalarcharPtIII.",
+
+  "start_url": "/balarcharptiii783383/",
+
+  "scope": "/balarcharptiii783383/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "BalarcharPtIII Tech Universe"
+    }
+
+  ]
+}

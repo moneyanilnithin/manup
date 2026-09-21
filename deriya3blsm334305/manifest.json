@@ -1,0 +1,62 @@
+{
+  "name": "Deriya-3Blsm Tech Universe",
+
+  "short_name": "Deriya-3Blsm",
+
+  "description": "The futuristic tech ecosystem of Deriya-3Blsm.",
+
+  "start_url": "/deriya3blsm334305/",
+
+  "scope": "/deriya3blsm334305/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Deriya-3Blsm Tech Universe"
+    }
+
+  ]
+}

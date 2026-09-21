@@ -1,0 +1,62 @@
+{
+  "name": "KanchanpurAseNo.1 Tech Universe",
+
+  "short_name": "KanchanpurAseNo.1",
+
+  "description": "The futuristic tech ecosystem of KanchanpurAseNo.1.",
+
+  "start_url": "/kanchanpuraseno1207247/",
+
+  "scope": "/kanchanpuraseno1207247/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "KanchanpurAseNo.1 Tech Universe"
+    }
+
+  ]
+}

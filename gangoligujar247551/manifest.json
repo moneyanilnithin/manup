@@ -1,0 +1,62 @@
+{
+  "name": "GangoliGujar Tech Universe",
+
+  "short_name": "GangoliGujar",
+
+  "description": "The futuristic tech ecosystem of GangoliGujar.",
+
+  "start_url": "/gangoligujar247551/",
+
+  "scope": "/gangoligujar247551/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "GangoliGujar Tech Universe"
+    }
+
+  ]
+}

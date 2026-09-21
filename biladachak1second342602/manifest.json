@@ -1,0 +1,62 @@
+{
+  "name": "BiladaChak-1Second Tech Universe",
+
+  "short_name": "BiladaChak-1Second",
+
+  "description": "The futuristic tech ecosystem of BiladaChak-1Second.",
+
+  "start_url": "/biladachak1second342602/",
+
+  "scope": "/biladachak1second342602/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "BiladaChak-1Second Tech Universe"
+    }
+
+  ]
+}

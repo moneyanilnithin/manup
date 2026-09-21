@@ -1,0 +1,62 @@
+{
+  "name": "JooktoliBarbam106/103/124/17 Tech Universe",
+
+  "short_name": "JooktoliBarbam106/103/124/17",
+
+  "description": "The futuristic tech ecosystem of JooktoliBarbam106/103/124/17.",
+
+  "start_url": "/jooktolibarbam10610312417786612/",
+
+  "scope": "/jooktolibarbam10610312417786612/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "JooktoliBarbam106/103/124/17 Tech Universe"
+    }
+
+  ]
+}

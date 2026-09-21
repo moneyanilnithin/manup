@@ -1,0 +1,62 @@
+{
+  "name": "TherkkuKallikulam Tech Universe",
+
+  "short_name": "TherkkuKallikulam",
+
+  "description": "The futuristic tech ecosystem of TherkkuKallikulam.",
+
+  "start_url": "/therkkukallikulam627113/",
+
+  "scope": "/therkkukallikulam627113/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "TherkkuKallikulam Tech Universe"
+    }
+
+  ]
+}

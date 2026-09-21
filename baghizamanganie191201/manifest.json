@@ -1,0 +1,62 @@
+{
+  "name": "BaghiZamanGanie Tech Universe",
+
+  "short_name": "BaghiZamanGanie",
+
+  "description": "The futuristic tech ecosystem of BaghiZamanGanie.",
+
+  "start_url": "/baghizamanganie191201/",
+
+  "scope": "/baghizamanganie191201/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#07111f",
+
+  "theme_color": "#07111f",
+
+  "lang": "en",
+
+  "dir": "ltr",
+
+  "categories": [
+
+    "education",
+    "lifestyle",
+    "shopping",
+    "social"
+
+  ],
+
+  "icons": [
+
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "BaghiZamanGanie Tech Universe"
+    }
+
+  ]
+}

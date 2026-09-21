@@ -1,0 +1,219 @@
+/* =========================================
+   VIDHWAAN VILLAGE UNIVERSE
+   SERVICE WORKER TEMPLATE
+========================================= */
+
+/*
+CI/CD VARIABLES
+
+Kondangi
+kondangi497449
+
+Example
+
+Kondangi   = Utukur
+kondangi497449 = utukur524407
+*/
+
+
+const CACHE_NAME =
+  "kondangi497449-v1";
+
+/* =========================================
+   INSTALL
+========================================= */
+
+self.addEventListener(
+  "install",
+  () => {
+
+    self.skipWaiting();
+
+  }
+);
+
+/* =========================================
+   ACTIVATE
+========================================= */
+
+self.addEventListener(
+  "activate",
+  event => {
+
+    event.waitUntil(
+
+      Promise.all([
+
+        caches.keys()
+          .then(keys =>
+            Promise.all(
+
+              keys.map(key => {
+
+                if (
+                  key !== CACHE_NAME
+                ) {
+
+                  return caches.delete(
+                    key
+                  );
+
+                }
+
+              })
+
+            )
+          ),
+
+        self.clients.claim()
+
+      ])
+
+    );
+
+  }
+);
+
+/* =========================================
+   NETWORK FIRST
+========================================= */
+
+self.addEventListener(
+  "fetch",
+  event => {
+
+    if (
+      event.request.method !==
+      "GET"
+    ) {
+      return;
+    }
+
+    event.respondWith(
+
+      fetch(
+        event.request
+      )
+
+      .then(response => {
+
+        const responseClone =
+          response.clone();
+
+        caches
+          .open(CACHE_NAME)
+          .then(cache => {
+
+            cache.put(
+              event.request,
+              responseClone
+            );
+
+          });
+
+        return response;
+
+      })
+
+      .catch(() => {
+
+        return caches.match(
+          event.request
+        );
+
+      })
+
+    );
+
+  }
+);
+
+/* =========================================
+   SKIP WAITING
+========================================= */
+
+self.addEventListener(
+  "message",
+  event => {
+
+    if (
+
+      event.data &&
+      event.data.type ===
+      "SKIP_WAITING"
+
+    ) {
+
+      self.skipWaiting();
+
+    }
+
+  }
+);
+
+/* =========================================
+   PUSH
+========================================= */
+
+self.addEventListener(
+  "push",
+  event => {
+
+    if (!event.data) {
+      return;
+    }
+
+    const data =
+      event.data.json();
+
+    self.registration.showNotification(
+
+      data.title || "Kondangi",
+
+      {
+        body:
+          data.body || "",
+
+        icon:
+          "/icons/icon-192.png",
+
+        badge:
+          "/icons/icon-192.png",
+
+        data:
+          data.url || "/kondangi497449/"
+      }
+
+    );
+
+  }
+);
+
+/* =========================================
+   NOTIFICATION CLICK
+========================================= */
+
+self.addEventListener(
+  "notificationclick",
+  event => {
+
+    event.notification.close();
+
+    event.waitUntil(
+
+      clients.openWindow(
+
+        event.notification.data ||
+
+        "/kondangi497449/"
+
+      )
+
+    );
+
+  }
+);
+
+console.log(
+  "Kondangi Service Worker Loaded"
+);
