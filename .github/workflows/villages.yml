@@ -135,6 +135,8 @@ jobs:
 
             "icons",
 
+            "scripts",
+
             "template.html",
 
             "manifest.json",
