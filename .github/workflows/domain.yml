@@ -1,52 +1,28 @@
-name: Deploy Bharat GitHub Pages
+name: Rename CNAME
 
 on:
-  workflow_dispatch:
-
   push:
     branches:
       - main
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 jobs:
 
-  deploy:
+  rename:
 
     runs-on: ubuntu-latest
 
     steps:
 
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-        with:
-          static_site_generator: none
-
-      - name: Prepare Pages Site
+      - name: Rename CNAME.txt to CNAME
         run: |
-
-          mkdir pages
-
-          cp index.html pages/index.html
-
-          echo "bharat.vidhwaan.com" > pages/CNAME
-
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: pages
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-      - name: Show Website URL
-        run: |
-          echo "GitHub Pages deployment completed."
-          echo "Website: https://bharat.vidhwaan.com"
+          if [ -f CNAME.txt ] && [ ! -f CNAME ]; then
+            mv CNAME.txt CNAME
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add CNAME.txt CNAME
+            git commit -m "Rename CNAME.txt to CNAME"
+            git push
+          fi
